@@ -1,0 +1,840 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-09",
+  "contract": "Implementation uses intact RGB sealed/body pairs clipped at runtime to fulfill the illustrated-envelope request. This is an implementation choice, not a user instruction or a claim of source-file alpha.",
+  "builtInBodyCalls": 4,
+  "versionsPerStyle": 1,
+  "originalsUnmodified": true,
+  "referenceBody": "../arrival-envelope-body-r19.png",
+  "integrationOwner": "parent",
+  "bodies": [
+    {
+      "id": "gentle-floral",
+      "path": "gentle-floral-body.png",
+      "sealed": "gentle-floral.png",
+      "source": "/Users/junshi/.codex/generated_images/01a088cf-ca05-7180-b118-065d2d1c3c6c/exec-276f6cb5-760b-4be4-afe9-12529c272417.png",
+      "sha256": "9fd719b9870a3edb3e9cf425417ea27b70eb7f69fef1828f7f798be4adadcbf0",
+      "bytes": 2300964,
+      "width": 1536,
+      "height": 1024,
+      "pngColorType": 2,
+      "realAlpha": false,
+      "visuallyInspected": true,
+      "sealRibbonRemoved": true,
+      "sideLowerDecorationRetained": true,
+      "prompt": "Use case: precise-object-edit.\nDeliver ONE matching open-envelope BODY / stationary lining sprite, 1536x1024 RGB PNG.\nImage 1 is the exact edit target: keep its own envelope outline, dimensions, straight-on orientation, colors, illustrated materials, gold/silver outer border, side-fold ornaments and lower-corner artwork. Preserve the same rectangle around x96..1442 and y105..888. Do not crop, resize, rotate, change perspective or add anything above the rectangle.\nImage 2 is ONLY an anatomy/function reference for the existing game's stationary body underlayer. Do NOT copy its pink/blue palette or its stars into Image 1.\nRemove the WHOLE upper triangular closing flap, its flap-owned ornament, the entire central seal/jewel/setting/pendant and EVERY ribbon/bow/tail. These pieces move separately from original sealed-image pixels, so none may remain or leave a silhouette-shaped hole/shadow/ghost. Paint a continuous clean lower front envelope surface across their old location.\nShow the stationary OPEN BODY beneath: recessed upper mouth/interior, visibly darker than the outer material, running from the original top-left/top-right opening corners toward a lower center near (768,545); the pale/dark side folds and lower front remain in their original positions. This is a deep open pocket/interior, not a replacement lid or an upright flap. Add subtle inward depth and occlusion along the mouth rim. Keep all interior entirely within the original closed rectangular footprint.\nKeep the input's lavish anime illustration, crisp outlines and cel highlights. No realistic photograph, hands, writing, additional ornaments, open lid above the body, scenery or new props. RGB is allowed and expected: outside pixels will be removed with runtime CSS clipping, so do not spend changes trying to generate transparency. Return one image only.\nVariant gentle-floral: retain the pearl-blush body, mint enamel, bell blossoms and large lower-corner roses in their exact original locations. The recessed open mouth is muted dusty-rose/mauve with a darker rose rim, matching this floral stationery. Remove the flower rosette, heart gem, central leaves attached to that rosette, all central silk tails and upper-flap bell-vine decoration. Preserve stationary lower/side floral decoration.",
+      "sourceCoordinates": {
+        "canvas": [
+          1536,
+          1024
+        ],
+        "outerClipPolygonPx": [
+          [
+            100,
+            108
+          ],
+          [
+            384,
+            110
+          ],
+          [
+            768,
+            112
+          ],
+          [
+            1152,
+            109
+          ],
+          [
+            1437,
+            107
+          ],
+          [
+            1434,
+            384
+          ],
+          [
+            1434,
+            512
+          ],
+          [
+            1438,
+            768
+          ],
+          [
+            1439,
+            884
+          ],
+          [
+            1152,
+            880
+          ],
+          [
+            768,
+            878
+          ],
+          [
+            384,
+            880
+          ],
+          [
+            99,
+            884
+          ],
+          [
+            101,
+            768
+          ],
+          [
+            105,
+            512
+          ],
+          [
+            104,
+            384
+          ]
+        ],
+        "outerClipPolygon01": [
+          [
+            0.065104,
+            0.105469
+          ],
+          [
+            0.25,
+            0.107422
+          ],
+          [
+            0.5,
+            0.109375
+          ],
+          [
+            0.75,
+            0.106445
+          ],
+          [
+            0.935547,
+            0.104492
+          ],
+          [
+            0.933594,
+            0.375
+          ],
+          [
+            0.933594,
+            0.5
+          ],
+          [
+            0.936198,
+            0.75
+          ],
+          [
+            0.936849,
+            0.863281
+          ],
+          [
+            0.75,
+            0.859375
+          ],
+          [
+            0.5,
+            0.857422
+          ],
+          [
+            0.25,
+            0.859375
+          ],
+          [
+            0.064453,
+            0.863281
+          ],
+          [
+            0.065755,
+            0.75
+          ],
+          [
+            0.068359,
+            0.5
+          ],
+          [
+            0.067708,
+            0.375
+          ]
+        ],
+        "cssClipPath": "polygon(6.510% 10.547%, 25.000% 10.742%, 50.000% 10.938%, 75.000% 10.645%, 93.555% 10.449%, 93.359% 37.500%, 93.359% 50.000%, 93.620% 75.000%, 93.685% 86.328%, 75.000% 85.938%, 50.000% 85.742%, 25.000% 85.938%, 6.445% 86.328%, 6.576% 75.000%, 6.836% 50.000%, 6.771% 37.500%)",
+        "mouthBoundaryApproxPx": [
+          [
+            101,
+            112
+          ],
+          [
+            1435,
+            112
+          ],
+          [
+            1260,
+            300
+          ],
+          [
+            1008,
+            451
+          ],
+          [
+            768,
+            553
+          ],
+          [
+            528,
+            450
+          ],
+          [
+            276,
+            300
+          ]
+        ],
+        "movingFlapMainTrianglePx": [
+          [
+            98,
+            107
+          ],
+          [
+            1437,
+            107
+          ],
+          [
+            768,
+            556
+          ]
+        ],
+        "movingFlapMainTriangleCss": "polygon(6.380% 10.449%, 93.555% 10.449%, 50% 54.297%)",
+        "hingeCss": "50% 10.449%",
+        "flapAttachments": "Union with the complete variant-specific seal, attached pendant and BOTH ribbon silhouettes from the sealed image. Triangle alone is insufficient; see original geometryReview estimates. Those outlines require parent tracing/actual motion review."
+      },
+      "limitations": [
+        "Outer polygon is an inward-biased measured starting path, not a pixel-perfect matte. It trims approximately 1-4 source pixels of the mixed outer rim; source-color blending with checkerboard cannot be undone by CSS.",
+        "Closed/body border lines and ornament details were lightly redrawn by imagegen; approximate alignment is within a few source pixels, not exact image identity.",
+        "No browser integrated hover/extraction validation was run. CSS clipping changes presentation only; raw files remain RGB."
+      ]
+    },
+    {
+      "id": "bright-playful",
+      "path": "bright-playful-body.png",
+      "sealed": "bright-playful.png",
+      "source": "/Users/junshi/.codex/generated_images/01a088cf-ca05-7180-b118-065d2d1c3c6c/exec-101be9c7-27da-4d5a-b28f-4efe9efbaa25.png",
+      "sha256": "ac6c3ea8e6d049d9a454d45d6e1e069b8efa2d25f2c0116080f284a6427cb90d",
+      "bytes": 2428998,
+      "width": 1536,
+      "height": 1024,
+      "pngColorType": 2,
+      "realAlpha": false,
+      "visuallyInspected": true,
+      "sealRibbonRemoved": true,
+      "sideLowerDecorationRetained": true,
+      "prompt": "Use case: precise-object-edit.\nDeliver ONE matching open-envelope BODY / stationary lining sprite, 1536x1024 RGB PNG.\nImage 1 is the exact edit target: keep its own envelope outline, dimensions, straight-on orientation, colors, illustrated materials, gold/silver outer border, side-fold ornaments and lower-corner artwork. Preserve the same rectangle around x96..1442 and y105..888. Do not crop, resize, rotate, change perspective or add anything above the rectangle.\nImage 2 is ONLY an anatomy/function reference for the existing game's stationary body underlayer. Do NOT copy its pink/blue palette or its stars into Image 1.\nRemove the WHOLE upper triangular closing flap, its flap-owned ornament, the entire central seal/jewel/setting/pendant and EVERY ribbon/bow/tail. These pieces move separately from original sealed-image pixels, so none may remain or leave a silhouette-shaped hole/shadow/ghost. Paint a continuous clean lower front envelope surface across their old location.\nShow the stationary OPEN BODY beneath: recessed upper mouth/interior, visibly darker than the outer material, running from the original top-left/top-right opening corners toward a lower center near (768,545); the pale/dark side folds and lower front remain in their original positions. This is a deep open pocket/interior, not a replacement lid or an upright flap. Add subtle inward depth and occlusion along the mouth rim. Keep all interior entirely within the original closed rectangular footprint.\nKeep the input's lavish anime illustration, crisp outlines and cel highlights. No realistic photograph, hands, writing, additional ornaments, open lid above the body, scenery or new props. RGB is allowed and expected: outside pixels will be removed with runtime CSS clipping, so do not spend changes trying to generate transparency. Return one image only.\nVariant bright-playful: retain the pearl sky-blue front and sides, blue/coral edging, all lower/side star engravings and the four stationary corner stars in their exact locations. The recessed mouth is rich midnight azure and desaturated blue, with a warm-blue rim matching this star stationery. Remove the entire starburst seal, all central stars/pendants attached to it, every bow/tail, and every upper-flap star/comet mark. Preserve the lower-left/lower-right comets and corner blue star inlays. No floral decoration and no pink-default interior.",
+      "sourceCoordinates": {
+        "canvas": [
+          1536,
+          1024
+        ],
+        "outerClipPolygonPx": [
+          [
+            100,
+            107
+          ],
+          [
+            384,
+            109
+          ],
+          [
+            768,
+            109
+          ],
+          [
+            1152,
+            109
+          ],
+          [
+            1437,
+            107
+          ],
+          [
+            1435,
+            384
+          ],
+          [
+            1434,
+            512
+          ],
+          [
+            1437,
+            768
+          ],
+          [
+            1439,
+            887
+          ],
+          [
+            1152,
+            880
+          ],
+          [
+            768,
+            878
+          ],
+          [
+            384,
+            880
+          ],
+          [
+            99,
+            886
+          ],
+          [
+            102,
+            768
+          ],
+          [
+            104,
+            512
+          ],
+          [
+            103,
+            384
+          ]
+        ],
+        "outerClipPolygon01": [
+          [
+            0.065104,
+            0.104492
+          ],
+          [
+            0.25,
+            0.106445
+          ],
+          [
+            0.5,
+            0.106445
+          ],
+          [
+            0.75,
+            0.106445
+          ],
+          [
+            0.935547,
+            0.104492
+          ],
+          [
+            0.934245,
+            0.375
+          ],
+          [
+            0.933594,
+            0.5
+          ],
+          [
+            0.935547,
+            0.75
+          ],
+          [
+            0.936849,
+            0.866211
+          ],
+          [
+            0.75,
+            0.859375
+          ],
+          [
+            0.5,
+            0.857422
+          ],
+          [
+            0.25,
+            0.859375
+          ],
+          [
+            0.064453,
+            0.865234
+          ],
+          [
+            0.066406,
+            0.75
+          ],
+          [
+            0.067708,
+            0.5
+          ],
+          [
+            0.067057,
+            0.375
+          ]
+        ],
+        "cssClipPath": "polygon(6.510% 10.449%, 25.000% 10.645%, 50.000% 10.645%, 75.000% 10.645%, 93.555% 10.449%, 93.424% 37.500%, 93.359% 50.000%, 93.555% 75.000%, 93.685% 86.621%, 75.000% 85.938%, 50.000% 85.742%, 25.000% 85.938%, 6.445% 86.523%, 6.641% 75.000%, 6.771% 50.000%, 6.706% 37.500%)",
+        "mouthBoundaryApproxPx": [
+          [
+            101,
+            112
+          ],
+          [
+            1435,
+            112
+          ],
+          [
+            1260,
+            300
+          ],
+          [
+            1008,
+            451
+          ],
+          [
+            768,
+            553
+          ],
+          [
+            528,
+            450
+          ],
+          [
+            276,
+            300
+          ]
+        ],
+        "movingFlapMainTrianglePx": [
+          [
+            98,
+            107
+          ],
+          [
+            1437,
+            107
+          ],
+          [
+            768,
+            556
+          ]
+        ],
+        "movingFlapMainTriangleCss": "polygon(6.380% 10.449%, 93.555% 10.449%, 50% 54.297%)",
+        "hingeCss": "50% 10.449%",
+        "flapAttachments": "Union with the complete variant-specific seal, attached pendant and BOTH ribbon silhouettes from the sealed image. Triangle alone is insufficient; see original geometryReview estimates. Those outlines require parent tracing/actual motion review."
+      },
+      "limitations": [
+        "Outer polygon is an inward-biased measured starting path, not a pixel-perfect matte. It trims approximately 1-4 source pixels of the mixed outer rim; source-color blending with checkerboard cannot be undone by CSS.",
+        "Closed/body border lines and ornament details were lightly redrawn by imagegen; approximate alignment is within a few source pixels, not exact image identity.",
+        "No browser integrated hover/extraction validation was run. CSS clipping changes presentation only; raw files remain RGB."
+      ]
+    },
+    {
+      "id": "quiet-reserved",
+      "path": "quiet-reserved-body.png",
+      "sealed": "quiet-reserved.png",
+      "source": "/Users/junshi/.codex/generated_images/01a088cf-ca05-7180-b118-065d2d1c3c6c/exec-192225ae-4312-41f2-8967-f93f0f1cb2f1.png",
+      "sha256": "7230729af68158573eb321dea9ef28ffc9a0d82d3f2030266e8233930cab8988",
+      "bytes": 2238560,
+      "width": 1536,
+      "height": 1024,
+      "pngColorType": 2,
+      "realAlpha": false,
+      "visuallyInspected": true,
+      "sealRibbonRemoved": true,
+      "sideLowerDecorationRetained": true,
+      "prompt": "Use case: precise-object-edit.\nDeliver ONE matching open-envelope BODY / stationary lining sprite, 1536x1024 RGB PNG.\nImage 1 is the exact edit target: keep its own envelope outline, dimensions, straight-on orientation, colors, illustrated materials, gold/silver outer border, side-fold ornaments and lower-corner artwork. Preserve the same rectangle around x96..1442 and y105..888. Do not crop, resize, rotate, change perspective or add anything above the rectangle.\nImage 2 is ONLY an anatomy/function reference for the existing game's stationary body underlayer. Do NOT copy its pink/blue palette or its stars into Image 1.\nRemove the WHOLE upper triangular closing flap, its flap-owned ornament, the entire central seal/jewel/setting/pendant and EVERY ribbon/bow/tail. These pieces move separately from original sealed-image pixels, so none may remain or leave a silhouette-shaped hole/shadow/ghost. Paint a continuous clean lower front envelope surface across their old location.\nShow the stationary OPEN BODY beneath: recessed upper mouth/interior, visibly darker than the outer material, running from the original top-left/top-right opening corners toward a lower center near (768,545); the pale/dark side folds and lower front remain in their original positions. This is a deep open pocket/interior, not a replacement lid or an upright flap. Add subtle inward depth and occlusion along the mouth rim. Keep all interior entirely within the original closed rectangular footprint.\nKeep the input's lavish anime illustration, crisp outlines and cel highlights. No realistic photograph, hands, writing, additional ornaments, open lid above the body, scenery or new props. RGB is allowed and expected: outside pixels will be removed with runtime CSS clipping, so do not spend changes trying to generate transparency. Return one image only.\nVariant quiet-reserved: retain the cold porcelain-white/blue-grey outer body, silver perimeter, stationary side diamond/star engravings and ginkgo/frost fans at both lower corners in their exact locations. The recessed mouth is deep desaturated indigo/steel blue with a dark cool rim, coordinated with this moonlit stationery. Completely remove the silver crescent, moonstone, pearl pins attached to the seal, all pendant chains/bow/ribbon tails and upper-flap leaf tracery. Preserve lower and side decoration. No pink interior, no remaining crescent-shaped ghost.",
+      "sourceCoordinates": {
+        "canvas": [
+          1536,
+          1024
+        ],
+        "outerClipPolygonPx": [
+          [
+            102,
+            109
+          ],
+          [
+            384,
+            110
+          ],
+          [
+            768,
+            110
+          ],
+          [
+            1152,
+            109
+          ],
+          [
+            1434,
+            108
+          ],
+          [
+            1432,
+            384
+          ],
+          [
+            1432,
+            512
+          ],
+          [
+            1435,
+            768
+          ],
+          [
+            1437,
+            886
+          ],
+          [
+            1152,
+            885
+          ],
+          [
+            768,
+            884
+          ],
+          [
+            384,
+            883
+          ],
+          [
+            101,
+            885
+          ],
+          [
+            102,
+            768
+          ],
+          [
+            106,
+            512
+          ],
+          [
+            105,
+            384
+          ]
+        ],
+        "outerClipPolygon01": [
+          [
+            0.066406,
+            0.106445
+          ],
+          [
+            0.25,
+            0.107422
+          ],
+          [
+            0.5,
+            0.107422
+          ],
+          [
+            0.75,
+            0.106445
+          ],
+          [
+            0.933594,
+            0.105469
+          ],
+          [
+            0.932292,
+            0.375
+          ],
+          [
+            0.932292,
+            0.5
+          ],
+          [
+            0.934245,
+            0.75
+          ],
+          [
+            0.935547,
+            0.865234
+          ],
+          [
+            0.75,
+            0.864258
+          ],
+          [
+            0.5,
+            0.863281
+          ],
+          [
+            0.25,
+            0.862305
+          ],
+          [
+            0.065755,
+            0.864258
+          ],
+          [
+            0.066406,
+            0.75
+          ],
+          [
+            0.06901,
+            0.5
+          ],
+          [
+            0.068359,
+            0.375
+          ]
+        ],
+        "cssClipPath": "polygon(6.641% 10.645%, 25.000% 10.742%, 50.000% 10.742%, 75.000% 10.645%, 93.359% 10.547%, 93.229% 37.500%, 93.229% 50.000%, 93.424% 75.000%, 93.555% 86.523%, 75.000% 86.426%, 50.000% 86.328%, 25.000% 86.230%, 6.576% 86.426%, 6.641% 75.000%, 6.901% 50.000%, 6.836% 37.500%)",
+        "mouthBoundaryApproxPx": [
+          [
+            101,
+            112
+          ],
+          [
+            1435,
+            112
+          ],
+          [
+            1260,
+            300
+          ],
+          [
+            1008,
+            451
+          ],
+          [
+            768,
+            546
+          ],
+          [
+            528,
+            450
+          ],
+          [
+            276,
+            300
+          ]
+        ],
+        "movingFlapMainTrianglePx": [
+          [
+            98,
+            107
+          ],
+          [
+            1437,
+            107
+          ],
+          [
+            768,
+            556
+          ]
+        ],
+        "movingFlapMainTriangleCss": "polygon(6.380% 10.449%, 93.555% 10.449%, 50% 54.297%)",
+        "hingeCss": "50% 10.449%",
+        "flapAttachments": "Union with the complete variant-specific seal, attached pendant and BOTH ribbon silhouettes from the sealed image. Triangle alone is insufficient; see original geometryReview estimates. Those outlines require parent tracing/actual motion review."
+      },
+      "limitations": [
+        "Outer polygon is an inward-biased measured starting path, not a pixel-perfect matte. It trims approximately 1-4 source pixels of the mixed outer rim; source-color blending with checkerboard cannot be undone by CSS.",
+        "Closed/body border lines and ornament details were lightly redrawn by imagegen; approximate alignment is within a few source pixels, not exact image identity.",
+        "No browser integrated hover/extraction validation was run. CSS clipping changes presentation only; raw files remain RGB."
+      ]
+    },
+    {
+      "id": "enigmatic-composed",
+      "path": "enigmatic-composed-body.png",
+      "sealed": "enigmatic-composed.png",
+      "source": "/Users/junshi/.codex/generated_images/01a088cf-ca05-7180-b118-065d2d1c3c6c/exec-e0f9cd9a-ad86-4daf-8eeb-ecf3b42577fb.png",
+      "sha256": "c2e4638b7ecf8c8d5c4f32a7568bc4a12b25374a25b255a22dfcffed04bfaa0b",
+      "bytes": 2146111,
+      "width": 1536,
+      "height": 1024,
+      "pngColorType": 2,
+      "realAlpha": false,
+      "visuallyInspected": true,
+      "sealRibbonRemoved": true,
+      "sideLowerDecorationRetained": true,
+      "prompt": "Use case: precise-object-edit.\nDeliver ONE matching open-envelope BODY / stationary lining sprite, 1536x1024 RGB PNG.\nImage 1 is the exact edit target: keep its own envelope outline, dimensions, straight-on orientation, colors, illustrated materials, gold/silver outer border, side-fold ornaments and lower-corner artwork. Preserve the same rectangle around x96..1442 and y105..888. Do not crop, resize, rotate, change perspective or add anything above the rectangle.\nImage 2 is ONLY an anatomy/function reference for the existing game's stationary body underlayer. Do NOT copy its pink/blue palette or its stars into Image 1.\nRemove the WHOLE upper triangular closing flap, its flap-owned ornament, the entire central seal/jewel/setting/pendant and EVERY ribbon/bow/tail. These pieces move separately from original sealed-image pixels, so none may remain or leave a silhouette-shaped hole/shadow/ghost. Paint a continuous clean lower front envelope surface across their old location.\nShow the stationary OPEN BODY beneath: recessed upper mouth/interior, visibly darker than the outer material, running from the original top-left/top-right opening corners toward a lower center near (768,545); the pale/dark side folds and lower front remain in their original positions. This is a deep open pocket/interior, not a replacement lid or an upright flap. Add subtle inward depth and occlusion along the mouth rim. Keep all interior entirely within the original closed rectangular footprint.\nKeep the input's lavish anime illustration, crisp outlines and cel highlights. No realistic photograph, hands, writing, additional ornaments, open lid above the body, scenery or new props. RGB is allowed and expected: outside pixels will be removed with runtime CSS clipping, so do not spend changes trying to generate transparency. Return one image only.\nVariant enigmatic-composed: retain the deep teal-black lacquer-like outer folds, burgundy fold edging, warm antique-gold perimeter, original side diamond inlays and angular lower-corner fans with garnet cabochons, all in the same locations. The recessed interior mouth is dark muted black-cherry/plum with deeper near-black occlusion at the rim, matching the lacquer stationery and distinguishable from the teal exterior. Remove the full upper flap with all concentric ring/signet-linked details, hexagonal setting, garnet oval, keyhole, pendant and every central ribbon/bow/tail. Fill the lower front smoothly with the same dark teal illustrated material. No heart, moon, pink/default lining or added center medallion.",
+      "sourceCoordinates": {
+        "canvas": [
+          1536,
+          1024
+        ],
+        "outerClipPolygonPx": [
+          [
+            101,
+            108
+          ],
+          [
+            384,
+            110
+          ],
+          [
+            768,
+            111
+          ],
+          [
+            1152,
+            109
+          ],
+          [
+            1436,
+            107
+          ],
+          [
+            1433,
+            384
+          ],
+          [
+            1433,
+            512
+          ],
+          [
+            1436,
+            768
+          ],
+          [
+            1438,
+            885
+          ],
+          [
+            1152,
+            881
+          ],
+          [
+            768,
+            879
+          ],
+          [
+            384,
+            881
+          ],
+          [
+            100,
+            884
+          ],
+          [
+            102,
+            768
+          ],
+          [
+            105,
+            512
+          ],
+          [
+            104,
+            384
+          ]
+        ],
+        "outerClipPolygon01": [
+          [
+            0.065755,
+            0.105469
+          ],
+          [
+            0.25,
+            0.107422
+          ],
+          [
+            0.5,
+            0.108398
+          ],
+          [
+            0.75,
+            0.106445
+          ],
+          [
+            0.934896,
+            0.104492
+          ],
+          [
+            0.932943,
+            0.375
+          ],
+          [
+            0.932943,
+            0.5
+          ],
+          [
+            0.934896,
+            0.75
+          ],
+          [
+            0.936198,
+            0.864258
+          ],
+          [
+            0.75,
+            0.860352
+          ],
+          [
+            0.5,
+            0.858398
+          ],
+          [
+            0.25,
+            0.860352
+          ],
+          [
+            0.065104,
+            0.863281
+          ],
+          [
+            0.066406,
+            0.75
+          ],
+          [
+            0.068359,
+            0.5
+          ],
+          [
+            0.067708,
+            0.375
+          ]
+        ],
+        "cssClipPath": "polygon(6.576% 10.547%, 25.000% 10.742%, 50.000% 10.840%, 75.000% 10.645%, 93.490% 10.449%, 93.294% 37.500%, 93.294% 50.000%, 93.490% 75.000%, 93.620% 86.426%, 75.000% 86.035%, 50.000% 85.840%, 25.000% 86.035%, 6.510% 86.328%, 6.641% 75.000%, 6.836% 50.000%, 6.771% 37.500%)",
+        "mouthBoundaryApproxPx": [
+          [
+            101,
+            112
+          ],
+          [
+            1435,
+            112
+          ],
+          [
+            1260,
+            300
+          ],
+          [
+            1008,
+            451
+          ],
+          [
+            768,
+            553
+          ],
+          [
+            528,
+            450
+          ],
+          [
+            276,
+            300
+          ]
+        ],
+        "movingFlapMainTrianglePx": [
+          [
+            98,
+            107
+          ],
+          [
+            1437,
+            107
+          ],
+          [
+            768,
+            556
+          ]
+        ],
+        "movingFlapMainTriangleCss": "polygon(6.380% 10.449%, 93.555% 10.449%, 50% 54.297%)",
+        "hingeCss": "50% 10.449%",
+        "flapAttachments": "Union with the complete variant-specific seal, attached pendant and BOTH ribbon silhouettes from the sealed image. Triangle alone is insufficient; see original geometryReview estimates. Those outlines require parent tracing/actual motion review."
+      },
+      "limitations": [
+        "Outer polygon is an inward-biased measured starting path, not a pixel-perfect matte. It trims approximately 1-4 source pixels of the mixed outer rim; source-color blending with checkerboard cannot be undone by CSS.",
+        "Closed/body border lines and ornament details were lightly redrawn by imagegen; approximate alignment is within a few source pixels, not exact image identity.",
+        "No browser integrated hover/extraction validation was run. CSS clipping changes presentation only; raw files remain RGB."
+      ]
+    }
+  ]
+}

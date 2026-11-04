@@ -1,0 +1,12 @@
+{
+  "scope": "Two adult preset story-stage pilots only; canonical avatars and user custom artwork unchanged",
+  "generator": "built-in image_gen",
+  "direction": "docs/ART_DIRECTION.md; lavish romantic 2D anime, drawn contours and cel shading, no IP clone",
+  "background": "Opaque matching illustrated world backgrounds; rejected first RGB checkerboard candidate is not shipped",
+  "assets": [
+    { "url": "/assets/phone-story/bond-pilot-r20/luchen-neutral.png", "alpha": false, "reference": "/assets/phone-story/portrait-luchen-v2.png", "prompt": "Original adult East Asian man, tousled black hair, brown eyes, black open-collar shirt and black wristwatch. Neutral attentive. Polished 2D anime linework and cel-shaded body; rainy apartment at twilight. Complete hair, upper thighs, no text or orbs." },
+    { "url": "/assets/phone-story/bond-pilot-r20/luchen-warm.png", "alpha": false, "reference": "/assets/phone-story/bond-pilot-r20/luchen-neutral.png", "prompt": "Identity-preserving warm response: softened eyes, visible gentle smile, relaxed open palm lifted from armrest. Keep head scale, hair, wardrobe, adult identity and illustrated rainy apartment composition aligned." },
+    { "url": "/assets/phone-story/bond-pilot-r20/amara-neutral.png", "alpha": false, "reference": "/assets/phone-story/presets/modern-workplace/strategist-amara-okafor.png", "prompt": "Original adult Black woman, rich dark brown skin, black curly high updo, brown eyes, blue collared blouse, charcoal trousers, gold earrings necklace and watch, black portfolio. Neutral attentive. Match Lu's drawn 2D anime contours and cel shading; illustrated dusk workplace. No skin lightening, CG, text or orbs." },
+    { "url": "/assets/phone-story/bond-pilot-r20/amara-warm.png", "alpha": false, "reference": "/assets/phone-story/bond-pilot-r20/amara-neutral.png", "prompt": "Identity-preserving warm response: softened eyes, clearly warmer slightly parted smile, left hand resting near lower chest. Preserve dark skin hue, hair silhouette, gold jewelry, blue blouse, portfolio, composition and illustrated office background." }
+  ]
+}

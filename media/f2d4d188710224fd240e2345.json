@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "packId": "memes-v1",
+  "assetType": "messaging-sticker",
+  "generatedAt": "2026-09-04",
+  "assets": [
+    {
+      "id": "memes-v1.o-rly",
+      "path": "o-rly.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "O RLY? 真的吗", "en": "O RLY? Really?", "ja": "O RLY? 本当に？", "ko": "O RLY? 정말?", "es": "O RLY? ¿En serio?" },
+      "dimensions": { "width": 340, "height": 340 },
+      "mimeType": "image/png",
+      "byteLength": 224051,
+      "sha256": "5df8e89ad16df6d18f17415701e08c7bcb20aab0b2c8516fe94aef7c9c62d164"
+    },
+    {
+      "id": "memes-v1.grumpy-cat",
+      "path": "grumpy-cat.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "Grumpy Cat 不高兴", "en": "Grumpy Cat: not impressed", "ja": "Grumpy Cat ご機嫌ななめ", "ko": "Grumpy Cat 심드렁", "es": "Grumpy Cat: no me impresiona" },
+      "dimensions": { "width": 800, "height": 800 },
+      "mimeType": "image/png",
+      "byteLength": 5820,
+      "sha256": "d815dbf0a04bb58405afeab22aaa53d7cecdcf41af2caa2bd94f2808712ff09f"
+    },
+    {
+      "id": "memes-v1.facepalm",
+      "path": "facepalm.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "扶额 Facepalm", "en": "Facepalm: not again" },
+      "dimensions": { "width": 512, "height": 512 },
+      "mimeType": "image/png",
+      "byteLength": 155817,
+      "sha256": "bd1e7c6abc5da1bb58944eb957d1bd8fd66ceaa1df0432bf25607258c2907381"
+    },
+    {
+      "id": "memes-v1.the-scream",
+      "path": "the-scream.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "呐喊 啊啊啊", "en": "The Scream: aaah!" },
+      "dimensions": { "width": 512, "height": 512 },
+      "mimeType": "image/png",
+      "byteLength": 191304,
+      "sha256": "9c55d1f8c189449c454ca1a794cb0bc33c91c4c2d9c5c25f1fad23cf4ef3ea05"
+    },
+    {
+      "id": "memes-v1.doge",
+      "path": "doge.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "Doge 哇哦", "en": "Doge: such wow" },
+      "dimensions": { "width": 512, "height": 463 },
+      "mimeType": "image/png",
+      "byteLength": 117072,
+      "sha256": "64dd7ad78345a294cb7f5278db58d0303421413a96cee4c5ae67d587a6347a14"
+    },
+    {
+      "id": "memes-v1.awesome-face",
+      "path": "awesome-face.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "Awesome Face 嘿嘿", "en": "Awesome Face: heh heh" },
+      "dimensions": { "width": 512, "height": 512 },
+      "mimeType": "image/png",
+      "byteLength": 9653,
+      "sha256": "b9b10aa7c311528d36fb0b2edd4118499f0fc036718506c2ed5d3315d8e96274"
+    },
+    {
+      "id": "memes-v1.kilroy",
+      "path": "kilroy.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "Kilroy 到此一游", "en": "Kilroy was here" },
+      "dimensions": { "width": 512, "height": 337 },
+      "mimeType": "image/png",
+      "byteLength": 13033,
+      "sha256": "fe01e1b348c38b3025da00049e7a89fc044e79a5fb3ce0be084f22ec15ee8871"
+    },
+    {
+      "id": "memes-v1.bored-cherubs",
+      "path": "bored-cherubs.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "小天使发呆", "en": "Bored cherubs" },
+      "dimensions": { "width": 512, "height": 355 },
+      "mimeType": "image/png",
+      "byteLength": 118870,
+      "sha256": "cbbcd9108344ee833482391d9601539d4794767010dc82d64a1eb00291cd5b63"
+    },
+    {
+      "id": "memes-v1.cheezburger",
+      "path": "cheezburger.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "I can has cheezburger? 想吃汉堡", "en": "I can has cheezburger?" },
+      "dimensions": { "width": 512, "height": 384 },
+      "mimeType": "image/png",
+      "byteLength": 114431,
+      "sha256": "398eb222ee4b71828479f16feb136f8c6457309165831cfc629525956f5fd0fd"
+    },
+    {
+      "id": "memes-v1.lolwut",
+      "path": "lolwut.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "LOLWUT 啥？", "en": "LOLWUT?" },
+      "dimensions": { "width": 512, "height": 384 },
+      "mimeType": "image/png",
+      "byteLength": 113999,
+      "sha256": "c7db6c347aa7895f98d3ac6d01f09adeb55e900adc8688d015679df4fd764f50"
+    },
+    {
+      "id": "memes-v1.fail-cat",
+      "path": "fail-cat.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "FAIL 翻车了", "en": "Fail cat" },
+      "dimensions": { "width": 512, "height": 384 },
+      "mimeType": "image/png",
+      "byteLength": 113463,
+      "sha256": "b6c5e503dbcdd201700a021c64608394466327d75cca337c9f39b47e846adb56"
+    },
+    {
+      "id": "memes-v1.now-what",
+      "path": "now-what.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "猫猫：然后呢？", "en": "Lolcat: now what?" },
+      "dimensions": { "width": 512, "height": 384 },
+      "mimeType": "image/png",
+      "byteLength": 131471,
+      "sha256": "b7a217fec51922931c443a1bac7f4e4165f86badff255d48fd3b6f103e2e699a"
+    },
+    {
+      "id": "memes-v1.kitty-scared",
+      "path": "kitty-scared.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "猫猫被吓到了", "en": "Lolcat: you scared me" },
+      "dimensions": { "width": 512, "height": 459 },
+      "mimeType": "image/png",
+      "byteLength": 149026,
+      "sha256": "f83fe5d19b3668c07822a8d0a8cad76d55cae750f21a44de3466b62befda450a"
+    },
+    {
+      "id": "memes-v1.help",
+      "path": "help.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "救命！", "en": "Lolcat: help!" },
+      "dimensions": { "width": 430, "height": 512 },
+      "mimeType": "image/png",
+      "byteLength": 115007,
+      "sha256": "8f518df541b1c6f49c6bf0ad1a8e1bc1b87f5055a5550af0f107ecdd938e067a"
+    },
+    {
+      "id": "memes-v1.dinner",
+      "path": "dinner.png",
+      "category": "internet-meme",
+      "labels": { "zh-CN": "我的饭呢？", "en": "Lolcat: where's my dinner?" },
+      "dimensions": { "width": 291, "height": 293 },
+      "mimeType": "image/png",
+      "byteLength": 125621,
+      "sha256": "48a0b8dbc0ed702d21a46c08520fbf41ec1e4dd98ef18f088ac36d4a86e88b8e"
+    }
+  ]
+}

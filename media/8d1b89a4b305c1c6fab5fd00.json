@@ -1,0 +1,20 @@
+{
+  "task": "create0201e",
+  "tool": "built-in image_gen",
+  "model": "undisclosed by tool (GPT Image 2 preferred, not verifiable)",
+  "transparent_background": true,
+  "calls": 4,
+  "selected": [
+    "exec-b684eb7e-a03f-4436-bcd3-49db39d6d3a8.png",
+    "exec-b7a9c824-5252-46b0-8f1e-2ff80fbb4bdf.png"
+  ],
+  "rejected": [
+    "First two outputs had an overly thick inflated rim; inspected, excluded."
+  ],
+  "prompt": "A single delicate SOAP BUBBLE UI sprite on transparent background. Perfect centered circle in a square image, 95% image width. The bubble is EMPTY AIR: at least 94% of its diameter is entirely clear transparent hollow center, transparent alpha zero. Only an extremely THIN hairline soap-film circumference, thickness about 1% of circle diameter, with a very narrow translucent iridescent pink, gold, lilac edge. A soft narrow white crescent streak, thickness 1% diameter, along a short upper left arc, and one tiny white gleam lower right. Romantic polished anime illustration. Needs to look like a real floating soap bubble, extremely airy, NOT a thick torus/ring/donut, not a solid glass ball, no bevel or volumetric inflated rim. No text or design inside circle. No shadow, no background. 1024 square transparent PNG.",
+  "variantB": "lilac lower left, rose gold upper right, white reflection upper right; even thinner film",
+  "derivative": "Uniform 1254 square to 384 square Lanczos resize, WebP quality95, alpha retained; no drawing/trace/stretch",
+  "inspection": "Every generated output viewed at400px; selected two thin-film sprites. Context review and owner acceptance tracked in evidence.",
+  "shimmer": "Existing generated tap-effects/reality/C/1.webp; asset reused without edits",
+  "cost": "Tool does not expose monetary usage"
+}

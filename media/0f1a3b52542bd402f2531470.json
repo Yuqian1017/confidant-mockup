@@ -1,0 +1,1256 @@
+{
+  "schemaVersion": 1,
+  "packId": "phone-story.core-v1",
+  "assetType": "messaging-sticker",
+  "generatedAt": "2026-09-04",
+  "assets": [
+    {
+      "id": "core-v1.warm-greeting",
+      "path": "warm-greeting.png",
+      "category": "greeting",
+      "labels": {
+        "zh-CN": "暖暖地打招呼",
+        "en": "Warm hello",
+        "ja": "あたたかなごあいさつ",
+        "ko": "따뜻한 인사",
+        "es": "Un saludo cálido"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 185089,
+      "sha256": "4db7b6782653830344a454ec1eae83e2ecf4aced0728f1a2caea49d1586eb977"
+    },
+    {
+      "id": "core-v1.caring-tea",
+      "path": "caring-tea.png",
+      "category": "care",
+      "labels": {
+        "zh-CN": "给你一杯热茶",
+        "en": "Caring tea",
+        "ja": "あたたかいお茶をどうぞ",
+        "ko": "따뜻한 차 한 잔",
+        "es": "Una taza de té para ti"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 206154,
+      "sha256": "247afd88a9a8831c7cd32c1050d271d4dfb69aed3ade5dcb583725d81a2b900f"
+    },
+    {
+      "id": "core-v1.rainy-umbrella",
+      "path": "rainy-umbrella.png",
+      "category": "care",
+      "labels": {
+        "zh-CN": "一起撑伞",
+        "en": "Share an umbrella",
+        "ja": "一緒に傘をさそう",
+        "ko": "우산을 함께 써요",
+        "es": "Compartimos el paraguas"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 244500,
+      "sha256": "c65f5cff82800fb760127888a25c0a42f9236673fcc822bb0f1a55413f94d3ca"
+    },
+    {
+      "id": "core-v1.paper-airplane",
+      "path": "paper-airplane.png",
+      "category": "message",
+      "labels": {
+        "zh-CN": "给你捎个消息",
+        "en": "A message for you",
+        "ja": "メッセージを届ける",
+        "ko": "마음을 담은 메시지",
+        "es": "Un mensaje para ti"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 123014,
+      "sha256": "9e4f90503c0da8101531d10a5b0d5b18fadfaec14b842848757530fe8c7d5b09"
+    },
+    {
+      "id": "core-v1.pinky-promise",
+      "path": "pinky-promise.png",
+      "category": "bond",
+      "labels": {
+        "zh-CN": "拉钩约定",
+        "en": "Pinky promise",
+        "ja": "指切りの約束",
+        "ko": "새끼손가락 약속",
+        "es": "Promesa de meñique"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 208332,
+      "sha256": "faad1ddb6b2082165afa8cb9a7215acd6d787f38f55178546579ed2c51d367a7"
+    },
+    {
+      "id": "core-v1.moonlit-goodnight",
+      "path": "moonlit-goodnight.png",
+      "category": "goodnight",
+      "labels": {
+        "zh-CN": "月夜晚安",
+        "en": "Moonlit goodnight",
+        "ja": "月夜のおやすみ",
+        "ko": "달빛 아래 잘 자요",
+        "es": "Buenas noches bajo la luna"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 177372,
+      "sha256": "b439abce93673627db184da42725c9412d8bf5c97e74fa1a9145d58ba37364eb"
+    },
+    {
+      "id": "core-v1.cat-hello",
+      "path": "cat-atlas.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "奶白猫 · 打招呼",
+        "en": "Milk Cat · Hello",
+        "ja": "ミルク猫 · こんにちは",
+        "ko": "밀크 고양이 · 안녕",
+        "es": "Gato blanco · Hola"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2138085,
+      "sha256": "e6ac7dc404d9c001a7e0fa218125d45a2189bd015b7add77229a98c32eab123b",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.cat-love",
+      "path": "cat-atlas.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "奶白猫 · 喜欢你",
+        "en": "Milk Cat · Affection",
+        "ja": "ミルク猫 · 大好き",
+        "ko": "밀크 고양이 · 좋아해",
+        "es": "Gato blanco · Cariño"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2138085,
+      "sha256": "e6ac7dc404d9c001a7e0fa218125d45a2189bd015b7add77229a98c32eab123b",
+      "frame": {
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.cat-laugh",
+      "path": "cat-atlas.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "奶白猫 · 笑出眼泪",
+        "en": "Milk Cat · Laughing",
+        "ja": "ミルク猫 · 大笑い",
+        "ko": "밀크 고양이 · 빵 터짐",
+        "es": "Gato blanco · Risa"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2138085,
+      "sha256": "e6ac7dc404d9c001a7e0fa218125d45a2189bd015b7add77229a98c32eab123b",
+      "frame": {
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.cat-sad",
+      "path": "cat-atlas.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "奶白猫 · 有点委屈",
+        "en": "Milk Cat · Feeling sad",
+        "ja": "ミルク猫 · しょんぼり",
+        "ko": "밀크 고양이 · 시무룩",
+        "es": "Gato blanco · Triste"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2138085,
+      "sha256": "e6ac7dc404d9c001a7e0fa218125d45a2189bd015b7add77229a98c32eab123b",
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.cat-cheer",
+      "path": "cat-atlas.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "奶白猫 · 给你打气",
+        "en": "Milk Cat · Cheering you on",
+        "ja": "ミルク猫 · 応援してる",
+        "ko": "밀크 고양이 · 응원해",
+        "es": "Gato blanco · Ánimo"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2138085,
+      "sha256": "e6ac7dc404d9c001a7e0fa218125d45a2189bd015b7add77229a98c32eab123b",
+      "frame": {
+        "x": 512,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.cat-sleep",
+      "path": "cat-atlas.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "奶白猫 · 晚安",
+        "en": "Milk Cat · Good night",
+        "ja": "ミルク猫 · おやすみ",
+        "ko": "밀크 고양이 · 잘 자",
+        "es": "Gato blanco · Buenas noches"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2138085,
+      "sha256": "e6ac7dc404d9c001a7e0fa218125d45a2189bd015b7add77229a98c32eab123b",
+      "frame": {
+        "x": 1024,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.dog-hello",
+      "path": "dog-atlas.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "垂耳犬 · 打招呼",
+        "en": "Floppy Pup · Hello",
+        "ja": "たれ耳の子犬 · こんにちは",
+        "ko": "늘어진 귀 강아지 · 안녕",
+        "es": "Cachorro · Hola"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2247371,
+      "sha256": "b20a7465cb5dd97e72d94075b99902e4cd1b118aef911d3160c8474c01d872c2",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.dog-love",
+      "path": "dog-atlas.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "垂耳犬 · 喜欢你",
+        "en": "Floppy Pup · Affection",
+        "ja": "たれ耳の子犬 · 大好き",
+        "ko": "늘어진 귀 강아지 · 좋아해",
+        "es": "Cachorro · Cariño"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2247371,
+      "sha256": "b20a7465cb5dd97e72d94075b99902e4cd1b118aef911d3160c8474c01d872c2",
+      "frame": {
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.dog-laugh",
+      "path": "dog-atlas.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "垂耳犬 · 笑出眼泪",
+        "en": "Floppy Pup · Laughing",
+        "ja": "たれ耳の子犬 · 大笑い",
+        "ko": "늘어진 귀 강아지 · 빵 터짐",
+        "es": "Cachorro · Risa"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2247371,
+      "sha256": "b20a7465cb5dd97e72d94075b99902e4cd1b118aef911d3160c8474c01d872c2",
+      "frame": {
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.dog-sad",
+      "path": "dog-atlas.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "垂耳犬 · 有点委屈",
+        "en": "Floppy Pup · Feeling sad",
+        "ja": "たれ耳の子犬 · しょんぼり",
+        "ko": "늘어진 귀 강아지 · 시무룩",
+        "es": "Cachorro · Triste"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2247371,
+      "sha256": "b20a7465cb5dd97e72d94075b99902e4cd1b118aef911d3160c8474c01d872c2",
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.dog-cheer",
+      "path": "dog-atlas.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "垂耳犬 · 给你打气",
+        "en": "Floppy Pup · Cheering you on",
+        "ja": "たれ耳の子犬 · 応援してる",
+        "ko": "늘어진 귀 강아지 · 응원해",
+        "es": "Cachorro · Ánimo"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2247371,
+      "sha256": "b20a7465cb5dd97e72d94075b99902e4cd1b118aef911d3160c8474c01d872c2",
+      "frame": {
+        "x": 512,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.dog-sleep",
+      "path": "dog-atlas.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "垂耳犬 · 晚安",
+        "en": "Floppy Pup · Good night",
+        "ja": "たれ耳の子犬 · おやすみ",
+        "ko": "늘어진 귀 강아지 · 잘 자",
+        "es": "Cachorro · Buenas noches"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2247371,
+      "sha256": "b20a7465cb5dd97e72d94075b99902e4cd1b118aef911d3160c8474c01d872c2",
+      "frame": {
+        "x": 1024,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.jelly-hello",
+      "path": "jelly-atlas.png",
+      "category": "jelly",
+      "labels": {
+        "zh-CN": "薄荷果冻 · 打招呼",
+        "en": "Mint Jelly · Hello",
+        "ja": "ミントゼリー · こんにちは",
+        "ko": "민트 젤리 · 안녕",
+        "es": "Gelatina menta · Hola"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2153191,
+      "sha256": "bfcdbc92f6faee9d5ba3525897aacd9f6d32b71fa54dd7b3702684f52d8f3525",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.jelly-love",
+      "path": "jelly-atlas.png",
+      "category": "jelly",
+      "labels": {
+        "zh-CN": "薄荷果冻 · 喜欢你",
+        "en": "Mint Jelly · Affection",
+        "ja": "ミントゼリー · 大好き",
+        "ko": "민트 젤리 · 좋아해",
+        "es": "Gelatina menta · Cariño"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2153191,
+      "sha256": "bfcdbc92f6faee9d5ba3525897aacd9f6d32b71fa54dd7b3702684f52d8f3525",
+      "frame": {
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.jelly-laugh",
+      "path": "jelly-atlas.png",
+      "category": "jelly",
+      "labels": {
+        "zh-CN": "薄荷果冻 · 笑出眼泪",
+        "en": "Mint Jelly · Laughing",
+        "ja": "ミントゼリー · 大笑い",
+        "ko": "민트 젤리 · 빵 터짐",
+        "es": "Gelatina menta · Risa"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2153191,
+      "sha256": "bfcdbc92f6faee9d5ba3525897aacd9f6d32b71fa54dd7b3702684f52d8f3525",
+      "frame": {
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.jelly-sad",
+      "path": "jelly-atlas.png",
+      "category": "jelly",
+      "labels": {
+        "zh-CN": "薄荷果冻 · 有点委屈",
+        "en": "Mint Jelly · Feeling sad",
+        "ja": "ミントゼリー · しょんぼり",
+        "ko": "민트 젤리 · 시무룩",
+        "es": "Gelatina menta · Triste"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2153191,
+      "sha256": "bfcdbc92f6faee9d5ba3525897aacd9f6d32b71fa54dd7b3702684f52d8f3525",
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.jelly-cheer",
+      "path": "jelly-atlas.png",
+      "category": "jelly",
+      "labels": {
+        "zh-CN": "薄荷果冻 · 给你打气",
+        "en": "Mint Jelly · Cheering you on",
+        "ja": "ミントゼリー · 応援してる",
+        "ko": "민트 젤리 · 응원해",
+        "es": "Gelatina menta · Ánimo"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2153191,
+      "sha256": "bfcdbc92f6faee9d5ba3525897aacd9f6d32b71fa54dd7b3702684f52d8f3525",
+      "frame": {
+        "x": 512,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.jelly-sleep",
+      "path": "jelly-atlas.png",
+      "category": "jelly",
+      "labels": {
+        "zh-CN": "薄荷果冻 · 晚安",
+        "en": "Mint Jelly · Good night",
+        "ja": "ミントゼリー · おやすみ",
+        "ko": "민트 젤리 · 잘 자",
+        "es": "Gelatina menta · Buenas noches"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2153191,
+      "sha256": "bfcdbc92f6faee9d5ba3525897aacd9f6d32b71fa54dd7b3702684f52d8f3525",
+      "frame": {
+        "x": 1024,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.cat-hug",
+      "path": "cat-together-atlas.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "奶白猫 · 抱抱",
+        "en": "Milk Cat · Hug",
+        "ja": "ミルク猫 · ハグ",
+        "ko": "밀크 고양이 · 포옹",
+        "es": "Gato blanco · Abrazo"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2289688,
+      "sha256": "7735bffb5c194ecb4889b775a380413bb4d8207d66becfa08cae36b5a1d99b88",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.cat-nuzzle",
+      "path": "cat-together-atlas.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "奶白猫 · 贴贴",
+        "en": "Milk Cat · Nuzzle",
+        "ja": "ミルク猫 · すりすり",
+        "ko": "밀크 고양이 · 부비부비",
+        "es": "Gato blanco · Mimos"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2289688,
+      "sha256": "7735bffb5c194ecb4889b775a380413bb4d8207d66becfa08cae36b5a1d99b88",
+      "frame": {
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.cat-handhold",
+      "path": "cat-together-atlas.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "奶白猫 · 牵手",
+        "en": "Milk Cat · Hold hands",
+        "ja": "ミルク猫 · 手をつなぐ",
+        "ko": "밀크 고양이 · 손잡기",
+        "es": "Gato blanco · De la mano"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2289688,
+      "sha256": "7735bffb5c194ecb4889b775a380413bb4d8207d66becfa08cae36b5a1d99b88",
+      "frame": {
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.cat-cheek-kiss",
+      "path": "cat-together-atlas.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "奶白猫 · 亲亲脸",
+        "en": "Milk Cat · Kiss on the cheek",
+        "ja": "ミルク猫 · ほっぺにキス",
+        "ko": "밀크 고양이 · 볼 뽀뽀",
+        "es": "Gato blanco · Beso en la mejilla"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2289688,
+      "sha256": "7735bffb5c194ecb4889b775a380413bb4d8207d66becfa08cae36b5a1d99b88",
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.cat-cuddle",
+      "path": "cat-together-atlas.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "奶白猫 · 一起窝着",
+        "en": "Milk Cat · Cuddle together",
+        "ja": "ミルク猫 · 一緒にぬくぬく",
+        "ko": "밀크 고양이 · 함께 꼭 안기",
+        "es": "Gato blanco · Acurrucados"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2289688,
+      "sha256": "7735bffb5c194ecb4889b775a380413bb4d8207d66becfa08cae36b5a1d99b88",
+      "frame": {
+        "x": 512,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.cat-miss-you",
+      "path": "cat-together-atlas.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "奶白猫 · 想你啦",
+        "en": "Milk Cat · Miss you",
+        "ja": "ミルク猫 · 会いたかった",
+        "ko": "밀크 고양이 · 보고 싶어",
+        "es": "Gato blanco · Te extraño"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2289688,
+      "sha256": "7735bffb5c194ecb4889b775a380413bb4d8207d66becfa08cae36b5a1d99b88",
+      "frame": {
+        "x": 1024,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.dog-hug",
+      "path": "dog-together-atlas.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "垂耳犬 · 抱抱",
+        "en": "Floppy Pup · Hug",
+        "ja": "たれ耳の子犬 · ハグ",
+        "ko": "늘어진 귀 강아지 · 포옹",
+        "es": "Cachorro · Abrazo"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2366897,
+      "sha256": "8e93444996bab15c334375bbf82458349b99e2cb45fa22bdbc22fc29d6983966",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.dog-nuzzle",
+      "path": "dog-together-atlas.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "垂耳犬 · 贴贴",
+        "en": "Floppy Pup · Nuzzle",
+        "ja": "たれ耳の子犬 · すりすり",
+        "ko": "늘어진 귀 강아지 · 부비부비",
+        "es": "Cachorro · Mimos"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2366897,
+      "sha256": "8e93444996bab15c334375bbf82458349b99e2cb45fa22bdbc22fc29d6983966",
+      "frame": {
+        "x": 512,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.dog-handhold",
+      "path": "dog-together-atlas.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "垂耳犬 · 牵手",
+        "en": "Floppy Pup · Hold hands",
+        "ja": "たれ耳の子犬 · 手をつなぐ",
+        "ko": "늘어진 귀 강아지 · 손잡기",
+        "es": "Cachorro · De la mano"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2366897,
+      "sha256": "8e93444996bab15c334375bbf82458349b99e2cb45fa22bdbc22fc29d6983966",
+      "frame": {
+        "x": 1024,
+        "y": 0,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.dog-cheek-kiss",
+      "path": "dog-together-atlas.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "垂耳犬 · 亲亲脸",
+        "en": "Floppy Pup · Kiss on the cheek",
+        "ja": "たれ耳の子犬 · ほっぺにキス",
+        "ko": "늘어진 귀 강아지 · 볼 뽀뽀",
+        "es": "Cachorro · Beso en la mejilla"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2366897,
+      "sha256": "8e93444996bab15c334375bbf82458349b99e2cb45fa22bdbc22fc29d6983966",
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.dog-cuddle",
+      "path": "dog-together-atlas.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "垂耳犬 · 一起窝着",
+        "en": "Floppy Pup · Cuddle together",
+        "ja": "たれ耳の子犬 · 一緒にぬくぬく",
+        "ko": "늘어진 귀 강아지 · 함께 꼭 안기",
+        "es": "Cachorro · Acurrucados"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2366897,
+      "sha256": "8e93444996bab15c334375bbf82458349b99e2cb45fa22bdbc22fc29d6983966",
+      "frame": {
+        "x": 512,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.dog-miss-you",
+      "path": "dog-together-atlas.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "垂耳犬 · 想你啦",
+        "en": "Floppy Pup · Miss you",
+        "ja": "たれ耳の子犬 · 会いたかった",
+        "ko": "늘어진 귀 강아지 · 보고 싶어",
+        "es": "Cachorro · Te extraño"
+      },
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "mimeType": "image/png",
+      "byteLength": 2366897,
+      "sha256": "8e93444996bab15c334375bbf82458349b99e2cb45fa22bdbc22fc29d6983966",
+      "frame": {
+        "x": 1024,
+        "y": 512,
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "id": "core-v1.cat-salute",
+      "path": "cat-salute.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "收到！",
+        "en": "On it!"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 79152,
+      "sha256": "0b81b5ee78b77520c00b72bca54b6e4fc09d6890351962ab9f4052f7b7d3c904"
+    },
+    {
+      "id": "core-v1.cat-facepalm",
+      "path": "cat-facepalm.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "捂脸",
+        "en": "Facepalm"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 86255,
+      "sha256": "2cad1fe4f100f65f243f79f985e5fad8bc048f15f34cbe81b25bddfbf62abec7"
+    },
+    {
+      "id": "core-v1.cat-side-eye",
+      "path": "cat-side-eye.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "斜眼",
+        "en": "Side-eye"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 78126,
+      "sha256": "6087a180b0acadbc7be18d535a0b86a77791c2f9a9a6de5cc2337968ee8bf062"
+    },
+    {
+      "id": "core-v1.cat-collapse",
+      "path": "cat-collapse.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "摆烂",
+        "en": "I'm done"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 62476,
+      "sha256": "24182a3e8f2b1f0dc8f27e75d880a1bdb99630d56abd0a321365c0ed69046ce4"
+    },
+    {
+      "id": "core-v1.cat-huh",
+      "path": "cat-huh.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "问号",
+        "en": "Huh?"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 79914,
+      "sha256": "ceead25f3b4a3f72807ec1151e9e8ac50f197d26acc84be8ee3b4db81fbf5c1b"
+    },
+    {
+      "id": "core-v1.cat-burrito",
+      "path": "cat-burrito.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "不想起床",
+        "en": "Five more minutes"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 78896,
+      "sha256": "a2590c12326b85c789f44184fdbed15937c89eebc8e8daa95d3a9b76d3668701"
+    },
+    {
+      "id": "core-v1.cat-peek",
+      "path": "cat-peek.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "偷看",
+        "en": "Peeking"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 78678,
+      "sha256": "1ddfba27df47d92c6198e035af745799417a0b0b96efe459efdef6b0e9004ec4"
+    },
+    {
+      "id": "core-v1.cat-heart-hands",
+      "path": "cat-heart-hands.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "比心",
+        "en": "Heart hands"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 81762,
+      "sha256": "330e96a3c59fff4ee1daf9a718462b179b86085f525e908019e367f10b6d2c88"
+    },
+    {
+      "id": "core-v1.cat-thanks",
+      "path": "cat-thanks.png",
+      "category": "cat",
+      "labels": {
+        "zh-CN": "谢谢",
+        "en": "Thank you"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 76766,
+      "sha256": "9ec39700faf9198870c8a0bfce1b7015c5d4e0c6291b6343f023298a8bcb9c5d"
+    },
+    {
+      "id": "core-v1.dog-ok",
+      "path": "dog-ok.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "OK！",
+        "en": "OK!"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 83005,
+      "sha256": "93a6d29e2122c8ca3cfcec5bfbd4c0afd1eeed8b3ab1aa00501b6e1bc4409961"
+    },
+    {
+      "id": "core-v1.dog-please",
+      "path": "dog-please.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "求求了",
+        "en": "Pretty please"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 98299,
+      "sha256": "04c388009221e90c2e12de0a9c8845c7d3114a1552f704d5e9a823dff79b4b8b"
+    },
+    {
+      "id": "core-v1.dog-dance",
+      "path": "dog-dance.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "开心跳舞",
+        "en": "Happy dance"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 89005,
+      "sha256": "3e51deb09042f502794c14c4e12dc37356c826d7e6ba0c59a0da3056572824b6"
+    },
+    {
+      "id": "core-v1.dog-dead",
+      "path": "dog-dead.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "笑死",
+        "en": "LOL, I'm dead"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 72472,
+      "sha256": "b1e6c23ab5cd8b90d3f6fee0c26259edf8a11aaf2df8d137ad2b4f845f5a3d64"
+    },
+    {
+      "id": "core-v1.dog-hungry",
+      "path": "dog-hungry.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "饿了",
+        "en": "Hungry"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 90143,
+      "sha256": "18db772db57a5a639ee8764cd68accf88b6eee6cc1d2388bf86262cf0c6f5cac"
+    },
+    {
+      "id": "core-v1.dog-hug-me",
+      "path": "dog-hug-me.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "求抱抱",
+        "en": "Hug me!"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 83225,
+      "sha256": "77ae53926100a343f59a06c9c12c9c26b2f36dd1637d47f8be6669e8f6ff897b"
+    },
+    {
+      "id": "core-v1.dog-pat",
+      "path": "dog-pat.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "摸摸头",
+        "en": "Pat pat"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 94296,
+      "sha256": "e8b29c09cd595e87e83d2c39cbacf2b48018e3cc797ae698633ae3beaa6d81e4"
+    },
+    {
+      "id": "core-v1.dog-fine",
+      "path": "dog-fine.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "强颜欢笑",
+        "en": "I'm fine"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 93764,
+      "sha256": "f603c410a2820aaae48fa2829b6317ec2e9d5471775aed847fae57eef3ef1cd4"
+    },
+    {
+      "id": "core-v1.dog-working",
+      "path": "dog-working.png",
+      "category": "dog",
+      "labels": {
+        "zh-CN": "打工中",
+        "en": "Working hard"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 83688,
+      "sha256": "4792c7a83f5f64440500e47984b210070d7d4f55704aceb5ab7cc08fca119f0d"
+    },
+    {
+      "id": "core-v1.jelly-melting",
+      "path": "jelly-melting.png",
+      "category": "jelly",
+      "labels": {
+        "zh-CN": "融化",
+        "en": "Melting"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 75763,
+      "sha256": "6738181b6c97d5c8a65c5372d632c9055d63a83eb543b5e74ffe2c31e7530918"
+    },
+    {
+      "id": "core-v1.jelly-shook",
+      "path": "jelly-shook.png",
+      "category": "jelly",
+      "labels": {
+        "zh-CN": "震惊",
+        "en": "Shook"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 63880,
+      "sha256": "7d51f838fb0f07b5de9edc7aeebbf564380a1683b6aba66f9d0334fab79be070"
+    },
+    {
+      "id": "core-v1.jelly-hmph",
+      "path": "jelly-hmph.png",
+      "category": "jelly",
+      "labels": {
+        "zh-CN": "生气",
+        "en": "Hmph"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 77071,
+      "sha256": "2a99fc294124517aa6bf91ed55798f213c765f0ebbdec5548b5074086c2c8422"
+    },
+    {
+      "id": "core-v1.jelly-blank",
+      "path": "jelly-blank.png",
+      "category": "jelly",
+      "labels": {
+        "zh-CN": "放空",
+        "en": "Head empty"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 64075,
+      "sha256": "b7aab62951a4a7ff213c869b1e01596d73a45073654433173cbec9a1a5a42928"
+    },
+    {
+      "id": "core-v1.jelly-popcorn",
+      "path": "jelly-popcorn.png",
+      "category": "jelly",
+      "labels": {
+        "zh-CN": "吃瓜看戏",
+        "en": "Popcorn time"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 70880,
+      "sha256": "b1524ecf49454ccf7eddfcef9215c68bda501230ffc96cb4887c56ccb517d38c"
+    },
+    {
+      "id": "core-v1.jelly-clap",
+      "path": "jelly-clap.png",
+      "category": "jelly",
+      "labels": {
+        "zh-CN": "鼓掌",
+        "en": "Clap clap"
+      },
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "mimeType": "image/png",
+      "byteLength": 63878,
+      "sha256": "851ddf99a6ba39d2ab1b9263726c36d6557598a8cce34e1371057d25a76792d7"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tool": "built-in imagegen",
+  "date": "2026-10-27",
+  "engine": "unexposed",
+  "cost": "unexposed",
+  "source": "exec-0fc4c7d9-efa4-4150-b382-e23498609232.png",
+  "transparentBackground": true,
+  "conversion": "sharp resize width400, WEBP quality88, alpha retained",
+  "prompt": "Create one isolated empty UI answer-bubble sprite for a lavish romantic anime mobile game. Transparent background. A single horizontally oval soap bubble, aspect ratio 1.8 wide to 1 tall, filling image with transparent margin. Hand painted polished anime illustration, delicate luminous pearly iridescent rim with blush pink, pale gold and ice-blue reflected highlights, a tiny restrained gold glint at top left, transparent very pale milky center (legible text will be overlaid in app). NO text, NO letters, NO objects inside, NO cat, NO background scene, NO other bubbles, NO shadows outside silhouette, NO photography or paper craft, no decorative twirls. Readable clear center occupies 75 percent of the width and half the height. Usable as a scalable button background across rose parchment light skin and burgundy dark skin."
+}

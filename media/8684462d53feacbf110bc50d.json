@@ -1,0 +1,236 @@
+[
+  {
+    "variant": "rose-light",
+    "tool": "image_gen.imagegen",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17e6d-7246-7b70-a14b-cc7565157b7a/exec-80ec81f9-206f-408c-82d7-354d82d28b87.png",
+    "sourceSha256": "64284970fe6ad44904af4ac1e5fd0ebc1a0d185fa230e833a26f00e8af92a22a",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "rose-light-276.webp",
+    "outputSize": [
+      276,
+      276
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "outputSha256": "73c1d64d7f1b6e7fe164b80aaa6379700d7f759fc1d447b54c5450947fd67e82",
+    "prompt": "Use case: stylized-concept. Asset type: tiny premium romantic anime game XP icon. Create ONE isolated symmetrical heart-shaped faceted crystal jewel, rose pink, champagne gold rim. Style: polished illustrated gemstone, crisp broad triangular facets and luminous refractions, like a pink cut diamond resource icon. Upright front view, identical width and height, centered, fills 90% square canvas. Strong readable two lobes, central notch, pointed bottom, simple silhouette remains clear at 20 pixels. Delicate material edge, bright upper-left facet, darker lower-right facets. No ornaments outside the silhouette, no ring, no pedestal, no text, no numbers, no extra hearts. Genuine transparent background. This is the rose-light skin variant.",
+    "transparent_background": true,
+    "postprocessing": "Uniform Lanczos downsample of alpha bounds to <=252px, centered in 276x276 transparent canvas; lossless WebP. No repaint, recolour, distortion or traced vectors.",
+    "referenceRole": "Local reward-gem-rose-quill.png inspected for style; descriptive style reference, not uploaded as an edit input.",
+    "selection": "Selected provisional implementation art; owner aesthetic acceptance remains with coordinator.",
+    "model": "Built-in image_gen.imagegen; underlying model identifier not returned."
+  },
+  {
+    "variant": "rose-dark",
+    "tool": "image_gen.imagegen",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17e6d-7246-7b70-a14b-cc7565157b7a/exec-602b3b71-991c-4e22-8f42-353d41553b5b.png",
+    "sourceSha256": "b06b043276f24f3203f09a90aabcd2d90879747595b61c579f6a5c2eb2337a6f",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "rose-dark-276.webp",
+    "outputSize": [
+      276,
+      276
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "outputSha256": "7b370226f75ecef29c3210574632c4134858f60aac17121e41a8b8f4bd451a4c",
+    "prompt": "Use case: stylized-concept. Asset type: tiny premium romantic anime game XP icon. Create ONE isolated symmetrical heart-shaped faceted crystal jewel, deep ruby rose, luminous pale gold rim. Style: polished illustrated gemstone, crisp broad triangular facets and luminous refractions, like a pink cut diamond resource icon. Upright front view, identical width and height, centered, fills 90% square canvas. Strong readable two lobes, central notch, pointed bottom, simple silhouette remains clear at 20 pixels. Delicate material edge, bright upper-left facet, darker lower-right facets. No ornaments outside the silhouette, no ring, no pedestal, no text, no numbers, no extra hearts. Genuine transparent background. This is the rose-dark skin variant.",
+    "transparent_background": true,
+    "postprocessing": "Uniform Lanczos downsample of alpha bounds to <=252px, centered in 276x276 transparent canvas; lossless WebP. No repaint, recolour, distortion or traced vectors.",
+    "referenceRole": "Local reward-gem-rose-quill.png inspected for style; descriptive style reference, not uploaded as an edit input.",
+    "selection": "Selected provisional implementation art; owner aesthetic acceptance remains with coordinator.",
+    "model": "Built-in image_gen.imagegen; underlying model identifier not returned."
+  },
+  {
+    "variant": "cotton-pink",
+    "tool": "image_gen.imagegen",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17e6d-7246-7b70-a14b-cc7565157b7a/exec-eb36c670-cfb7-4466-a358-c7a9df052389.png",
+    "sourceSha256": "7b57f2402a3586634c40542d1e742a1ee537716ddcb7b704009cc8e20e50f6f5",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "cotton-pink-276.webp",
+    "outputSize": [
+      276,
+      276
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "outputSha256": "949a841851eb6b82440d73efb798e0f66c8e4635507293c2240afe6bba926d87",
+    "prompt": "Use case: stylized-concept. Asset type: tiny premium romantic anime game XP icon. Create ONE isolated symmetrical heart-shaped faceted crystal jewel, candy pink and pearl. Style: polished illustrated gemstone, crisp broad triangular facets and luminous refractions, like a pink cut diamond resource icon. Upright front view, identical width and height, centered, fills 90% square canvas. Strong readable two lobes, central notch, pointed bottom, simple silhouette remains clear at 20 pixels. Delicate material edge, bright upper-left facet, darker lower-right facets. No ornaments outside the silhouette, no ring, no pedestal, no text, no numbers, no extra hearts. Genuine transparent background. This is the cotton-pink skin variant.",
+    "transparent_background": true,
+    "postprocessing": "Uniform Lanczos downsample of alpha bounds to <=252px, centered in 276x276 transparent canvas; lossless WebP. No repaint, recolour, distortion or traced vectors.",
+    "referenceRole": "Local reward-gem-rose-quill.png inspected for style; descriptive style reference, not uploaded as an edit input.",
+    "selection": "Selected provisional implementation art; owner aesthetic acceptance remains with coordinator.",
+    "model": "Built-in image_gen.imagegen; underlying model identifier not returned."
+  },
+  {
+    "variant": "cotton-mint",
+    "tool": "image_gen.imagegen",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17e6d-7246-7b70-a14b-cc7565157b7a/exec-7e1fc9b2-fa52-4db3-868d-0d919465d824.png",
+    "sourceSha256": "cf28be631127f4478f48d85c5cd598c1046b03ab522ceeef309dc4cca45cf14f",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "cotton-mint-276.webp",
+    "outputSize": [
+      276,
+      276
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "outputSha256": "3f4107c9a744dfb59166da0bb209d5aa62f5e3c4a30425a1e133575cc9d625a0",
+    "prompt": "Use case: stylized-concept. Create ONE isolated heart-shaped faceted crystal game XP jewel in mint green and pearl, premium romantic anime illustrated gemstone matching a cut-diamond resource icon. Upright front view, symmetric two lobes central notch and pointed bottom. Square canvas, centered fills 90%, crisp broad facets, upper-left highlight, darker lower-right facets, delicate material edge. Strong clean silhouette readable at 20 pixels. No separate sparkles, ornaments, frame, pedestal, text or numbers. True transparent background. Skin variant cotton-mint.",
+    "transparent_background": true,
+    "postprocessing": "Uniform Lanczos downsample of alpha bounds to <=252px, centered in 276x276 transparent canvas; lossless WebP. No repaint, recolour, distortion or traced vectors.",
+    "referenceRole": "Local reward-gem-rose-quill.png inspected for style; descriptive style reference, not uploaded as an edit input.",
+    "selection": "Selected provisional implementation art; owner aesthetic acceptance remains with coordinator.",
+    "model": "Built-in image_gen.imagegen; underlying model identifier not returned."
+  },
+  {
+    "variant": "cotton-lavender",
+    "tool": "image_gen.imagegen",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17e6d-7246-7b70-a14b-cc7565157b7a/exec-16fc9058-3f1e-41a8-8f9a-bd671ccbaf8e.png",
+    "sourceSha256": "a9172d00cc889f0c9aaf96e41d43a4fb56fdb63f73faa63dd58d666eed9c5466",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "cotton-lavender-276.webp",
+    "outputSize": [
+      276,
+      276
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "outputSha256": "887128cc1ee3bbb2e54feb9865d6519df60235adad999578f7f9b4a40a87948e",
+    "prompt": "Use case: stylized-concept. Create ONE isolated heart-shaped faceted crystal game XP jewel in lavender and pearl, premium romantic anime illustrated gemstone matching a cut-diamond resource icon. Upright front view, symmetric two lobes central notch and pointed bottom. Square canvas, centered fills 90%, crisp broad facets, upper-left highlight, darker lower-right facets, delicate material edge. Strong clean silhouette readable at 20 pixels. No separate sparkles, ornaments, frame, pedestal, text or numbers. True transparent background. Skin variant cotton-lavender.",
+    "transparent_background": true,
+    "postprocessing": "Uniform Lanczos downsample of alpha bounds to <=252px, centered in 276x276 transparent canvas; lossless WebP. No repaint, recolour, distortion or traced vectors.",
+    "referenceRole": "Local reward-gem-rose-quill.png inspected for style; descriptive style reference, not uploaded as an edit input.",
+    "selection": "Selected provisional implementation art; owner aesthetic acceptance remains with coordinator.",
+    "model": "Built-in image_gen.imagegen; underlying model identifier not returned."
+  },
+  {
+    "variant": "midnight",
+    "tool": "image_gen.imagegen",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17e6d-7246-7b70-a14b-cc7565157b7a/exec-a7d78311-b4ca-4792-8f28-0df8e88ad9c6.png",
+    "sourceSha256": "3c86df7794da167787c61e9735cffe7ff9adf8bad5aa793a27e899732f52b4cb",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "midnight-276.webp",
+    "outputSize": [
+      276,
+      276
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "outputSha256": "11b50f3c75f2cb1b86bf2149b31237537b9837254b82a594c7c18960f987f23c",
+    "prompt": "Use case: stylized-concept. Create ONE isolated heart-shaped faceted crystal game XP jewel in amethyst violet and aurora teal, premium romantic anime illustrated gemstone matching a cut-diamond resource icon. Upright front view, symmetric two lobes central notch and pointed bottom. Square canvas, centered fills 90%, crisp broad facets, upper-left highlight, darker lower-right facets, delicate material edge. Strong clean silhouette readable at 20 pixels. No separate sparkles, ornaments, frame, pedestal, text or numbers. True transparent background. Skin variant midnight.",
+    "transparent_background": true,
+    "postprocessing": "Uniform Lanczos downsample of alpha bounds to <=252px, centered in 276x276 transparent canvas; lossless WebP. No repaint, recolour, distortion or traced vectors.",
+    "referenceRole": "Local reward-gem-rose-quill.png inspected for style; descriptive style reference, not uploaded as an edit input.",
+    "selection": "Selected provisional implementation art; owner aesthetic acceptance remains with coordinator.",
+    "model": "Built-in image_gen.imagegen; underlying model identifier not returned."
+  },
+  {
+    "variant": "mist",
+    "tool": "image_gen.imagegen",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17e6d-7246-7b70-a14b-cc7565157b7a/exec-94c70bf7-e151-4da1-a269-67844520586d.png",
+    "sourceSha256": "ddb8918a7bffb40dba648f04591707728aa07736834efb46d4cea2d605f566be",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "mist-276.webp",
+    "outputSize": [
+      276,
+      276
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "outputSha256": "59d3c6ddba6abcf9f1e24159af993a67be2863785336b1cc800812970b9f70ae",
+    "prompt": "Use case: stylized-concept. Create ONE isolated heart-shaped faceted crystal game XP jewel in sage green and pale jade, premium romantic anime illustrated gemstone matching a cut-diamond resource icon. Upright front view, symmetric two lobes central notch and pointed bottom. Square canvas, centered fills 90%, crisp broad facets, upper-left highlight, darker lower-right facets, delicate material edge. Strong clean silhouette readable at 20 pixels. No separate sparkles, ornaments, frame, pedestal, text or numbers. True transparent background. Skin variant mist.",
+    "transparent_background": true,
+    "postprocessing": "Uniform Lanczos downsample of alpha bounds to <=252px, centered in 276x276 transparent canvas; lossless WebP. No repaint, recolour, distortion or traced vectors.",
+    "referenceRole": "Local reward-gem-rose-quill.png inspected for style; descriptive style reference, not uploaded as an edit input.",
+    "selection": "Selected provisional implementation art; owner aesthetic acceptance remains with coordinator.",
+    "model": "Built-in image_gen.imagegen; underlying model identifier not returned."
+  },
+  {
+    "variant": "warm",
+    "tool": "image_gen.imagegen",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17e6d-7246-7b70-a14b-cc7565157b7a/exec-8ba4bc5a-0ef9-40d5-bc1c-6fa42a9bb840.png",
+    "sourceSha256": "6b6ab7b4cda2190ac20fd07093db9ef38019de08f0cf5f887bb79e87e7a9e1a7",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "warm-276.webp",
+    "outputSize": [
+      276,
+      276
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "outputSha256": "d38cb007b0dcfb43d66a1ad478a7b7c1269794ff9dbb6029ac7d205e94a32d8c",
+    "prompt": "Use case: stylized-concept. Create ONE isolated heart-shaped faceted crystal game XP jewel in honey amber and peach, premium romantic anime illustrated gemstone matching a cut-diamond resource icon. Upright front view, symmetric two lobes central notch and pointed bottom. Square canvas, centered fills 90%, crisp broad facets, upper-left highlight, darker lower-right facets, delicate material edge. Strong clean silhouette readable at 20 pixels. No separate sparkles, ornaments, frame, pedestal, text or numbers. True transparent background. Skin variant warm.",
+    "transparent_background": true,
+    "postprocessing": "Uniform Lanczos downsample of alpha bounds to <=252px, centered in 276x276 transparent canvas; lossless WebP. No repaint, recolour, distortion or traced vectors.",
+    "referenceRole": "Local reward-gem-rose-quill.png inspected for style; descriptive style reference, not uploaded as an edit input.",
+    "selection": "Selected provisional implementation art; owner aesthetic acceptance remains with coordinator.",
+    "model": "Built-in image_gen.imagegen; underlying model identifier not returned."
+  },
+  {
+    "variant": "frosted",
+    "tool": "image_gen.imagegen",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17e6d-7246-7b70-a14b-cc7565157b7a/exec-bb56ce6a-7b45-4a2d-ab9e-4c1eb568465a.png",
+    "sourceSha256": "4f5af9bf44c6aa28f50029047d7bc1565d351272ad766fdc4d0dc3e4779e3f66",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "frosted-276.webp",
+    "outputSize": [
+      276,
+      276
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "outputSha256": "8c6a386436d9ef58212326e823b7ccc7186e0efdef7f0b5fb2c7e51b07233999",
+    "prompt": "Use case: stylized-concept. Create ONE isolated heart-shaped faceted crystal game XP jewel in icy blue and silver, premium romantic anime illustrated gemstone matching a cut-diamond resource icon. Upright front view, symmetric two lobes central notch and pointed bottom. Square canvas, centered fills 90%, crisp broad facets, upper-left highlight, darker lower-right facets, delicate material edge. Strong clean silhouette readable at 20 pixels. No separate sparkles, ornaments, frame, pedestal, text or numbers. True transparent background. Skin variant frosted.",
+    "transparent_background": true,
+    "postprocessing": "Uniform Lanczos downsample of alpha bounds to <=252px, centered in 276x276 transparent canvas; lossless WebP. No repaint, recolour, distortion or traced vectors.",
+    "referenceRole": "Local reward-gem-rose-quill.png inspected for style; descriptive style reference, not uploaded as an edit input.",
+    "selection": "Selected provisional implementation art; owner aesthetic acceptance remains with coordinator.",
+    "model": "Built-in image_gen.imagegen; underlying model identifier not returned."
+  }
+]

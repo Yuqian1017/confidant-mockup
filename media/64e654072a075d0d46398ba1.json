@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-09-10T01:38:19Z",
+  "checkpoint": "first-art-candidates",
+  "generator": "built-in image_gen.imagegen",
+  "generationCalls": 5,
+  "publicPngCount": 4,
+  "reference": "../arrival-envelope-anime-r19.png",
+  "defaultUnchanged": true,
+  "readiness": {
+    "readyCount": 0,
+    "blockedCount": 4,
+    "reason": "Every selected generated file is PNG color type 2 (RGB); all decoded alpha values are 255 and transparency is baked into the image as checkerboard. A targeted built-in background extraction also returned RGB.",
+    "independentArtReview": "parent-owned pending",
+    "hoverFlapPull": "not integrated or verified",
+    "selectorModule": "deferred until actual-alpha assets and per-variant flap review are ready"
+  },
+  "assets": [
+    {
+      "id": "gentle-floral",
+      "label": "温柔花笺",
+      "path": "gentle-floral.png",
+      "src": "/assets/phone-story/pigeon/personality-r20/gentle-floral.png",
+      "status": "blocked-alpha",
+      "integrationReady": false,
+      "source": "/Users/junshi/.codex/generated_images/01a088cf-ca05-7180-b118-065d2d1c3c6c/exec-fcc4d239-5e3f-41e0-bc59-944ae68914db.png",
+      "sha256": "930e871dea2fe3cba2b3324285eec108ff21cc5268f12539f9b409101af97bd3",
+      "bytes": 2486426,
+      "inspection": {
+        "width": 1536,
+        "height": 1024,
+        "pngColorType": 2,
+        "alphaMin": 255,
+        "alphaMax": 255,
+        "transparentPixels": 0,
+        "partialAlphaPixels": 0,
+        "visuallyInspected": true,
+        "ornament": "Pearl bell blossoms, wild-rose corners and a scalloped petal rosette around a small heart.",
+        "material": "Blush opalescent cel-shaded panels; mint enamel leaves; rose-silk folded tails.",
+        "closedShape": "Straight-on closed triangular flap; rectangular body visually near reference anchors.",
+        "limitations": "Central floral rosette and lateral leaves extend differently from the accepted heart seal; original flap clipping cannot be presumed correct."
+      },
+      "prompt": "Use case: precise-object-edit / stylized-concept.\nAsset type: one closed 2D romantic anime envelope game sprite, landscape 1536 x 1024 PNG.\nInput image role: the supplied accepted envelope is both the exact placement/geometry template and the illustrated quality reference. Make a NEW personality variant. Do not change the accepted original.\nALPHA REQUIREMENT: preserve the reference image's real transparent alpha outside the envelope. Output an actual RGBA PNG with zero-alpha empty pixels, not an illustration of transparency. No solid backdrop, no checkerboard, no vignette, no ground plane, no shadow outside the object, no glow outside the silhouette. Only the closed envelope object.\nGeometry invariants: straight-on back/flap side, unrotated, no perspective. Same approximately rectangular closed body, corners at (96,106), (1440,106), (1440,885), (96,885) on a 1536x1024 canvas. Empty margins. Same closed downward triangular flap: top hinge at y106, diagonals from the two top corners to the central seal around (768,535). Do not open the flap, show a lining, an inserted sheet, or add detached floating objects. Keep the main seal compact around x650..885, y415..600, and its ribbon tips inside x574..959,y585..797. Ornament silhouette changes must remain INSIDE the reference envelope footprint and within these flap/seal regions, suitable for a separate hinged flap later. All edges must be fully in frame.\nStyle: lavish polished otome/shoujo anime illustration, precise drawn outlines, intentional cel shading, bright controlled enamel/gem highlights, original fantasy stationery. No photography, no realistic paper-craft fibers, no tabletop props, no lettering, no watermark, no characters or hands. Material and motif differences must be structural, not a simple hue swap. Return ONE image only.\nPersonality variant: gentle-floral / 温柔花笺. Gentle, caring and romantic. Pearl-pink translucent-looking illustrated vellum with opalescent lily-white panels, flowing pink-and-gold botanical veins along the triangular flap edges, delicate lily-of-the-valley pearl bell blossoms and blush wild roses integrated at the lower corners. Replace the single chunky heart gem setting with a scalloped rose-petal rosette surrounding a small faceted pink heart, at the same central anchor. The two ribbon tails become soft illustrated rose-silk leaflike folds, with the SAME spatial footprint as the reference. Rounded petal silhouettes and organic tendrils contrast with the original's sharper stars. Fine gold, mint enamel leaves and small pearl beads; a sophisticated tender letter, not a flower bouquet."
+    },
+    {
+      "id": "bright-playful",
+      "label": "明朗星邮",
+      "path": "bright-playful.png",
+      "src": "/assets/phone-story/pigeon/personality-r20/bright-playful.png",
+      "status": "blocked-alpha",
+      "integrationReady": false,
+      "source": "/Users/junshi/.codex/generated_images/01a088cf-ca05-7180-b118-065d2d1c3c6c/exec-c5633da2-b325-450e-b328-682cbea93808.png",
+      "sha256": "592bcc71ab369fd592a1ada971c8af648b255e3870e48bcf2ba5e959d1dfe416",
+      "bytes": 2757082,
+      "inspection": {
+        "width": 1536,
+        "height": 1024,
+        "pngColorType": 2,
+        "alphaMin": 255,
+        "alphaMax": 255,
+        "transparentPixels": 0,
+        "partialAlphaPixels": 0,
+        "visuallyInspected": true,
+        "ornament": "Five-point opal starburst, comet arcs, inset corner stars and geometric star-tipped ribbons.",
+        "material": "Sky-blue pearl/enamel planes, lemon-gold bevels, blue/coral satin accents.",
+        "closedShape": "Straight-on closed flap, same overall body aspect and placement.",
+        "limitations": "Starburst tips protrude differently from the accepted heart setting; verify ownership of every seal tip before hover integration."
+      },
+      "prompt": "Use case: precise-object-edit / stylized-concept.\nAsset type: one closed 2D romantic anime envelope game sprite, landscape 1536 x 1024 PNG.\nInput image role: the supplied accepted envelope is both the exact placement/geometry template and the illustrated quality reference. Make a NEW personality variant. Do not change the accepted original.\nALPHA REQUIREMENT: preserve the reference image's real transparent alpha outside the envelope. Output an actual RGBA PNG with zero-alpha empty pixels, not an illustration of transparency. No solid backdrop, no checkerboard, no vignette, no ground plane, no shadow outside the object, no glow outside the silhouette. Only the closed envelope object.\nGeometry invariants: straight-on back/flap side, unrotated, no perspective. Same approximately rectangular closed body, corners at (96,106), (1440,106), (1440,885), (96,885) on a 1536x1024 canvas. Empty margins. Same closed downward triangular flap: top hinge at y106, diagonals from the two top corners to the central seal around (768,535). Do not open the flap, show a lining, an inserted sheet, or add detached floating objects. Keep the main seal compact around x650..885, y415..600, and its ribbon tips inside x574..959,y585..797. Ornament silhouette changes must remain INSIDE the reference envelope footprint and within these flap/seal regions, suitable for a separate hinged flap later. All edges must be fully in frame.\nStyle: lavish polished otome/shoujo anime illustration, precise drawn outlines, intentional cel shading, bright controlled enamel/gem highlights, original fantasy stationery. No photography, no realistic paper-craft fibers, no tabletop props, no lettering, no watermark, no characters or hands. Material and motif differences must be structural, not a simple hue swap. Return ONE image only.\nPersonality variant: bright-playful / 明朗星邮. Open-hearted, witty, energetic but refined. Clean sky-blue and luminous lemon enamel panels, subtle coral edging, a little glossy pearl-metal sheen. Replace floral curving filigree with sweeping comet arcs, nested star engravings and playful beveled star-shaped corner inlays, all integral to the envelope surface. At the SAME central seal anchor, a raised starburst gold brooch with a rounded five-point yellow opal star jewel, coral inset mini-star and a tiny sky-blue gem at its center. Keep this seal inside the reference compact bounding region. The two ribbon tails in the exact original footprint become crisp two-tone blue/coral folded ribbons with star-shaped tip embossing. Strong structural star/comet motif, bouncy asymmetry in surface engravings, bright cel highlights. Make it clearly distinct from a pink-heart/floral envelope while equally ornate and romantic. One isolated closed envelope with true transparent alpha background."
+    },
+    {
+      "id": "quiet-reserved",
+      "label": "清冷月笺",
+      "path": "quiet-reserved.png",
+      "src": "/assets/phone-story/pigeon/personality-r20/quiet-reserved.png",
+      "status": "blocked-alpha",
+      "integrationReady": false,
+      "source": "/Users/junshi/.codex/generated_images/01a088cf-ca05-7180-b118-065d2d1c3c6c/exec-be8a03ea-21ae-4c57-83d4-6cd160e269f3.png",
+      "sha256": "a598fa9867d08bb64c95f5d44559f580c1ea083da20979c3b5d3cebc991079b4",
+      "bytes": 2523341,
+      "inspection": {
+        "width": 1536,
+        "height": 1024,
+        "pngColorType": 2,
+        "alphaMin": 255,
+        "alphaMax": 255,
+        "transparentPixels": 0,
+        "partialAlphaPixels": 0,
+        "visuallyInspected": true,
+        "ornament": "Silver crescent around a teardrop moonstone, slender fern tracery and ginkgo/frost fans.",
+        "material": "Frost-white and blue-grey enamel-like illustrated planes, silver outlines and pearl pins.",
+        "closedShape": "Straight-on closed flap, same canvas and approximate body coordinates.",
+        "limitations": "Crescent and oval silhouette differ from the accepted jewel; some surface treatment remains softly textured, not fully flat enamel."
+      },
+      "prompt": "Use case: precise-object-edit / stylized-concept.\nAsset type: one closed 2D romantic anime envelope game sprite, landscape 1536 x 1024 PNG.\nInput image role: the supplied accepted envelope is both the exact placement/geometry template and the illustrated quality reference. Make a NEW personality variant. Do not change the accepted original.\nALPHA REQUIREMENT: preserve the reference image's real transparent alpha outside the envelope. Output an actual RGBA PNG with zero-alpha empty pixels, not an illustration of transparency. No solid backdrop, no checkerboard, no vignette, no ground plane, no shadow outside the object, no glow outside the silhouette. Only the closed envelope object.\nGeometry invariants: straight-on back/flap side, unrotated, no perspective. Same approximately rectangular closed body, corners at (96,106), (1440,106), (1440,885), (96,885) on a 1536x1024 canvas. Empty margins. Same closed downward triangular flap: top hinge at y106, diagonals from the two top corners to the central seal around (768,535). Do not open the flap, show a lining, an inserted sheet, or add detached floating objects. Keep the main seal compact around x650..885, y415..600, and its ribbon tips inside x574..959,y585..797. Ornament silhouette changes must remain INSIDE the reference envelope footprint and within these flap/seal regions, suitable for a separate hinged flap later. All edges must be fully in frame.\nStyle: lavish polished otome/shoujo anime illustration, precise drawn outlines, intentional cel shading, bright controlled enamel/gem highlights, original fantasy stationery. No photography, no realistic paper-craft fibers, no tabletop props, no lettering, no watermark, no characters or hands. Material and motif differences must be structural, not a simple hue swap. Return ONE image only.\nPersonality variant: quiet-reserved / 清冷月笺. Restrained, observant and quietly tender. Refined frost-white porcelain enamel planes with moonlit blue-grey folded edges; the material is smooth stylized illustrated enamel, never fibrous paper. Slender platinum-silver tracery and featherlike etched fern geometry run along the closed triangular flap, with tiny pale aquamarine inset stars. At the SAME compact central seal location, a sculptural silver crescent cupping an elongated pale-blue moonstone teardrop inside a slim oval filigree setting, with two pearl pins. The crescent and gem MUST remain confined around x650..885, y415..600. Two narrow elegantly pointed silver-blue silk ribbon tails remain within the original ribbon footprint. Lower corners have precise silver ginkgo/frost-leaf fans. More deliberate empty luminous space, thin highly finished edges and cool gemstone glints; lavish through fine precision rather than many large ornaments. Structural crescent, teardrop and straight/feather geometry are clearly different from floral and starburst variants. One isolated fully closed envelope, real transparent background alpha."
+    },
+    {
+      "id": "enigmatic-composed",
+      "label": "神秘秘印",
+      "path": "enigmatic-composed.png",
+      "src": "/assets/phone-story/pigeon/personality-r20/enigmatic-composed.png",
+      "status": "blocked-alpha",
+      "integrationReady": false,
+      "source": "/Users/junshi/.codex/generated_images/01a088cf-ca05-7180-b118-065d2d1c3c6c/exec-904c3a6a-7f93-424a-98c7-e8df069241a2.png",
+      "sha256": "382e92099a3ff5f437cdefec4b4776650d52be6b030c4c025e4b289c3a82f430",
+      "bytes": 2551744,
+      "inspection": {
+        "width": 1536,
+        "height": 1024,
+        "pngColorType": 2,
+        "alphaMin": 255,
+        "alphaMax": 255,
+        "transparentPixels": 0,
+        "partialAlphaPixels": 0,
+        "visuallyInspected": true,
+        "ornament": "Hexagonal garnet signet, keyhole inset, concentric geometric circles and angular corner fans.",
+        "material": "Black-cherry/deep-teal lacquer-like cel shading, antique-gold bevels and burgundy ribbon.",
+        "closedShape": "Straight-on closed flap, centered signet and same approximate rectangle.",
+        "limitations": "A heavier dark material treatment needs parent aesthetic review; signet shape and dark folded backing need separate hover/extraction validation."
+      },
+      "prompt": "Use case: precise-object-edit / stylized-concept.\nAsset type: one closed 2D romantic anime envelope game sprite, landscape 1536 x 1024 PNG.\nInput image role: the supplied accepted envelope is both the exact placement/geometry template and the illustrated quality reference. Make a NEW personality variant. Do not change the accepted original.\nALPHA REQUIREMENT: preserve the reference image's real transparent alpha outside the envelope. Output an actual RGBA PNG with zero-alpha empty pixels, not an illustration of transparency. No solid backdrop, no checkerboard, no vignette, no ground plane, no shadow outside the object, no glow outside the silhouette. Only the closed envelope object.\nGeometry invariants: straight-on back/flap side, unrotated, no perspective. Same approximately rectangular closed body, corners at (96,106), (1440,106), (1440,885), (96,885) on a 1536x1024 canvas. Empty margins. Same closed downward triangular flap: top hinge at y106, diagonals from the two top corners to the central seal around (768,535). Do not open the flap, show a lining, an inserted sheet, or add detached floating objects. Keep the main seal compact around x650..885, y415..600, and its ribbon tips inside x574..959,y585..797. Ornament silhouette changes must remain INSIDE the reference envelope footprint and within these flap/seal regions, suitable for a separate hinged flap later. All edges must be fully in frame.\nStyle: lavish polished otome/shoujo anime illustration, precise drawn outlines, intentional cel shading, bright controlled enamel/gem highlights, original fantasy stationery. No photography, no realistic paper-craft fibers, no tabletop props, no lettering, no watermark, no characters or hands. Material and motif differences must be structural, not a simple hue swap. Return ONE image only.\nPersonality variant: enigmatic-composed / 神秘秘印. Calm, enigmatic, deliberate and quietly romantic. Smooth black-cherry lacquer enamel and deep teal-black illustrated folded panels, subdued garnet-red fold edges, crisp warm antique-gold outlines and small ruby-red enamel accents. On the flap, replace exuberant botanical vines with interlocking concentric geometric filigree, thin astrolabe-like circles and tiny diamond inlays; these are original decorative geometry, no writing or real-world symbols. At the SAME central seal anchor, a compact hexagonal antique-gold signet setting holding a faceted dark-garnet oval gem and a fine gold keyhole-shaped inset motif. Subtle octagonal raised rim, carefully finished bevels, two narrow burgundy-black silk tails in the SAME footprint as the original ribbons. Lower corners have angular gold fan brackets with inset dark-red cabochons. Rich contrast and controlled polished highlights with clear edges; keep every dark plane legible. No dramatic scene or smoky background, no skulls, weapons, lettering or sinister faces. Distinct angular signet silhouette and lacquer material, not a recolor of the pink heart. One complete closed envelope isolated on actual transparent PNG alpha."
+    }
+  ],
+  "rejectedAttempt": {
+    "styleId": "gentle-floral",
+    "kind": "built-in background-extraction",
+    "source": "/Users/junshi/.codex/generated_images/01a088cf-ca05-7180-b118-065d2d1c3c6c/exec-b3c09804-7627-4ee4-b0df-bc116942acdc.png",
+    "sha256": "0670d16bc3a5dfc4d6f0e79a24ef4d3907de9642688d8b5961ef7c080c0c4958",
+    "pngColorType": 2,
+    "alphaMin": 255,
+    "alphaMax": 255,
+    "transparentPixels": 0,
+    "keptOutsidePublic": true,
+    "prompt": "Use case: background-extraction.\nEdit target: the supplied gentle floral envelope PNG.\nTask: remove the entire background to REAL TRANSPARENCY. Preserve the closed illustrated envelope itself, all artwork, precise pixels, rectangle position, scale and colors. Keep image size 1536x1024. This is a production background-removal task, not a new illustration.\nThe previous file is RGB without an alpha channel. The required output is PNG with an actual fourth alpha channel. Every pixel outside the envelope silhouette must have alpha 0. Edge pixels should have antialiased alpha. Solid envelope interior alpha 255. Do not draw any transparency visualization or replacement backdrop. Deliver only the transparent object."
+  },
+  "geometryReview": {
+    "coordinateSpace": "1536 x 1024 source image, x rightwards/y downwards. Approximate visual landmarks, uncertainty about +/-16 px; these are not alpha-derived contours or ready clip polygons.",
+    "common": {
+      "bodyBoundsApprox": [
+        96,
+        105,
+        1440,
+        888
+      ],
+      "hingeApprox": [
+        [
+          96,
+          106
+        ],
+        [
+          1440,
+          106
+        ]
+      ],
+      "flap": "Closed downward triangle. Its lower center is occluded by each seal; the actual path behind that seal cannot be recovered from one sealed bitmap.",
+      "defaultJewelRegionBoundingBox": [
+        637,
+        410,
+        899,
+        597
+      ],
+      "defaultRibbonRegionApprox": [
+        573,
+        598,
+        959,
+        797
+      ],
+      "defaultMaskCompatibility": "Not verified. Existing flap polygon and heart illumination mask are artwork-specific.",
+      "underlayer": "The existing default RGB body/lining cannot be reused by just replacing the closed sprite. It is masked by original alpha and carries the default material. A new alpha mask alone does not make its colors or exposed detail match."
+    },
+    "variants": {
+      "gentle-floral": {
+        "sealSettingApprox": [
+          645,
+          375,
+          896,
+          626
+        ],
+        "sealLateralLeavesApprox": [
+          558,
+          411,
+          980,
+          585
+        ],
+        "jewelApprox": [
+          706,
+          445,
+          833,
+          569
+        ],
+        "ribbonApprox": [
+          571,
+          550,
+          966,
+          795
+        ],
+        "conflict": "Petal scallops and lateral leaves differ from the accepted gold-heart outline and can straddle its fixed flap/body split. Original heart glow would include some petals."
+      },
+      "bright-playful": {
+        "sealSettingApprox": [
+          604,
+          354,
+          934,
+          670
+        ],
+        "jewelApprox": [
+          658,
+          408,
+          879,
+          617
+        ],
+        "ribbonApprox": [
+          572,
+          551,
+          962,
+          805
+        ],
+        "conflict": "Starburst tips and enlarged star gem exceed the original compact seal footprint. Fixed heart illumination would not follow the star and the old flap cut can divide the lower points."
+      },
+      "quiet-reserved": {
+        "sealSettingApprox": [
+          635,
+          350,
+          892,
+          599
+        ],
+        "jewelApprox": [
+          726,
+          383,
+          813,
+          534
+        ],
+        "ribbonApprox": [
+          574,
+          548,
+          955,
+          805
+        ],
+        "conflict": "Moonstone extends above the current heart-light region; crescent arcs and pearl pins have different ownership boundaries. Default warm/pink lining would break the cold silver material."
+      },
+      "enigmatic-composed": {
+        "sealSettingApprox": [
+          678,
+          386,
+          859,
+          605
+        ],
+        "jewelApprox": [
+          703,
+          407,
+          834,
+          583
+        ],
+        "ribbonApprox": [
+          573,
+          552,
+          959,
+          798
+        ],
+        "conflict": "Oval signet/keyhole needs its own jewel illumination. Light default lining would be conspicuous under a dark flap; closed lacquer art alone does not reveal the correct open underlayer."
+      }
+    },
+    "handoff": "Parent decides matched per-style body/lining assets or source-composited lining plus appropriate flap/jewel geometry. No additional body assets generated in this checkpoint, no controller/Notice/paper CSS changed, no hover/pull acceptance claimed."
+  },
+  "selectionProposal": {
+    "api": "selectIncomingEnvelopeStyle({ targetRoleId, styleByTargetRoleId })",
+    "sourceOfIdentity": "existing letter.targetRoleId, not display name, locale, model text, world or Math.random",
+    "personalityMapping": "Parent maintains a fixed presentation-only targetRoleId -> styleId mapping from known character personality. Gentle/caring -> gentle-floral; bright/playful -> bright-playful; quiet/reserved -> quiet-reserved; enigmatic/composed -> enigmatic-composed.",
+    "fallback": "Use accepted arrival-envelope-anime-r19.png for missing/unknown keys and any unapproved/unready candidate.",
+    "stability": "Same stable targetRoleId and versioned mapping resolve identically across reload. Resolve from the letter's stored target role, never an unrelated currently active character.",
+    "canonicalEdits": "None; this is a presentation proposal only."
+  }
+}

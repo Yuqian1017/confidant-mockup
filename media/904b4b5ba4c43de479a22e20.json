@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "packVersion": 1,
+  "generatedWith": "built-in imagegen; engine not exposed",
+  "export": "original exports: uniform containment; restored frames:768px with2px safety edge; restored bubble canvases:780x396 with6px safety edge and90px nine-slice corners; see framefit0213 provenance",
+  "files": [
+    {
+      "file": "adrian-cheer.webp",
+      "bytes": 23092,
+      "sha256": "0d86db5a8c01ddccd9c2a536c0d5ace3b0a8c2f103f0ee1caed33c7c5783c7e8",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "adrian-hello.webp",
+      "bytes": 23390,
+      "sha256": "909f24a0bad6d2e1a956609e956f17fcfca27ec537f6cfa9db0af134170dcb2f",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "adrian-laugh.webp",
+      "bytes": 20232,
+      "sha256": "b50216d17775bc49a571d14a3719ba357ea64391bec0aba6433ae2a23076fced",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "adrian-love.webp",
+      "bytes": 22470,
+      "sha256": "40ef3c13219b59d982e74f7a14b7036327be14a2bef0129b9e2bbea0b0c9fbca",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "adrian-sad.webp",
+      "bytes": 24170,
+      "sha256": "28257dcc51dd293cdadd7b01a23ba96df565f05ed69dadf62f59849e65b4a24d",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "adrian-sleep.webp",
+      "bytes": 17124,
+      "sha256": "24b649d7e09c4ada128fa5d92161e5934ea4910b4f412ffc4d97806ac6e02068",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "bubble-mint-dark-incoming.webp",
+      "bytes": 25952,
+      "sha256": "596fd691bdac1ca172eace698230e652918f219c80a4209ca69cf00cb4f799ed",
+      "width": 780,
+      "height": 396
+    },
+    {
+      "file": "bubble-mint-dark-outgoing.webp",
+      "bytes": 26552,
+      "sha256": "53cefb2e8f8564dddb96adc9ea8c8950d9f11cef16a1b865bfca94225cd5aaa5",
+      "width": 780,
+      "height": 396
+    },
+    {
+      "file": "bubble-mint-light-incoming.webp",
+      "bytes": 26242,
+      "sha256": "7b5869857a690cb64e7e98b33ff1445ab4c8bb98457fd044fb8c364493e3fef8",
+      "width": 780,
+      "height": 396
+    },
+    {
+      "file": "bubble-mint-light-outgoing.webp",
+      "bytes": 24212,
+      "sha256": "ca23cc1d0a8363f42b27cbfcbfb5d593881678ac3b13090d3541766eff180ec3",
+      "width": 780,
+      "height": 396
+    },
+    {
+      "file": "bubble-quill-pearl.webp",
+      "bytes": 1870,
+      "sha256": "cb7fc1c8482cd3afbd45a4d9f95588ca2c3f055258f381ff0566a39fe3c0735f",
+      "width": 64,
+      "height": 44
+    },
+    {
+      "file": "bubble-rose-dark-incoming.webp",
+      "bytes": 25952,
+      "sha256": "596fd691bdac1ca172eace698230e652918f219c80a4209ca69cf00cb4f799ed",
+      "width": 780,
+      "height": 396
+    },
+    {
+      "file": "bubble-rose-dark-outgoing.webp",
+      "bytes": 26552,
+      "sha256": "53cefb2e8f8564dddb96adc9ea8c8950d9f11cef16a1b865bfca94225cd5aaa5",
+      "width": 780,
+      "height": 396
+    },
+    {
+      "file": "bubble-rose-light-incoming.webp",
+      "bytes": 26242,
+      "sha256": "7b5869857a690cb64e7e98b33ff1445ab4c8bb98457fd044fb8c364493e3fef8",
+      "width": 780,
+      "height": 396
+    },
+    {
+      "file": "bubble-rose-light-outgoing.webp",
+      "bytes": 24212,
+      "sha256": "ca23cc1d0a8363f42b27cbfcbfb5d593881678ac3b13090d3541766eff180ec3",
+      "width": 780,
+      "height": 396
+    },
+    {
+      "file": "chloe-cheer.webp",
+      "bytes": 20318,
+      "sha256": "d115475c6df6bc423def8da483ab2c38e6b614d973598583488c835f975ba020",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "chloe-hello.webp",
+      "bytes": 18654,
+      "sha256": "765e497d11db699a3bf9829659c8e411d2c347f637e7d947ef136e48f12d826a",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "chloe-laugh.webp",
+      "bytes": 19272,
+      "sha256": "83e545b2060e11a175b8c7828ba3bd92fd4f8c7c6ea715f75d41cf1510bcfff4",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "chloe-love.webp",
+      "bytes": 17304,
+      "sha256": "be7c8a989289067377d66c48333cdd6ff1717c1a379ad93f3136341536b57935",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "chloe-sad.webp",
+      "bytes": 19330,
+      "sha256": "a84e0d0b7be77e908a6750682a6f868fb1c6fb406804151558b5fb901ffde9e9",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "chloe-sleep.webp",
+      "bytes": 13532,
+      "sha256": "0901cb2758a0a663f4ca2a2e788cb3fd96e7ce7459c9c23b07951209ab68abbc",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "croissant-cheer.webp",
+      "bytes": 19946,
+      "sha256": "bfe7e8a37ef4ebdd7d60636043e6e9be9f2ad16fe931a0774cf9c852cffd43b9",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "croissant-hello.webp",
+      "bytes": 18858,
+      "sha256": "1ee78b3f6377d366d9fe3ce1e55a77b374b836dabab6902ebef1b3c721aea33b",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "croissant-laugh.webp",
+      "bytes": 18168,
+      "sha256": "cafbad4924b799fa290034e6fe83117bbec135ca237f364f546893e503331d14",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "croissant-love.webp",
+      "bytes": 17720,
+      "sha256": "193490c06fe1ae7b8d5fc7d61db1305682826c81a966a115dae162f3df49c72b",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "croissant-sad.webp",
+      "bytes": 18132,
+      "sha256": "b31a96c931a30484289b690bcb4f42fa1301c532dfe2e8704c4103acc1bd4ddd",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "croissant-sleep.webp",
+      "bytes": 13696,
+      "sha256": "2e7ed3f47e517f582c577ae346c8c692034548e4e86e1026257707de89efa383",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "frame-heart.webp",
+      "bytes": 91702,
+      "sha256": "7eff39d5693c1c31104b6807c89326d63fea7049e3627d3866babac1f3fab6bc",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "file": "frame-moon.webp",
+      "bytes": 86258,
+      "sha256": "4950781483da94e8c58c309fc7859a76cc8b8e93b887c90a68265b24af84d0b5",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "file": "frame-pearl.webp",
+      "bytes": 95748,
+      "sha256": "e4c4e4df229baaa5057787e068fe36de4e12a2fc3e243018f7f23202e2dac812",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "file": "frame-star.webp",
+      "bytes": 85928,
+      "sha256": "00a8c6a917c3a6a473d27509d4f3ecf0baf31c20b1be631a75eecfac9182ae51",
+      "width": 768,
+      "height": 768
+    },
+    {
+      "file": "kyle-cheer.webp",
+      "bytes": 24254,
+      "sha256": "a2435642102d0cab0669ed81c6f2390e730c55c3fd610870ffe37c7526092317",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "kyle-hello.webp",
+      "bytes": 23716,
+      "sha256": "308d16b07ece9c33a3410bd89b9e28fd430370783362722e7692ef43ff3ad2e7",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "kyle-laugh.webp",
+      "bytes": 20702,
+      "sha256": "6de8ba762e0666a5ccee92a9fc02a50540cc4e1147cbeeddf5a85392d77641f2",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "kyle-love.webp",
+      "bytes": 22636,
+      "sha256": "e415d86e1fc664bc111f519f3f78a83ba6d353ac81daee999db42a37880af6b7",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "kyle-sad.webp",
+      "bytes": 23380,
+      "sha256": "90488517a54234b239bbf94adc7bbc8d9f1d9337432d061d5ae213f0cac749cc",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "kyle-sleep.webp",
+      "bytes": 18416,
+      "sha256": "d85cb8bf456000f241ce037d032673e8f6bbe06cc4ee0938303528f18dffe0b7",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "maya-cheer.webp",
+      "bytes": 20500,
+      "sha256": "38cf9bb44ed14a24ffa5960a1cb42d1ef7075dc5fb68641054bea7391a506b5f",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "maya-hello.webp",
+      "bytes": 21100,
+      "sha256": "e2f9a44347318f2f3364c91fdfdecf2636915324c3215f7d4f95ec5f9e8021ec",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "maya-laugh.webp",
+      "bytes": 17446,
+      "sha256": "f267c265b685de5d7f1092a3b1f9d953989fe8f22ffb604598ab4090248078c9",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "maya-love.webp",
+      "bytes": 17752,
+      "sha256": "2f4fcf9e20492f9867531a1a392100098b2dc302403a600021772acb5877610b",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "maya-sad.webp",
+      "bytes": 20518,
+      "sha256": "63f66042ccd278f91686980d3aeb466f7cde38e154c8b6b690a8a2954595420e",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "maya-sleep.webp",
+      "bytes": 15322,
+      "sha256": "bae53a0b2491fa67a56c7860cd3549e7adcb1f40a92d804fb592eff318a641c6",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "milou-cheer.webp",
+      "bytes": 20494,
+      "sha256": "9bc172947765207b2f3b9afbebe395efc5b61cf0b790402c6b1173af5fff4feb",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "milou-hello.webp",
+      "bytes": 18146,
+      "sha256": "13b079a723e2264dfefc889a467c190c1a382f3c514e35b0a1fdd725d0cb34a6",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "milou-laugh.webp",
+      "bytes": 17674,
+      "sha256": "7fb1b674c98f71fba43e84b85335feafc020095288ad2b465088b20eee0ec418",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "milou-love.webp",
+      "bytes": 18142,
+      "sha256": "ef9b33f34568460382d0f53f9cb985fc169a42c784f301a0708f9b9a4868c05d",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "milou-sad.webp",
+      "bytes": 21118,
+      "sha256": "6188d375c93c12107c25917bcbbeab18e204d5afd0b4f1ea2cfe07aa22f8c144",
+      "width": 240,
+      "height": 240
+    },
+    {
+      "file": "milou-sleep.webp",
+      "bytes": 13432,
+      "sha256": "51e301a03af1bacf59eacf5fcc43abfb88193c96d9a9edb89bc56ca10d67f240",
+      "width": 240,
+      "height": 240
+    }
+  ]
+}

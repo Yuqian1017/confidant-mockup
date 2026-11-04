@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-30",
+  "tool": "Codex built-in image_gen",
+  "use": "Face-only transparent patches from current adult defaults; pose and clothes preserved. Owner art acceptance pending.",
+  "cost": "Price/usage not exposed by tool; 6 built-in calls.",
+  "generated": [
+    {
+      "person": "erin",
+      "reference": "portrait-suli.png",
+      "kind": "smile",
+      "file": "exec-3be6119e-a726-42c0-ae1e-9b75542d9bb7.png",
+      "prompt": "Use case: identity-preserve. Edit target: the attached CURRENT default portrait of adult investigative reporter Erin Casey. Create the tap-response expression variant: a small friendly closed-mouth smile, eyes warm and alert, natural and platonic. Keep EXACT same person, head position/tilt/size, facial landmarks, hair silhouette, framing, canvas aspect, body pose, recorder, dark jacket and all clothing, and rainy-window background. Change only the facial expression; no head movement, no camera or lighting change, no body/clothing changes, no text, no extra objects. Match the existing lavish illustrated anime portrait. Output one full portrait aligned to the original.",
+      "rawFile": "/Users/shaoxia/.codex/generated_images/01a18dd9-5b4d-7ea2-ba7a-7b636672a554/exec-3be6119e-a726-42c0-ae1e-9b75542d9bb7.png",
+      "output": "touch0198/erin-smile.webp",
+      "sourceSha256": "2bca8d419fc671b425b026e6143db4ff67937b0d4f4ddc6e6646786150c6683a",
+      "rawSha256": "c13bf0b30d649a45d81d052a2eeab556729340caf07d896083c110ce3b10d35a",
+      "outputSha256": "f82182d176f64a091ab85e49e81e73547da27d1eafd04809681b23405710c005",
+      "box": [
+        0.4030149999999999,
+        0.12495800000000001,
+        0.30767,
+        0.26856
+      ]
+    },
+    {
+      "person": "erin",
+      "reference": "portrait-suli.png",
+      "kind": "shy",
+      "file": "exec-39fd3011-9cc6-4b3a-a9c5-a549d4e042e8.png",
+      "prompt": "Use case: identity-preserve. Edit target: the attached CURRENT default portrait of adult investigative reporter Erin Casey. Create the tap-response expression variant: a distinct mildly bashful acknowledgment: a restrained asymmetric closed-mouth smile and a softened, slightly sideways eye glance, neutral cheeks, natural and platonic. Keep EXACT same person, head position/tilt/size, facial landmarks, hair silhouette, framing, canvas aspect, body pose, recorder, dark jacket and all clothing, and rainy-window background. Change only the facial expression; no head movement, no camera or lighting change, no body/clothing changes, no text, no extra objects. Match the existing lavish illustrated anime portrait. Output one full portrait aligned to the original.",
+      "rawFile": "/Users/shaoxia/.codex/generated_images/01a18dd9-5b4d-7ea2-ba7a-7b636672a554/exec-39fd3011-9cc6-4b3a-a9c5-a549d4e042e8.png",
+      "output": "touch0198/erin-shy.webp",
+      "sourceSha256": "2bca8d419fc671b425b026e6143db4ff67937b0d4f4ddc6e6646786150c6683a",
+      "rawSha256": "a80fc52bf65ddd7fc57c300130964db6c3e90181c0366668cfdd34738fb5be41",
+      "outputSha256": "9a47229bd258f0acc8046f48ca207534a2f9600815ebce29cd15cdb405a54191",
+      "box": [
+        0.4030149999999999,
+        0.12495800000000001,
+        0.30767,
+        0.26856
+      ]
+    },
+    {
+      "person": "erin",
+      "reference": "portrait-suli.png",
+      "kind": "surprised",
+      "file": "exec-8c035293-f844-4610-8cd7-d4aed414bed7.png",
+      "prompt": "Use case: identity-preserve. Edit target: the attached CURRENT default portrait of adult investigative reporter Erin Casey. Create the tap-response expression variant: a distinct moment of mild surprise from a repeated friendly tap: eyebrows slightly raised, eyes a little wider, mouth slightly parted, natural and platonic. Keep EXACT same person, head position/tilt/size, facial landmarks, hair silhouette, framing, canvas aspect, body pose, recorder, dark jacket and all clothing, and rainy-window background. Change only the facial expression; no head movement, no camera or lighting change, no body/clothing changes, no text, no extra objects. Match the existing lavish illustrated anime portrait. Output one full portrait aligned to the original.",
+      "rawFile": "/Users/shaoxia/.codex/generated_images/01a18dd9-5b4d-7ea2-ba7a-7b636672a554/exec-8c035293-f844-4610-8cd7-d4aed414bed7.png",
+      "output": "touch0198/erin-surprised.webp",
+      "sourceSha256": "2bca8d419fc671b425b026e6143db4ff67937b0d4f4ddc6e6646786150c6683a",
+      "rawSha256": "43185f28e9665050961e61a6f770e9e02964c9e2d880a8ef45f3a59dd370370b",
+      "outputSha256": "2761fcb28e71bb3bb3ab3266f87fd705b42c9a95a255fa72ab4ace68cb10f078",
+      "box": [
+        0.4030149999999999,
+        0.12495800000000001,
+        0.30767,
+        0.26856
+      ]
+    },
+    {
+      "person": "mira",
+      "reference": "presets/modern-workplace/designer-mira-chen-roster0194.png",
+      "kind": "smile",
+      "file": "exec-e2391e16-2029-46a7-990b-1675ecc289e0.png",
+      "prompt": "Use case: identity-preserve. Edit target: attached CURRENT default portrait of adult designer Mira Holloway from Modern Workplace. Tap-response variant: a clear small friendly closed-mouth smile with bright attentive eyes. Change only facial expression. Keep exactly the original face identity/freckles, eye centers, head outline, tilt, size and position, short red hair, same framing, body pose, paint swatches, red overshirt and cream knit top, all clothes, background, lighting and source aspect ratio. No text, no new props, no pose or clothing change, no flirtation. Lavish illustrated anime portrait matching reference. One full portrait aligned to source.",
+      "rawFile": "/Users/shaoxia/.codex/generated_images/01a18dd9-5b4d-7ea2-ba7a-7b636672a554/exec-e2391e16-2029-46a7-990b-1675ecc289e0.png",
+      "output": "touch0198/mira-smile.webp",
+      "sourceSha256": "d9d0663de437decb802f90a93c20ab9e77c4b39f1d04c925f5dd9e09a553c975",
+      "rawSha256": "53438cfad2b989fa55d771ae928a74b10ed768e44d1e31c9e0256634e7bd32c8",
+      "outputSha256": "fd61ad55e61975af1485283e2dfc4672fd7c34acccdb708122bdd72ff62ad31c",
+      "box": [
+        0.37078999999999995,
+        0.11592800000000002,
+        0.24882000000000004,
+        0.18095999999999998
+      ]
+    },
+    {
+      "person": "mira",
+      "reference": "presets/modern-workplace/designer-mira-chen-roster0194.png",
+      "kind": "shy",
+      "file": "exec-f417b82f-aae3-4b57-b671-2e519a38cbdd.png",
+      "prompt": "Use case: identity-preserve. Edit target: attached CURRENT default portrait of adult designer Mira Holloway from Modern Workplace. Tap-response variant: a distinct slightly bashful acknowledgment, a softened asymmetric closed-mouth smile with a small sideways glance, natural and platonic. Change only facial expression. Keep exactly the original face identity/freckles, eye centers, head outline, tilt, size and position, short red hair, same framing, body pose, paint swatches, red overshirt and cream knit top, all clothes, background, lighting and source aspect ratio. No text, no new props, no pose or clothing change, no flirtation. Lavish illustrated anime portrait matching reference. One full portrait aligned to source.",
+      "rawFile": "/Users/shaoxia/.codex/generated_images/01a18dd9-5b4d-7ea2-ba7a-7b636672a554/exec-f417b82f-aae3-4b57-b671-2e519a38cbdd.png",
+      "output": "touch0198/mira-shy.webp",
+      "sourceSha256": "d9d0663de437decb802f90a93c20ab9e77c4b39f1d04c925f5dd9e09a553c975",
+      "rawSha256": "873e72332a70819c03f27d14f3edf0b360365029898fb0540c4e199f6e742905",
+      "outputSha256": "2ca7af83e91ff88ec74214f1c242f83be3b14875c2bc64d2a6e4d4124cdc6996",
+      "box": [
+        0.37078999999999995,
+        0.11592800000000002,
+        0.24882000000000004,
+        0.18095999999999998
+      ]
+    },
+    {
+      "person": "mira",
+      "reference": "presets/modern-workplace/designer-mira-chen-roster0194.png",
+      "kind": "surprised",
+      "file": "exec-fccaa516-f34e-4f3e-8aff-e2a3e54fd4b5.png",
+      "prompt": "Use case: identity-preserve. Edit target: attached CURRENT default portrait of adult designer Mira Holloway from Modern Workplace. Tap-response variant: a distinct mild surprised expression, eyebrows raised slightly, attentive eyes widened a little and mouth slightly parted. Change only facial expression. Keep exactly the original face identity/freckles, eye centers, head outline, tilt, size and position, short red hair, same framing, body pose, paint swatches, red overshirt and cream knit top, all clothes, background, lighting and source aspect ratio. No text, no new props, no pose or clothing change, no flirtation. Lavish illustrated anime portrait matching reference. One full portrait aligned to source.",
+      "rawFile": "/Users/shaoxia/.codex/generated_images/01a18dd9-5b4d-7ea2-ba7a-7b636672a554/exec-fccaa516-f34e-4f3e-8aff-e2a3e54fd4b5.png",
+      "output": "touch0198/mira-surprised.webp",
+      "sourceSha256": "d9d0663de437decb802f90a93c20ab9e77c4b39f1d04c925f5dd9e09a553c975",
+      "rawSha256": "738485ca6946f27611d0a47525387b203f7f7f28e1675181e23bcb31d2b51865",
+      "outputSha256": "0e3c70f5487383d2c8f734aec9f81ae4b166bf2d4c8dc4da5145b4c90476ca0b",
+      "box": [
+        0.37078999999999995,
+        0.11592800000000002,
+        0.24882000000000004,
+        0.18095999999999998
+      ]
+    }
+  ],
+  "reused": "Kyle (mirrored default), Chloe, Adrian, Maya and Zhou Ye: existing touch0198 assets; source 86bfb81610 and Kyle mirror 3de4774b53/2de2ca7343.",
+  "currentDefaultCutout": {
+    "reference": "presets/modern-workplace/designer-mira-chen-roster0194.png",
+    "referenceSha256": "d9d0663de437decb802f90a93c20ab9e77c4b39f1d04c925f5dd9e09a553c975",
+    "output": "cutouts/figtouch0206-mira-default-figure.webp",
+    "outputSha256": "72cf153eb9cb0deb9eb8b16a9f1065f61c018e1c943beea6c7616043db8ba230",
+    "method": "Original current-default RGB + VNGenerateForegroundInstanceMaskRequest alpha. Corrects the earlier World plate’s full-body framing; no generated body/pose pixels."
+  }
+}

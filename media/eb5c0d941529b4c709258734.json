@@ -1,0 +1,43 @@
+{
+  "tool": "built-in image_gen.imagegen",
+  "model": "not exposed by tool",
+  "referenceRoles": "No image inputs; existing Confidant art direction and named skin palettes in text.",
+  "processing": "Frames: alpha trim, uniform resize to width 768, transparent 8px padding, WebP. Background: uniform width 1200, WebP. CSS contain for frame; cover for scene.",
+  "assets": [
+    {
+      "asset": "frame-rose.webp",
+      "prompt": "Use case: illustration-story. Asset type: single isolated horizontal ornate small UI option frame for Confidant romantic anime. Wide ratio 3:1 frame, whole silhouette, symmetric rounded rectangular outline. Palette and material: pearl blush rose-quill, warm rose gold feather filigree, ivory inset. Very fine polished illustrated linework, deliberate stylized luminous shading. Keep ALL decorations on the outer rim and exterior corners, central 78% width and 60% height empty uninterrupted opaque smooth inset for dark/light selectable live text. Frame within a large transparent margin, alpha transparent outside. No text, letters, icons, check marks, scenery, objects, photograph, shadows cast onto a rectangle, or additional frames. Exactly one single frame.",
+      "sha256": "5e8bc9edfaf79eedbc6eab6fd81e603261d0fd5e490f70f7a17d8bfbc58306c1"
+    },
+    {
+      "asset": "frame-frosted.webp",
+      "prompt": "Use case: illustration-story. Asset type: single isolated horizontal ornate small UI option frame for Confidant romantic anime. Wide ratio 3:1 frame, whole silhouette, symmetric rounded rectangular outline. Palette and material: cool icy blue frosted glass silver, luminous translucent rim, restrained icy feather curls. Very fine polished illustrated linework, deliberate stylized luminous shading. Keep ALL decorations on the outer rim and exterior corners, central 78% width and 60% height empty uninterrupted opaque smooth inset for dark/light selectable live text. Frame within a large transparent margin, alpha transparent outside. No text, letters, icons, check marks, scenery, objects, photograph, shadows cast onto a rectangle, or additional frames. Exactly one single frame.",
+      "sha256": "f8287b0213337058831843337512444556396a25363e742dc44b3b0cbdf43eb5"
+    },
+    {
+      "asset": "frame-midnight.webp",
+      "prompt": "Use case: illustration-story. Asset type: single isolated horizontal ornate small UI option frame for Confidant romantic anime. Wide ratio 3:1 frame, whole silhouette, symmetric rounded rectangular outline. Palette and material: midnight violet and indigo, antique gold astral feather filigree, dark violet inset. Very fine polished illustrated linework, deliberate stylized luminous shading. Keep ALL decorations on the outer rim and exterior corners, central 78% width and 60% height empty uninterrupted opaque smooth inset for dark/light selectable live text. Frame within a large transparent margin, alpha transparent outside. No text, letters, icons, check marks, scenery, objects, photograph, shadows cast onto a rectangle, or additional frames. Exactly one single frame.",
+      "sha256": "434c78caf6dc136b8d49e363520a932b5e5fe7dd5ca7a384a97a90fabeb775dc"
+    },
+    {
+      "asset": "frame-mist.webp",
+      "prompt": "Use case: illustration-story. Asset type: single isolated horizontal ornate small UI option frame for Confidant romantic anime. Wide ratio 3:1 frame, whole silhouette, symmetric rounded rectangular outline. Palette and material: misty sage jade green, pale silver vines, soft ivory sage inset. Very fine polished illustrated linework, deliberate stylized luminous shading. Keep ALL decorations on the outer rim and exterior corners, central 78% width and 60% height empty uninterrupted opaque smooth inset for dark/light selectable live text. Frame within a large transparent margin, alpha transparent outside. No text, letters, icons, check marks, scenery, objects, photograph, shadows cast onto a rectangle, or additional frames. Exactly one single frame.",
+      "sha256": "879d3de48835345030a8080422fa8bf40b3a294585563e5b292d39a3d1adcb87"
+    },
+    {
+      "asset": "frame-cotton.webp",
+      "prompt": "Use case: illustration-story. Asset type: single isolated horizontal ornate small UI option frame for Confidant romantic anime. Wide ratio 3:1 frame, whole silhouette, symmetric rounded rectangular outline. Palette and material: cute pastel pink enamel and gold ribbon, rounded feather curls, pale pink inset. Very fine polished illustrated linework, deliberate stylized luminous shading. Keep ALL decorations on the outer rim and exterior corners, central 78% width and 60% height empty uninterrupted opaque smooth inset for dark/light selectable live text. Frame within a large transparent margin, alpha transparent outside. No text, letters, icons, check marks, scenery, objects, photograph, shadows cast onto a rectangle, or additional frames. Exactly one single frame.",
+      "sha256": "2dfffbbc48d53929ba9aed9c38288c8561f1bba13292de238781e268148a0040"
+    },
+    {
+      "asset": "frame-warm.webp",
+      "prompt": "Use case: illustration-story. Asset type: single isolated horizontal ornate small UI option frame for Confidant romantic anime. Wide ratio 3:1 frame, whole silhouette, symmetric rounded rectangular outline. Palette and material: warm cream and champagne gold, russet rose feathers, ivory peach inset. Very fine polished illustrated linework, deliberate stylized luminous shading. Keep ALL decorations on the outer rim and exterior corners, central 78% width and 60% height empty uninterrupted opaque smooth inset for dark/light selectable live text. Frame within a large transparent margin, alpha transparent outside. No text, letters, icons, check marks, scenery, objects, photograph, shadows cast onto a rectangle, or additional frames. Exactly one single frame.",
+      "sha256": "72dfa35e9e6236035f98af9b147509ecdaab64ad4df7791378b641a88d712092"
+    },
+    {
+      "asset": "crowd-frosted.webp",
+      "prompt": "Use case: illustration-story. Asset type: portrait background for Confidant onboarding in Frosted Glass skin. Romantic anime illustrated luminous arched glass conservatory, a blue silver frosted glass arch and soft clouded dawn through icy windows. Delicate white blossoms anchored at outer corners, cool pale blue palette. Broad uncluttered center with subtle fog and soft blue gradient to support a separate live text plate and floating face medallions. No people, text, labels, typography, border panels, photography. Portrait 2:3 composition, painterly polished anime linework. Whole scene extends to all edges, background may crop responsively. Sophisticated minimal luminous glass.",
+      "sha256": "b94acdb1af5a228fefb06524ce188aa76ece2a4de877fb49c1df80282242a09d"
+    }
+  ]
+}

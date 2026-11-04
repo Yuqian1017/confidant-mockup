@@ -1,0 +1,122 @@
+{
+ "tool": "toolbox clients/openai_client.generate_image (internal key, not shipped)",
+ "engine": "gpt-image-2",
+ "quality": "medium",
+ "generatedAt": "2026-09-17 (P101 ten; P77b six the same evening)",
+ "postProcessing": "center crop 86% (inside the drawn disc), resize 256x256, WebP q84; shown as a circle",
+ "sharedPromptRules": "Square shoulders-up portrait, romantic contemporary painterly anime style, centered circular-crop safe composition, rose-and-ivory soft light, plain softly blurred background, ordinary clothing, no occupation cues, no animals, no fantasy accessories, no text, no logo, no watermark.",
+ "assets": [
+  {
+   "file": "natural-minimax-youth-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-youth-v1",
+   "subject": "East Asian young man about 20, fresh and sunny, short black hair with a light fringe, bright open smile, white tee under a light denim jacket; energetic, boyish, clean",
+   "sha256": "f07e69a25c8ef2c7e8ef0c6c64c91982ab766805a52ac0102cef6f5a2efd8932",
+   "bytes": 8210
+  },
+  {
+   "file": "natural-minimax-gentle-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-gentle-v1",
+   "subject": "East Asian man in his mid-20s, gentle senior-classmate feel, soft eyes, neat dark hair, warm oatmeal cardigan over a shirt; calm, considerate, quietly warm smile",
+   "sha256": "95f8dc7afc963f7e775bb61c09613084f13db3733c418eb4fd7bbe4e7ecd0b8d",
+   "bytes": 9372
+  },
+  {
+   "file": "natural-minimax-bestie-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-bestie-v1",
+   "subject": "East Asian woman in her mid-20s, warm best-friend feel, relaxed shoulder-length hair tucked behind one ear, kind knowing smile, cozy rose knit; reassuring, easygoing",
+   "sha256": "075614aa87a4cc734aa8df680df7928633fae470a935c8f2ef7c6819eb17c1ea",
+   "bytes": 8554
+  },
+  {
+   "file": "natural-minimax-sweet-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-sweet-v1",
+   "subject": "East Asian young woman about 20, sweet and bright, soft wavy hair with a small ribbon clip, big sparkling eyes, cheerful smile, cream blouse; cute, lively",
+   "sha256": "5c35dd111f3c8f163735e64c6eb248a52e7fe1e29b63ee725dd5ab9c94cc5c53",
+   "bytes": 8728
+  },
+  {
+   "file": "natural-minimax-en-friendly-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-en-friendly-v1",
+   "subject": "Latino man in his late 20s, friendly and upbeat, short curly hair, big grin, casual olive henley; approachable, warm, a little playful",
+   "sha256": "98e10615ad6fbb307ec6a3054263f068152e1e51087f06076c91564e9aa220b7",
+   "bytes": 8418
+  },
+  {
+   "file": "natural-minimax-en-gentle-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-en-gentle-v1",
+   "subject": "White man in his mid-30s, gentle-voiced and steady, soft short beard, tousled light-brown hair, quiet half smile, gray-blue sweater; calm, thoughtful",
+   "sha256": "bd8c39aecc099efaafb10be27b596c5237a8075ba008a17b8582793b1e7b9047",
+   "bytes": 6410
+  },
+  {
+   "file": "natural-minimax-en-upbeat-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-en-upbeat-v1",
+   "subject": "Black woman in her late 20s, upbeat and bright, natural curls, wide joyful smile, mustard-yellow top; energetic, confident, sunny",
+   "sha256": "e622a8db611a4ff3556bb933e53b816a64a3f0bcf83458d8c6c65bbec4c44716",
+   "bytes": 11744
+  },
+  {
+   "file": "natural-minimax-en-calm-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-en-calm-v1",
+   "subject": "South Asian woman in her early 30s, calm and serene, long dark hair loosely tied, soft composed smile, sage-green linen shirt; grounded, kind, unhurried",
+   "sha256": "be91c7c7763e472712f22bce0bb3e738170340fbb2ed056f310df9085a9dc7aa",
+   "bytes": 7910
+  },
+  {
+   "file": "natural-minimax-boss-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-boss-v1",
+   "subject": "East Asian man in his late 20s, commanding and composed, sharp jawline, slicked-back dark hair, cool steady gaze with a faint confident smile, dark tailored shirt; deep-voiced, domineering but refined",
+   "sha256": "490ec2efaa674328aa07d005174c320d78430ef396525b7c55f2cd7d699ba449",
+   "bytes": 6962
+  },
+  {
+   "file": "natural-minimax-en-deep-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-en-deep-v1",
+   "subject": "Black man in his late 30s, deep-voiced and self-assured, close-cropped hair, short groomed beard, calm direct gaze, charcoal knit; grounded, warm authority",
+   "sha256": "15b964efa6012e7719998c0f69c8cab5f2867f0d0b25499fe08c3039897044c9",
+   "bytes": 8608
+  },
+  {
+   "file": "natural-minimax-wise-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-wise-v1",
+   "subject": "East Asian woman around 30, poised and intelligent, sleek dark hair in a low knot, composed half-smile with a knowing look, ivory silk blouse; elegant, calm authority, a little distant",
+   "sha256": "1c3aadc5e789fe8236db821b3cf6d3537f1226644a46cb3319a8d6a34bdc6ac1",
+   "bytes": 7504
+  },
+  {
+   "file": "natural-minimax-en-graceful-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-en-graceful-v1",
+   "subject": "European woman in her early 30s, graceful and warm, soft chestnut waves past the shoulders, serene gentle smile, dusty-rose wrap top; elegant, mature, unhurried",
+   "sha256": "6da29842b2d5933fd2732c8b83081f2a7c7863d8a07cb656472aa4b3d3c4f26e",
+   "bytes": 8048
+  },
+  {
+   "file": "natural-minimax-senior-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-senior-v1",
+   "subject": "East Asian woman in her early 20s, gentle senior-classmate feel, straight black hair with a side part, soft kind eyes, light cream knit cardigan; tender, patient, quietly warm",
+   "sha256": "2b824b89c7d6cf840f11a4cb712f5c84b9e02475625412fd55abe4921dc727f2",
+   "bytes": 7880
+  },
+  {
+   "file": "natural-minimax-en-soft-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-en-soft-v1",
+   "subject": "Young woman of about 20 with light brown hair in a loose braid, shy soft-spoken expression, small closed-lip smile, pale lavender sweater; delicate, gentle, a little bashful",
+   "sha256": "0e74c0a1d449a735eb6104076634c26d4d1be0efd03edb7aa4277207ee14259e",
+   "bytes": 9934
+  },
+  {
+   "file": "natural-minimax-pure-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-pure-v1",
+   "subject": "East Asian boy of about 18, pure-hearted and earnest, soft black hair a little tousled, wide clear eyes, light blue shirt; innocent, sincere, boyish",
+   "sha256": "c53afd81426f96d12f19a6479880fc46e0bad795998866bc294888fd749c0142",
+   "bytes": 8052
+  },
+  {
+   "file": "natural-minimax-en-decent-v1-avatar-v1.webp",
+   "candidateId": "natural-minimax-en-decent-v1",
+   "subject": "Young man in his early 20s with neat sandy-brown hair, soft-spoken decent feel, calm gentle gaze, grey crewneck sweater; polite, thoughtful, quietly kind",
+   "sha256": "76fa13a27d1b7d1238f4a79bd8b6227be51115da9fe016cb46c0cfefa9f0873f",
+   "bytes": 7660
+  }
+ ]
+}

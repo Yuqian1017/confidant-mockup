@@ -1,0 +1,1236 @@
+{
+  "workflow": "Built-in image_gen; five revision calls: three accepted material/lower/orbit atlases, two rejected orbit sheets. Actual engine/version/charges not exposed; no external API. Continuation3: built-in image_gen filament extraction; nine requests, eight outputs, seven discarded and one output-moderation rejection. Lossless native-resolution sprites; no CSS strokes. Engine/version/charges unavailable. Continuation4: built-in image_gen, four calls; filled-lobe, bright, and thick-rim candidates rejected; selected fourth flat single-stroke copper atlas.12 outer-frame sprites and12 separated double-ring sprites. Crop/split, uniform scaling and transparent padding only, no procedural strokes. Model/version/charges unexposed. Continuation4: built-in image_gen, four requests (filled shapes, brighter atlas and thick copper rims rejected; selected flat single-stroke copper atlas).12 independently generated orbit cells plus12 separated double-ring sprites; only crop/split, uniform scale, transparent padding; no procedural drawing. Model/version/charges unexposed.",
+  "source": "output/voiceui0206b/revision-material-atlas.png; revision-lower-atlas.png; revision-orbits-atlas.png; retained danger-glass-atlas.png; output/voiceui0206b/continuation-3/crisp-orbits-atlas.png; output/voiceui0206b/continuation-4/copper-orbits-atlas.png; output/voiceui0206b/continuation-4/copper-orbits-atlas.png; output/voiceui0206b/continuation-4/copper-orbits-atlas.png",
+  "preparation": "Measured grid cells and alpha bounds; uniform aspect-preserving fit with10px clear gutters. Runtime transparency/lighting composites generated glass; no CSS petal or orbit silhouettes.",
+  "skins": [
+    "rose-quill",
+    "midnight-aurora",
+    "cotton-letter",
+    "warm-story",
+    "mist-garden",
+    "frosted-glass"
+  ],
+  "assets": [
+    {
+      "file": "rose-quill-light-petal.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        0,
+        0,
+        280,
+        175
+      ],
+      "alphaCrop": [
+        104,
+        26,
+        245,
+        166
+      ],
+      "sha256": "1f1fff3674e894108b21b8fb84a96b8642049f21738a48ebf3b6610a6b79b804",
+      "bytes": 21190
+    },
+    {
+      "file": "rose-quill-dark-petal.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        280,
+        0,
+        520,
+        175
+      ],
+      "alphaCrop": [
+        48,
+        26,
+        192,
+        166
+      ],
+      "sha256": "5d2386bde38db12eb1b38c0798564b9cb44fe30cf4fcfdc15f729b8ff869224b",
+      "bytes": 22244
+    },
+    {
+      "file": "rose-quill-light-mic.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        520,
+        0,
+        768,
+        175
+      ],
+      "alphaCrop": [
+        49,
+        23,
+        190,
+        162
+      ],
+      "sha256": "9190d697cfac62d419f9ed92ce161c7e793636cd72f260e9bdeee1253d373b77",
+      "bytes": 23326
+    },
+    {
+      "file": "rose-quill-dark-mic.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        768,
+        0,
+        1024,
+        175
+      ],
+      "alphaCrop": [
+        56,
+        23,
+        196,
+        162
+      ],
+      "sha256": "fb4e34d6015620a8e5da9226297705328b0acc1fee80157cf7bd50f5213b7236",
+      "bytes": 23680
+    },
+    {
+      "file": "rose-quill-light-send.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        1024,
+        0,
+        1280,
+        175
+      ],
+      "alphaCrop": [
+        60,
+        15,
+        192,
+        166
+      ],
+      "sha256": "f3773533e7ce1bfbd8277acacd218242f7e1e91faa0790d65a754d402f19b799",
+      "bytes": 18914
+    },
+    {
+      "file": "rose-quill-dark-send.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        1280,
+        0,
+        1536,
+        175
+      ],
+      "alphaCrop": [
+        34,
+        16,
+        165,
+        166
+      ],
+      "sha256": "70e77cf52c28f854e40f3c6a8bd11e5920409564588b14ca15f4a04118159d47",
+      "bytes": 19992
+    },
+    {
+      "file": "midnight-aurora-light-petal.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        0,
+        175,
+        280,
+        335
+      ],
+      "alphaCrop": [
+        104,
+        11,
+        246,
+        151
+      ],
+      "sha256": "9b58fc18a32d1e72fe26440ae682372495eaa73ce714f9b1ef33503cb873d1e2",
+      "bytes": 21082
+    },
+    {
+      "file": "midnight-aurora-dark-petal.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        280,
+        175,
+        520,
+        335
+      ],
+      "alphaCrop": [
+        48,
+        11,
+        192,
+        151
+      ],
+      "sha256": "edcfe7c8c26ffc4d7770d88fa3acb6f351161b2cdc5ec59cd7fbaae42ca225d4",
+      "bytes": 22254
+    },
+    {
+      "file": "midnight-aurora-light-mic.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        520,
+        175,
+        768,
+        335
+      ],
+      "alphaCrop": [
+        49,
+        8,
+        190,
+        147
+      ],
+      "sha256": "dd4806a4ab03cded63b55db02fe94f160b635cb357855fa0e0850fbdc75e29a4",
+      "bytes": 23346
+    },
+    {
+      "file": "midnight-aurora-dark-mic.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        768,
+        175,
+        1024,
+        335
+      ],
+      "alphaCrop": [
+        56,
+        9,
+        195,
+        147
+      ],
+      "sha256": "1b2afcdd009cd93314c649e6fb32d2f3a714083075bcd1d458333260c755720f",
+      "bytes": 24778
+    },
+    {
+      "file": "midnight-aurora-light-send.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        1024,
+        175,
+        1280,
+        335
+      ],
+      "alphaCrop": [
+        60,
+        0,
+        192,
+        151
+      ],
+      "sha256": "8603ec45c7f2d0dd2a6bdde8e5075a34fa96e8fa96e487e1796ce762564e7497",
+      "bytes": 18798
+    },
+    {
+      "file": "midnight-aurora-dark-send.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        1280,
+        175,
+        1536,
+        335
+      ],
+      "alphaCrop": [
+        34,
+        0,
+        165,
+        151
+      ],
+      "sha256": "2b6738733ecb1ac6a5fef1d35945d292d75cfe172c71c5388adf08cf281b239d",
+      "bytes": 20068
+    },
+    {
+      "file": "cotton-letter-light-petal.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        0,
+        335,
+        280,
+        495
+      ],
+      "alphaCrop": [
+        104,
+        11,
+        246,
+        151
+      ],
+      "sha256": "659c4926525800da8e89b16db1324301a7e7bdee947b0e254703c2f70a208838",
+      "bytes": 20952
+    },
+    {
+      "file": "cotton-letter-dark-petal.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        280,
+        335,
+        520,
+        495
+      ],
+      "alphaCrop": [
+        48,
+        10,
+        192,
+        151
+      ],
+      "sha256": "f8a1a8e67f0d1661f5959ecec8d06a700456e2f71ed3c0076ab8cf002e28be95",
+      "bytes": 21194
+    },
+    {
+      "file": "cotton-letter-light-mic.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        520,
+        335,
+        768,
+        495
+      ],
+      "alphaCrop": [
+        49,
+        8,
+        190,
+        147
+      ],
+      "sha256": "3c9c933b1191e482edad0eac50e44c084e69aa69310212ef0561cf43028f98b2",
+      "bytes": 22952
+    },
+    {
+      "file": "cotton-letter-dark-mic.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        768,
+        335,
+        1024,
+        495
+      ],
+      "alphaCrop": [
+        56,
+        8,
+        197,
+        146
+      ],
+      "sha256": "9c745c5db96ea25c9e18a35484d5cbd44e07e240a1bd77a1bb56d89b612b2f17",
+      "bytes": 23862
+    },
+    {
+      "file": "cotton-letter-light-send.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        1024,
+        335,
+        1280,
+        495
+      ],
+      "alphaCrop": [
+        59,
+        0,
+        192,
+        151
+      ],
+      "sha256": "e2b4e1351ae62f25a5cb4b36c711d1c2e4e67464d6683782eda9b172bf145540",
+      "bytes": 18832
+    },
+    {
+      "file": "cotton-letter-dark-send.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        1280,
+        335,
+        1536,
+        495
+      ],
+      "alphaCrop": [
+        34,
+        0,
+        165,
+        151
+      ],
+      "sha256": "f4783162d273fe7251dcf82b473554a153e58cb8b4e885e4e8c934fe5ceff6cf",
+      "bytes": 20204
+    },
+    {
+      "file": "warm-story-light-petal.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        0,
+        495,
+        280,
+        657
+      ],
+      "alphaCrop": [
+        104,
+        11,
+        246,
+        151
+      ],
+      "sha256": "8135fc8ebcb4109846389d5aed460c303a741fab3f7c60eec841700405908e09",
+      "bytes": 20762
+    },
+    {
+      "file": "warm-story-dark-petal.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        280,
+        495,
+        520,
+        657
+      ],
+      "alphaCrop": [
+        48,
+        11,
+        192,
+        151
+      ],
+      "sha256": "655b5eae9fe56180a6b0489d9e8f81fdd78141967b5174722936d9fad8d2946c",
+      "bytes": 22052
+    },
+    {
+      "file": "warm-story-light-mic.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        520,
+        495,
+        768,
+        657
+      ],
+      "alphaCrop": [
+        50,
+        9,
+        190,
+        148
+      ],
+      "sha256": "6c9f1a34db14deb8dedd02b3767d7019eec1b6356fff366987f6dfbb421806e4",
+      "bytes": 23580
+    },
+    {
+      "file": "warm-story-dark-mic.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        768,
+        495,
+        1024,
+        657
+      ],
+      "alphaCrop": [
+        57,
+        9,
+        195,
+        146
+      ],
+      "sha256": "dbc71bee6f8b489b763e1bdfbc0d5b33586d7effc4800f3387027f4330f4b798",
+      "bytes": 23846
+    },
+    {
+      "file": "warm-story-light-send.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        1024,
+        495,
+        1280,
+        657
+      ],
+      "alphaCrop": [
+        59,
+        1,
+        192,
+        162
+      ],
+      "sha256": "6dd799d65537737a9b0e36de4279c95f64ecea249625cba657df7ccf7b9fb334",
+      "bytes": 18490
+    },
+    {
+      "file": "warm-story-dark-send.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        1280,
+        495,
+        1536,
+        657
+      ],
+      "alphaCrop": [
+        34,
+        1,
+        165,
+        162
+      ],
+      "sha256": "e4db5a31ff210200b717b96340b45ff6e368d22e3853932947ccf389e03af88d",
+      "bytes": 18540
+    },
+    {
+      "file": "mist-garden-light-petal.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        0,
+        657,
+        280,
+        817
+      ],
+      "alphaCrop": [
+        104,
+        10,
+        245,
+        150
+      ],
+      "sha256": "198df39d870e70e75bac862dbdd000b66f4d2d5066b1715d05ced83b4e42cefe",
+      "bytes": 21012
+    },
+    {
+      "file": "mist-garden-dark-petal.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        280,
+        657,
+        520,
+        817
+      ],
+      "alphaCrop": [
+        48,
+        10,
+        192,
+        150
+      ],
+      "sha256": "d227570c0eaea81aa8449134e28396990469dfb6cf51eed6522175498d92c809",
+      "bytes": 21778
+    },
+    {
+      "file": "mist-garden-light-mic.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        520,
+        657,
+        768,
+        817
+      ],
+      "alphaCrop": [
+        50,
+        9,
+        189,
+        145
+      ],
+      "sha256": "e268ca8b45a077dfcf002904b7db45907b002f2a3e2597e043fc2e392713a229",
+      "bytes": 22674
+    },
+    {
+      "file": "mist-garden-dark-mic.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        768,
+        657,
+        1024,
+        817
+      ],
+      "alphaCrop": [
+        57,
+        9,
+        195,
+        145
+      ],
+      "sha256": "4bfdb10c1c42d7032010e6de699a7dcaadc6afff4d4b30fc49eb0ee23383dc3f",
+      "bytes": 24216
+    },
+    {
+      "file": "mist-garden-light-send.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        1024,
+        657,
+        1280,
+        817
+      ],
+      "alphaCrop": [
+        60,
+        0,
+        192,
+        160
+      ],
+      "sha256": "e24289baf52104d37a6f9d37bd9dcb43d018fbc21cf4df28e9b5b6f438ecaa98",
+      "bytes": 17564
+    },
+    {
+      "file": "mist-garden-dark-send.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        1280,
+        657,
+        1536,
+        817
+      ],
+      "alphaCrop": [
+        34,
+        0,
+        165,
+        160
+      ],
+      "sha256": "bb26d164f183163d3ad86b26ee62d3451f65d5d057844d71e5e985fff350be3c",
+      "bytes": 19512
+    },
+    {
+      "file": "frosted-glass-light-petal.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        0,
+        817,
+        280,
+        1024
+      ],
+      "alphaCrop": [
+        104,
+        10,
+        246,
+        150
+      ],
+      "sha256": "52c5aafcf50c0627c125a409067bcc7141eb2d1ab60bb1922543e581029e31bd",
+      "bytes": 20528
+    },
+    {
+      "file": "frosted-glass-dark-petal.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        280,
+        817,
+        520,
+        1024
+      ],
+      "alphaCrop": [
+        48,
+        10,
+        192,
+        150
+      ],
+      "sha256": "e5538e5eda7dbbc813aa8090db92f23cca11e5afdf4a2008593aa9329f849d93",
+      "bytes": 21874
+    },
+    {
+      "file": "frosted-glass-light-mic.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        520,
+        817,
+        768,
+        1024
+      ],
+      "alphaCrop": [
+        50,
+        8,
+        190,
+        147
+      ],
+      "sha256": "db8ccc8c22be9ede333070eada6a4657e767917d38a9e5676f801c6c2bff6740",
+      "bytes": 23558
+    },
+    {
+      "file": "frosted-glass-dark-mic.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        768,
+        817,
+        1024,
+        1024
+      ],
+      "alphaCrop": [
+        57,
+        8,
+        194,
+        146
+      ],
+      "sha256": "9c5574c1c9ec7a037654a8b98310dddc0cd9859087bb3d59cd30fe8e9cab7059",
+      "bytes": 24250
+    },
+    {
+      "file": "frosted-glass-light-send.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        1024,
+        817,
+        1280,
+        1024
+      ],
+      "alphaCrop": [
+        60,
+        0,
+        192,
+        150
+      ],
+      "sha256": "a5d58ad8ebc4805247ac737a475308b0a7e34e2ee1f4dbe56d4825fb52430d03",
+      "bytes": 18426
+    },
+    {
+      "file": "frosted-glass-dark-send.webp",
+      "source": "revision-material-atlas.png",
+      "sourceBox": [
+        1280,
+        817,
+        1536,
+        1024
+      ],
+      "alphaCrop": [
+        34,
+        0,
+        165,
+        151
+      ],
+      "sha256": "06b3855ae77f7d48a713aea43a67e5ef73f6a0701d4da68fb03aa36f8c9e4f67",
+      "bytes": 19862
+    },
+    {
+      "file": "rose-quill-light-orbits.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        0,
+        0,
+        362,
+        362
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "af642ec42d2b87f061ed3405d890409364439b208d1a284814121cc8bb0c8980",
+      "bytes": 164976
+    },
+    {
+      "file": "rose-quill-dark-orbits.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        362,
+        0,
+        724,
+        362
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "b6cfc7e243305b583014666dadd10ccaec5b564ea1ba843e49ded781f4a882c3",
+      "bytes": 165876
+    },
+    {
+      "file": "midnight-aurora-light-orbits.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        724,
+        0,
+        1086,
+        362
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "e397ee8429db002c5d0168707dae6ff4cf22ea834b1cedf032b7f90c63413f6a",
+      "bytes": 165678
+    },
+    {
+      "file": "midnight-aurora-dark-orbits.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        1086,
+        0,
+        1448,
+        362
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "bbea04736083ab5524e802740eadc2ff61b2d199cf41dc5a995af6159e42064f",
+      "bytes": 164720
+    },
+    {
+      "file": "cotton-letter-light-orbits.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        0,
+        362,
+        362,
+        724
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "77bee85bd405c15b1e1f0be14d5ae539f547ea3f14f29ce98405e7f99c1bba51",
+      "bytes": 171674
+    },
+    {
+      "file": "cotton-letter-dark-orbits.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        362,
+        362,
+        724,
+        724
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "e5fce8b6911aa7c735e9e4d92b23c26d3951ff6395ee0390bb2c5a897254227b",
+      "bytes": 171470
+    },
+    {
+      "file": "warm-story-light-orbits.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        724,
+        362,
+        1086,
+        724
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "021978f41b07cb05d97d45386526dc424af1ea1c8e28193c240b37384f4ab2ed",
+      "bytes": 173344
+    },
+    {
+      "file": "warm-story-dark-orbits.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        1086,
+        362,
+        1448,
+        724
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "cc5f1a523587bdd2c531b808083f7d4d3eaedaa5fc631bc7cc44efd67840bc66",
+      "bytes": 170986
+    },
+    {
+      "file": "mist-garden-light-orbits.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        0,
+        724,
+        362,
+        1086
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "e24746fefaac187f24650a46e383bcfede723c8b7e74c9cbffd0028b8fee98b5",
+      "bytes": 165328
+    },
+    {
+      "file": "mist-garden-dark-orbits.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        362,
+        724,
+        724,
+        1086
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "1057d0bfca2745290ec23e4c62551283f95c3c62c7a76af1b2547568b67adce0",
+      "bytes": 165800
+    },
+    {
+      "file": "frosted-glass-light-orbits.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        724,
+        724,
+        1086,
+        1086
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "06b9797864c93a7bd2abb178b5c4550c6fc8ec80adda41a84ed57b99067164cc",
+      "bytes": 166154
+    },
+    {
+      "file": "frosted-glass-dark-orbits.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        1086,
+        724,
+        1448,
+        1086
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "85554cbe12d5ad98b41b8e43eccb4d14de238d9353c8cb174905279b6dc78710",
+      "bytes": 165588
+    },
+    {
+      "file": "cancel-petal.webp",
+      "sourceBox": [
+        0,
+        0,
+        782,
+        724
+      ],
+      "source": "danger-glass-atlas.png",
+      "bytes": 13854,
+      "sha256": "a7172c1bd18ca945becbe63601ebfef9d2bbd49440bf2482a84cc91e8d586e00"
+    },
+    {
+      "file": "cancel-mic.webp",
+      "sourceBox": [
+        782,
+        0,
+        1607,
+        724
+      ],
+      "source": "danger-glass-atlas.png",
+      "bytes": 16212,
+      "sha256": "81902786944a5faca7767ce263f7c284039098d6b5ce40f18fa7d4d1d6dc2324"
+    },
+    {
+      "file": "cancel-falling-petal.webp",
+      "sourceBox": [
+        1607,
+        0,
+        2172,
+        724
+      ],
+      "source": "danger-glass-atlas.png",
+      "bytes": 14790,
+      "sha256": "4e49a828d94e0b7a821b2c12bf052d20f314a3a4f3ba5cac709cc00cf3e95ae3"
+    },
+    {
+      "file": "rose-quill-light-lower.webp",
+      "source": "revision-lower-atlas.png",
+      "sourceBox": [
+        0,
+        0,
+        350,
+        374
+      ],
+      "alphaCrop": [
+        33,
+        99,
+        347,
+        344
+      ],
+      "sha256": "3fa0490220336f0c0d620c5fe1cb0f7ab21dbf3af42557938b685e6805cc15f0",
+      "bytes": 32850
+    },
+    {
+      "file": "rose-quill-dark-lower.webp",
+      "source": "revision-lower-atlas.png",
+      "sourceBox": [
+        350,
+        0,
+        701,
+        374
+      ],
+      "alphaCrop": [
+        32,
+        99,
+        347,
+        344
+      ],
+      "sha256": "abcc6b51b18f81fc92b603d8ae5579af133a33bd507972e25661e12998d1f760",
+      "bytes": 32758
+    },
+    {
+      "file": "midnight-aurora-light-lower.webp",
+      "source": "revision-lower-atlas.png",
+      "sourceBox": [
+        701,
+        0,
+        1052,
+        374
+      ],
+      "alphaCrop": [
+        32,
+        99,
+        346,
+        344
+      ],
+      "sha256": "16ed3feca885343890f1fe615bd6b4471f30029461ee0c65ac56dacf30402775",
+      "bytes": 32780
+    },
+    {
+      "file": "midnight-aurora-dark-lower.webp",
+      "source": "revision-lower-atlas.png",
+      "sourceBox": [
+        1052,
+        0,
+        1402,
+        374
+      ],
+      "alphaCrop": [
+        30,
+        99,
+        345,
+        344
+      ],
+      "sha256": "29678f117149956c93f480c8fcaefcf9a2b3238cf715c7c5641775a67bc2baeb",
+      "bytes": 31334
+    },
+    {
+      "file": "cotton-letter-light-lower.webp",
+      "source": "revision-lower-atlas.png",
+      "sourceBox": [
+        0,
+        374,
+        350,
+        748
+      ],
+      "alphaCrop": [
+        32,
+        65,
+        347,
+        309
+      ],
+      "sha256": "c715770e9b65e379e0fb5ec5c057c3b1b689570fc2b9a71a665c93062d930aca",
+      "bytes": 29486
+    },
+    {
+      "file": "cotton-letter-dark-lower.webp",
+      "source": "revision-lower-atlas.png",
+      "sourceBox": [
+        350,
+        374,
+        701,
+        748
+      ],
+      "alphaCrop": [
+        32,
+        65,
+        347,
+        309
+      ],
+      "sha256": "40d29023807897d7236bf867b4d650907d6a693e117093cc23964f3d99b93fb3",
+      "bytes": 31010
+    },
+    {
+      "file": "warm-story-light-lower.webp",
+      "source": "revision-lower-atlas.png",
+      "sourceBox": [
+        701,
+        374,
+        1052,
+        748
+      ],
+      "alphaCrop": [
+        32,
+        65,
+        346,
+        309
+      ],
+      "sha256": "1f87635fd792dee1e239735ac24a1ab165848519f44ea51eff3395cbc1729b2d",
+      "bytes": 31458
+    },
+    {
+      "file": "warm-story-dark-lower.webp",
+      "source": "revision-lower-atlas.png",
+      "sourceBox": [
+        1052,
+        374,
+        1402,
+        748
+      ],
+      "alphaCrop": [
+        31,
+        65,
+        345,
+        309
+      ],
+      "sha256": "0e869945863e9019605ed40c96076f0eaf7666b9f0fcb5d1caf43f22fbe2117c",
+      "bytes": 30506
+    },
+    {
+      "file": "mist-garden-light-lower.webp",
+      "source": "revision-lower-atlas.png",
+      "sourceBox": [
+        0,
+        748,
+        350,
+        1122
+      ],
+      "alphaCrop": [
+        32,
+        30,
+        347,
+        275
+      ],
+      "sha256": "a68aa8da464144c7bdf241d0d89fdfd34eaef2e08e5a7384c7fc3682feaa214d",
+      "bytes": 29232
+    },
+    {
+      "file": "mist-garden-dark-lower.webp",
+      "source": "revision-lower-atlas.png",
+      "sourceBox": [
+        350,
+        748,
+        701,
+        1122
+      ],
+      "alphaCrop": [
+        32,
+        30,
+        347,
+        275
+      ],
+      "sha256": "78439c838e96573ec1759869458092a3da800b756bf48e62ba7765cfa4cbce7c",
+      "bytes": 28782
+    },
+    {
+      "file": "frosted-glass-light-lower.webp",
+      "source": "revision-lower-atlas.png",
+      "sourceBox": [
+        701,
+        748,
+        1052,
+        1122
+      ],
+      "alphaCrop": [
+        32,
+        30,
+        346,
+        275
+      ],
+      "sha256": "995d031be6ddd47e88a3c67af8e31da89c7b30e972af3039e4def95d396955bd",
+      "bytes": 29352
+    },
+    {
+      "file": "frosted-glass-dark-lower.webp",
+      "source": "revision-lower-atlas.png",
+      "sourceBox": [
+        1052,
+        748,
+        1402,
+        1122
+      ],
+      "alphaCrop": [
+        31,
+        30,
+        346,
+        275
+      ],
+      "sha256": "69150969a226882c336ce23ba715d725f7d81b8aec9c4771156f838490949396",
+      "bytes": 29330
+    },
+    {
+      "file": "rose-quill-light-rings.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        0,
+        0,
+        362,
+        362
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "6826efe7a7898adb36ee7f3ebafa04cdc603fdd1174360ccbac2ff9cbe50f34c",
+      "bytes": 65974
+    },
+    {
+      "file": "rose-quill-dark-rings.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        362,
+        0,
+        724,
+        362
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "385e754c1b0a92e895bad06f86d507676f65005f89b9eb61314755af4a91b0e5",
+      "bytes": 67110
+    },
+    {
+      "file": "midnight-aurora-light-rings.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        724,
+        0,
+        1086,
+        362
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "52001e891d04028fce3232f684fb9c035d6ac6b313582a02312931ac1308bd1f",
+      "bytes": 67218
+    },
+    {
+      "file": "midnight-aurora-dark-rings.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        1086,
+        0,
+        1448,
+        362
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "cab519e0f56a1b9120822c347f70c47503229d17d68128771cacfc1280a70d77",
+      "bytes": 67408
+    },
+    {
+      "file": "cotton-letter-light-rings.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        0,
+        362,
+        362,
+        724
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "e676ec54163d055d715f874183e2774a717b3c3757bb129fad82a16e80214594",
+      "bytes": 67350
+    },
+    {
+      "file": "cotton-letter-dark-rings.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        362,
+        362,
+        724,
+        724
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "63cc6b2e444ec47e0c11f4276cf676efb90923b860ec8c54c45b9ec7ed8e893d",
+      "bytes": 68876
+    },
+    {
+      "file": "warm-story-light-rings.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        724,
+        362,
+        1086,
+        724
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "70463956a0e7c19d846553a271697cbd3a01463d5ac10ebf539e17d9396b2558",
+      "bytes": 67594
+    },
+    {
+      "file": "warm-story-dark-rings.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        1086,
+        362,
+        1448,
+        724
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "aab77b931541fc78b55027e621ee5fb484f27e999f2bfbe0621ff0a5625db5a5",
+      "bytes": 68436
+    },
+    {
+      "file": "mist-garden-light-rings.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        0,
+        724,
+        362,
+        1086
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "66f770e7c7853b5aad2fc93df0244ae7259b1eba32d420d9aa62f32b34b58b85",
+      "bytes": 67038
+    },
+    {
+      "file": "mist-garden-dark-rings.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        362,
+        724,
+        724,
+        1086
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "5ccb45701cdf647b38b955a3de4134557a144b6e5d046bd5e4c1ed2eb56c8dd3",
+      "bytes": 66544
+    },
+    {
+      "file": "frosted-glass-light-rings.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        724,
+        724,
+        1086,
+        1086
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "e3447e48bf354c6848a2c410e78f061595e284456c71d32eac72910327ae9a68",
+      "bytes": 66936
+    },
+    {
+      "file": "frosted-glass-dark-rings.webp",
+      "source": "continuation-4/copper-orbits-atlas.png",
+      "sourceBox": [
+        1086,
+        724,
+        1448,
+        1086
+      ],
+      "extraction": "split concentric centre rings from outer frame; uniform fitting, transparent padding",
+      "sha256": "de4531d4a30aa7e4f1e899d7dd3f0d69056f74821a1d0a329e83190455d4defa",
+      "bytes": 66840
+    }
+  ],
+  "generationCalls": "6 total:3 inherited,1 rejected pearl edit,1 accepted glass atlas,1 accepted matching danger strip",
+  "acceptedGeneration": "/Users/shaoxia/.codex/generated_images/01a18f4d-0a87-75f0-9011-bf171a134f64/exec-1f145df1-ed90-4ad4-bfbd-e4a8216f1324.png",
+  "continuation4": {
+    "calls": 4,
+    "selected": "exec-b0619bed-4edf-45b5-819d-b52eaae838b9.png",
+    "art": "copper outside frame + short lobe arcs, independent double mic rings; all12 variants",
+    "engine": "unexposed",
+    "price": "unexposed"
+  }
+}

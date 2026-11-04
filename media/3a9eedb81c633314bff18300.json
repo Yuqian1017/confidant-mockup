@@ -1,0 +1,133 @@
+{
+  "date": "2026-11-01",
+  "tool": "image_gen.imagegen",
+  "engine": "not exposed by tool",
+  "calls": 23,
+  "categoryCount": 12,
+  "review": "Every generated result was visually inspected before use. Food v1 superseded by v2 because its plate crossed the image edge. Selected badge v1 was rejected for low contrast; the darker v2 was viewed and selected.",
+  "recipe": "Square neutral category illustration in lavish romantic anime cafe style; polished hand-painted outlines and stylized luminous shading, blush cream champagne gold palette; whole principal objects with generous margins; no answer cues, text, logos or watermark. Categories: drinks (coffee and tea); food (noodles and pastry); creative (embroidery and pencils); reading (books); work (laptop, notebook, house model); home (armchair and blanket); outdoors (bench, river, umbrella); music (guitar and piano); play (board, ball, rope toy); connection (two cups and gift); reflection (journal, mirror, candle); travel (suitcase, map, sailboat). Extra art: transparent heart flourish, sealed envelopes, lock, and three transparent RPS hands. Food correction: keep style, reduce meal to fit entire plate and fork with 12% margins.",
+  "outputs": [
+    {
+      "name": "drinks",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-ad026e8f-ddba-47f2-b19b-65cfe90f7c80.png",
+      "reviewed": true
+    },
+    {
+      "name": "food",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-ab15a434-312f-48c8-8f35-a8e39587d3ac.png",
+      "reviewed": true
+    },
+    {
+      "name": "creative",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-ee3eab01-818e-461f-b069-a966ce2f31b3.png",
+      "reviewed": true
+    },
+    {
+      "name": "reading",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-ad16187d-a4c5-4dd2-aef7-9553cbfb1a4b.png",
+      "reviewed": true
+    },
+    {
+      "name": "work",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-1d41289a-1858-4988-9f73-b3a20b65bc51.png",
+      "reviewed": true
+    },
+    {
+      "name": "home",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-c653ff48-c629-4533-9875-310ccd764457.png",
+      "reviewed": true
+    },
+    {
+      "name": "outdoors",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-1938abd1-8cc7-4cc7-aadb-a14cd4473a01.png",
+      "reviewed": true
+    },
+    {
+      "name": "music",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-81f28a5f-8337-42bb-bbea-bd53609d2a2e.png",
+      "reviewed": true
+    },
+    {
+      "name": "play",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-07ecc0d4-003e-42c7-aea1-c83504e7b0e6.png",
+      "reviewed": true
+    },
+    {
+      "name": "connection",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-73e856e9-2c01-4b3e-a3dd-9e86ebb9c9b8.png",
+      "reviewed": true
+    },
+    {
+      "name": "reflection",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-938d8011-bde3-4ed9-b86e-f13bb5f535e7.png",
+      "reviewed": true
+    },
+    {
+      "name": "travel",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-058a8b5c-96a8-4abf-9212-a2f7107e118b.png",
+      "reviewed": true
+    },
+    {
+      "name": "food-v2",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-61c0bb4e-7e58-4cb8-9587-d7fd9ef436fa.png",
+      "reviewed": true
+    },
+    {
+      "name": "ornament",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-c7847579-5cab-49bd-b5ad-d0745ef3f660.png",
+      "reviewed": true
+    },
+    {
+      "name": "unseen",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-994c6738-e7a9-4f29-93f0-f1d560136e2b.png",
+      "reviewed": true
+    },
+    {
+      "name": "locked",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-f3938096-e78b-40ac-a5ae-0dece20861e1.png",
+      "reviewed": true
+    },
+    {
+      "name": "hand-rock",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-1936924b-5490-4478-a354-8464f1805120.png",
+      "reviewed": true
+    },
+    {
+      "name": "hand-paper",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-159f7a56-98f5-4141-bf1e-544532118782.png",
+      "reviewed": true
+    },
+    {
+      "name": "hand-scissors",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-32637b7b-ab91-42e8-8984-134db4c36051.png",
+      "reviewed": true
+    },
+    {
+      "name": "selected-v1",
+      "reviewed": true,
+      "used": false,
+      "reason": "low check/enamel contrast"
+    },
+    {
+      "name": "selected-v2",
+      "reviewed": true,
+      "used": true,
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-f4d768b1-948f-41dd-8aa7-39b0e220ef1f.png",
+      "prompt": "Keep the single round selected-answer badge, complete silhouette, simple ivory check, gold rim and transparent background. Change enamel fill to rich berry #98234f with restrained dark highlights; ensure strong 24px legibility, no pale reflections behind check."
+    },
+    {
+      "name": "paper-light",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-0f054042-1540-406b-8893-6b7d05864e1f.png",
+      "reviewed": true,
+      "used": true,
+      "prompt": "Full square uniform blank light notebook inner paper, matching gamesys0206 reference; subtle hand-painted grain; no border, rings, gradients, objects, writing or shadows."
+    },
+    {
+      "name": "paper-dark",
+      "source": "/Users/shaoxia/.codex/generated_images/01a197fc-76e9-7f71-9e90-143d44679370/exec-2b47da50-5924-402f-8762-c1c2fd328f54.png",
+      "reviewed": true,
+      "used": true,
+      "prompt": "Full square uniform blank dark notebook inner paper, matching gamesys0206 reference; subtle hand-painted grain; no border, rings, gradients, objects, writing or shadows."
+    }
+  ]
+}

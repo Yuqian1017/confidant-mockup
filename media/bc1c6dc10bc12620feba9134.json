@@ -1,0 +1,7 @@
+{
+  "choice": "A gold glass",
+  "generatedSource": "docs/evidence/hot0202b/heart-options/A/generated-atlas.png",
+  "sourceProvenance": "docs/evidence/hot0202b/heart-options/provenance.json",
+  "processing": "vessel unchanged; aperture luminance converted to alpha (geometry unchanged); liquid crop [6,23,60,55], reflected 4x without sidewalls; submerged final row continued; grayscale texture with original alpha",
+  "newGenerationCalls": 0
+}

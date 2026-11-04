@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "companion-daily-v1",
+      "worldPreference": "daily",
+      "presetId": "rainy-apartment",
+      "path": "/audio/worlds/daily.mp3",
+      "durationSeconds": 60.029,
+      "sizeBytes": 1442002,
+      "sha256": "6f51ce8f63100c2fd4d6c2347bbecfd2e31258604a8f7c23a2bcf11d2ced2575",
+      "mimeType": "audio/mpeg"
+    },
+    {
+      "id": "companion-campus-v1",
+      "worldPreference": "campus",
+      "presetId": "campus-days",
+      "path": "/audio/worlds/campus.mp3",
+      "durationSeconds": 28.488,
+      "sizeBytes": 685287,
+      "sha256": "c20a4f0a02710e2aa029988fc1e0f9d0357e1c337a92705f9b94e19e39f9d5a6",
+      "mimeType": "audio/mpeg"
+    },
+    {
+      "id": "companion-workplace-v1",
+      "worldPreference": "workplace",
+      "presetId": "modern-workplace",
+      "path": "/audio/worlds/workplace.mp3",
+      "durationSeconds": 28.488,
+      "sizeBytes": 685287,
+      "sha256": "165e982687d9d641ba12d13a035f0a17fafbc384f5c0180212a8a52c72ce0ed0",
+      "mimeType": "audio/mpeg"
+    },
+    {
+      "id": "companion-old-money-v1",
+      "worldPreference": "old-money",
+      "presetId": "old-money-estate",
+      "path": "/audio/worlds/old-money.mp3",
+      "durationSeconds": 60.029,
+      "sizeBytes": 1442002,
+      "sha256": "68a2e6195c52f1c0b85fce543ec2eddf3461114bcce1a69b4b4dc7fe2c4873b8",
+      "mimeType": "audio/mpeg"
+    },
+    {
+      "id": "companion-court-v1",
+      "worldPreference": "court",
+      "presetId": "imperial-court",
+      "path": "/audio/worlds/court.mp3",
+      "durationSeconds": 28.488,
+      "sizeBytes": 685287,
+      "sha256": "4995cdb0d130a39909d34c51526beabe801beec6cfdcb6ee07f8a7094fb14daf",
+      "mimeType": "audio/mpeg"
+    },
+    {
+      "id": "companion-cultivation-v1",
+      "worldPreference": "cultivation",
+      "presetId": "cultivation-sect",
+      "path": "/audio/worlds/cultivation.mp3",
+      "durationSeconds": 60.029,
+      "sizeBytes": 1442002,
+      "sha256": "343ccc0ce0400343bcbfd2dae6f592834c48356b2b081655a4549c4dfefbec1b",
+      "mimeType": "audio/mpeg"
+    }
+  ]
+}

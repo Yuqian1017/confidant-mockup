@@ -1,0 +1,44 @@
+{
+  "mode": "built-in image_gen.imagegen",
+  "model": "not exposed by tool",
+  "calls": 4,
+  "reference": "docs/design/datehub-0194/C-light-character-0.webp + C-dark-character-0.webp",
+  "outputs": [
+    {
+      "file": "light-*.webp",
+      "source": "exec-cd88a22c-9681-485c-8ec3-341dc15864a6.png",
+      "prompt": "Use case: stylized-concept. Generate a production transparent raster sprite atlas for Confidant Dates C, matching the reference Rose Quill LIGHT design. Reference image is style/composition only, never reproduce its text, person or dove. Canvas exactly 1170 x 2532 pixels (390 x 844 CSS at 3x). Entire canvas genuinely transparent except the following ornaments at exact coordinates: (1) across top x0 y0 width1170 height1320: sparse delicate illustrated pink cherry blossoms in TOP RIGHT corner, a few soft pink drifting petals at left and right edges, very subtle ivory feathered mist along bottom from y780 to1320; keep all of x100..1170,y120..780 completely transparent for an existing portrait and cafe. (2) main button x51 y1350 width1068 height168: empty pill of luminous rose-pink pearl glass, ultra thin champagne golden rim and ivory inner rim, tiny low-contrast embossed flowers only at far ends; leave center blank with no lettering. (3) empty-history background x48 y1791 width1074 height642: transparent ivory glass with fine pale champagne rounded corners, fine painted tiny peach-pink cherry blossom branches in bottom left and bottom right only, no letter/dove/text. Keep rectangle interior transparent, floral branches occupy less than bottom100px CSS. Match the reference pixel for pixel in style and placement. NO UI screenshot, NO typography, NO portrait, NO cafe, NO symbols, NO dove, NO numbered regions, NO opaque backdrop. transparent outer 6px all edges. This is actual decorative artwork used behind HTML controls."
+    },
+    {
+      "file": "dark-*.webp",
+      "source": "exec-a4a94639-d88c-4fa3-88c5-6b54e520552d.png",
+      "prompt": "Use case: stylized-concept. Production transparent sprite atlas for Confidant Dates C DARK, corresponding to the reference design. Image1 is target style reference, no text/person/dove reproduction. Image2 is the LIGHT atlas layout to match region proportions, but repaint DARK. Canvas1170x2532 at3x. Upper half sparse subtle warm amber bokeh dots at edges and small low-contrast wine pink petals, deep burgundy feathered mist rising diagonally at bottom-left, completely transparent at upper right portrait face area. Middle: one empty wide shallow wine-red luminous glass pill button, champagne double hairline rim, tiny subdued flower etchings at far ends; 1068x168px intended display356x56. Bottom: fine champagne corner-line empty glass panel 1074x642px intended display358x214, subtle maroon cherry blossom branches at bottom corners, interior completely transparent. True transparent background everywhere outside ornaments, no fake black backdrop, no lettering, no person, no scene, no dove. Keep all objects complete with 6pxCSS transparent outer ring. Romantic lavish anime glass in same material as C-dark."
+    },
+    {
+      "file": "portrait-matte.webp",
+      "source": "exec-a3277cb4-c468-4415-b5e4-23b7605f9d8d.png",
+      "prompt": "Use case: stylized-concept. Production single alpha matte for compositing an EXISTING portrait and scene in the reference Confidant Dates C window. Output exactly1170x1350 pixels (390x450 CSS at3x), genuine transparent background, pure solid white matte shape only, no color/texture/letters/person/scenery. The shape covers the entire TOP RIGHT of the canvas, its top-left starts x650,y0, left edge softly feathers with about90px irregular misty wisps through x540,y180; x430,y480; x400,y720; x520,y1020 then x900,y1260. Entire central portrait face area x650..1100,y160..800 must be FULLY WHITE OPAQUE. The lower edge fades smoothly to fully transparent by y1340. Right edge opaque until y1100 then feathers. Left of x350 fully transparent everywhere. This is a neutral feathered portrait mask: only pure white with smooth varying alpha. No flowers, no props, no frame, no black fill, no checkerboard painted. Match the reference's feather blend shape where the cafe at left meets the figure at right."
+    }
+  ],
+  "cropRegions": {
+    "hero": [
+      0,
+      0,
+      853,
+      1022
+    ],
+    "button": [
+      24,
+      1020,
+      829,
+      1168
+    ],
+    "empty": [
+      12,
+      1200,
+      843,
+      1808
+    ]
+  },
+  "note": "Generated atlas sprites extracted without repainting. Geometry and styling acceptance remains under current rendered crop review; generation does not establish fidelity. Fourth call replaces cropped corner patches with whole native-ratio panels; original atlases remain intermediate sources only."
+}

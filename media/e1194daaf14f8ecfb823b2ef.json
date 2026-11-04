@@ -1,0 +1,23 @@
+{
+  "callsThisBatch": 2,
+  "callsTotal": 13,
+  "mode": "built-in imagegen",
+  "engine": "model/engine and dollar cost unexposed",
+  "references": [
+    "docs/design/datehub-0194/C-dark-character-0.webp",
+    "docs/design/datehub-0194/C-light-character-0.webp"
+  ],
+  "assets": [
+    {
+      "file": "dark-glass-ground-v2.webp",
+      "source": "/Users/shaoxia/.codex/generated_images/01a16606-1db4-79a2-8357-ed08a9009c86/exec-ec1ebdae-e81c-4d7b-8230-38f5c80c0dfb.png",
+      "request": "Reconstruct only selected C dark burgundy glass/candle bokeh ground, removing all foreground; retain source distribution/color/material."
+    },
+    {
+      "file": "c-divider-v2.webp",
+      "source": "/Users/shaoxia/.codex/generated_images/01a16606-1db4-79a2-8357-ed08a9009c86/exec-96283abc-b9e9-49c9-9a11-500094c44503.png",
+      "request": "Single transparent painterly five-part gold diamond/quatrefoil divider centre matching C; no line or text.",
+      "processing": "Trim alpha support above2/255 (discard only near-transparent generator noise); native aspect downsample into transparent 6px-ring stage."
+    }
+  ]
+}

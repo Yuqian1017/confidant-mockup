@@ -1,0 +1,85 @@
+{
+  "method": "Central 4-connected alpha < 128 component, native pixel coordinates; binary opening resamples with the current art. Centre = pixel-area centroid; radius = equal-area radius; noncircular contour is authoritative.",
+  "frames": {
+    "frame-pearl": {
+      "asset": "frame-pearl.webp",
+      "sha256": "e4c4e4df229baaa5057787e068fe36de4e12a2fc3e243018f7f23202e2dac812",
+      "width": 768,
+      "height": 768,
+      "alphaThreshold": 128,
+      "centre": {
+        "x": 389.3803,
+        "y": 351.7101
+      },
+      "radius": 267.1782,
+      "bounds": {
+        "x": 105,
+        "y": 94,
+        "width": 558,
+        "height": 526
+      },
+      "area": 224260,
+      "mask": "frame-pearl-opening.png"
+    },
+    "frame-star": {
+      "asset": "frame-star.webp",
+      "sha256": "00a8c6a917c3a6a473d27509d4f3ecf0baf31c20b1be631a75eecfac9182ae51",
+      "width": 768,
+      "height": 768,
+      "alphaThreshold": 128,
+      "centre": {
+        "x": 381.9148,
+        "y": 354.9472
+      },
+      "radius": 266.1684,
+      "bounds": {
+        "x": 97,
+        "y": 98,
+        "width": 561,
+        "height": 521
+      },
+      "area": 222568,
+      "mask": "frame-star-opening.png"
+    },
+    "frame-moon": {
+      "asset": "frame-moon.webp",
+      "sha256": "4950781483da94e8c58c309fc7859a76cc8b8e93b887c90a68265b24af84d0b5",
+      "width": 768,
+      "height": 768,
+      "alphaThreshold": 128,
+      "centre": {
+        "x": 389.5015,
+        "y": 355.2926
+      },
+      "radius": 265.0767,
+      "bounds": {
+        "x": 105,
+        "y": 99,
+        "width": 558,
+        "height": 522
+      },
+      "area": 220746,
+      "mask": "frame-moon-opening.png"
+    },
+    "frame-heart": {
+      "asset": "frame-heart.webp",
+      "sha256": "7eff39d5693c1c31104b6807c89326d63fea7049e3627d3866babac1f3fab6bc",
+      "width": 768,
+      "height": 768,
+      "alphaThreshold": 128,
+      "centre": {
+        "x": 386.8635,
+        "y": 352.3593
+      },
+      "radius": 263.3315,
+      "bounds": {
+        "x": 102,
+        "y": 99,
+        "width": 558,
+        "height": 515
+      },
+      "area": 217849,
+      "mask": "frame-heart-opening.png"
+    }
+  }
+}

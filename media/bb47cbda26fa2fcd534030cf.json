@@ -1,0 +1,1146 @@
+{
+  "date": "2026-10-30",
+  "purpose": "All currently catalogued World Home scene shapes answer safe taps; only six characters receive expression review.",
+  "records": [
+    {
+      "logical": "assets/phone-story/world-packs/campus-days/classmate-xia-yao/v1/home-morning.webp",
+      "sourceSha256": "086109f9c55086ca8a8ad4bfb44ddec6ceb50573e620e82b2b01e77a38629ffe",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-e5b0a08d1f1f-hit.webp",
+      "outputSha256": "ec0eb19329fcf6e67d0403d1cfcad4ab9d84b22e358ad93e4ab43dddcf38c177",
+      "coverage": 0.4426129659016927,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4384765625,
+        "y": 0.13671875,
+        "w": 0.2294921875,
+        "h": 0.15299479166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/campus-days/classmate-xia-yao/v1/home-night.webp",
+      "sourceSha256": "f64dc6a2b2d73e117a70e138a634b24a60cd7b683684f6eaf3710673672b9e69",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-318ae549458b-hit.webp",
+      "outputSha256": "33bc40521b9ad6bf9e7bc0bc749b104dc5446ef11e3045f4b6e5f146bbf1440a",
+      "coverage": 0.5041993459065756,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.400390625,
+        "y": 0.21223958333333334,
+        "w": 0.2392578125,
+        "h": 0.15950520833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/campus-days/radio-sofia-alvarez/v1/home-morning.webp",
+      "sourceSha256": "1234f322ad706b2fd29bac36f595d22974498ed0fe0c1e1b36025b166aaaf3e1",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-231d0ccc2eff-hit.webp",
+      "outputSha256": "e4d2cdd8569b4500c468053f5237aa35629f0e65c88d882498949d09679ce4f5",
+      "coverage": 0.4700133005777995,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.412109375,
+        "y": 0.16080729166666666,
+        "w": 0.251953125,
+        "h": 0.16796875
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/campus-days/radio-sofia-alvarez/v1/home-night.webp",
+      "sourceSha256": "42f35d816786417759ce1c9f27a885280ab95674873ab19a5035908b28cc1344",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-5ab65e84d457-hit.webp",
+      "outputSha256": "46c8a15ccb25a7908273b1109f1b007391123201214b791e25c27f9d4b8869d8",
+      "coverage": 0.5803845723470052,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3740234375,
+        "y": 0.18489583333333334,
+        "w": 0.2861328125,
+        "h": 0.19075520833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/campus-days/senior-lin-che/v1/home-morning.webp",
+      "sourceSha256": "3df8429fee3a22ac43706b1b59b99b3a02d24216ea514296a5efdf795a9bd3c6",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-aac1d24e5a42-hit.webp",
+      "outputSha256": "d4bdf258b76618c6019bd3556375d8390443dc569f0df8f5f3280b512d4eaa21",
+      "coverage": 0.3693854014078776,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4150390625,
+        "y": 0.21419270833333334,
+        "w": 0.23046875,
+        "h": 0.15364583333333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/campus-days/senior-lin-che/v1/home-night.webp",
+      "sourceSha256": "200c646f163a4d05c2c26898ae4acc824ba3131b31a1812772366e890f66374c",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-45c11bb98248-hit.webp",
+      "outputSha256": "1e08704aca04d63e4f66cd01aab5051951ed691cdd3b23d2a247d89a8420b827",
+      "coverage": 0.6006069183349609,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3955078125,
+        "y": 0.19010416666666666,
+        "w": 0.2451171875,
+        "h": 0.16341145833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/architecture-grad-song-yanzhou/v1/home-morning.webp",
+      "sourceSha256": "062dc29b5a0178d1bf791cd53d6a6a40adf47b564df7453ebd26a645880b7a36",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-c865bd120e4f-hit.webp",
+      "outputSha256": "503787241064762b961b23aeca22bb62a7217dbe4ae6d2de2597ea248e002f8f",
+      "coverage": 0.45277659098307294,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.337890625,
+        "y": 0.11588541666666667,
+        "w": 0.1962890625,
+        "h": 0.130859375
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/architecture-grad-song-yanzhou/v1/home-night.webp",
+      "sourceSha256": "9cdfb0f89b3439877a7abf63f9520eb4e7605889c36e08fdf024d1bc61bf8c14",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-18d37e3a673d-hit.webp",
+      "outputSha256": "ded19f893cc6421ab9be8b3f8500b4f34a88918cda9d29856196c186530e37f5",
+      "coverage": 0.47882715861002606,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3154296875,
+        "y": 0.1171875,
+        "w": 0.1953125,
+        "h": 0.13020833333333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/medical-student-aditi-rao/v1/home-morning.webp",
+      "sourceSha256": "d7a3ac43d9a458a3f17b3a51b7d33d96a4e5613783051c8cccb96095a55ee753",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-d4af33479619-hit.webp",
+      "outputSha256": "a4fcef2c27480bdc3b22be215e4aeca05791f3a518e15d3f082fc9385422a4e1",
+      "coverage": 0.5028177897135416,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.453125,
+        "y": 0.13606770833333334,
+        "w": 0.234375,
+        "h": 0.15625
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/medical-student-aditi-rao/v1/home-night.webp",
+      "sourceSha256": "a90a8b108d821d8c6e611c2ef91707b83b198710c3aefd6227d1614dd610ed9f",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-7d62658eecf6-hit.webp",
+      "outputSha256": "e16d3b306b786638f4683ea9861b82b7240375400060f0f61ff0ef68c640933f",
+      "coverage": 0.4953168233235677,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.416015625,
+        "y": 0.1953125,
+        "w": 0.2099609375,
+        "h": 0.13997395833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/rainy-apartment/linwan/v1/home-morning.webp",
+      "sourceSha256": "388d0ee212b0510ee3b16a65846bd0cde5c1690e307dbfe862d1e97cd389382f",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-43eba76f8730-hit.webp",
+      "outputSha256": "68b6d9daed9b88a81e62c0c738b7f0e7f038f09e392b7dc58fb9391d75cddb62",
+      "coverage": 0.41791725158691406,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3466796875,
+        "y": 0.15950520833333334,
+        "w": 0.220703125,
+        "h": 0.14713541666666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/rainy-apartment/linwan/v1/home-night.webp",
+      "sourceSha256": "f022917f12b0326387b076e6e32806625063457b3b04f6005019acb3dfbd557a",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-46b43dbe7e13-hit.webp",
+      "outputSha256": "a35bcfdcd903d9000a428a68f26501095e2133bee84ffb2c883105dacd448a4b",
+      "coverage": 0.5371793111165365,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3857421875,
+        "y": 0.16861979166666666,
+        "w": 0.2724609375,
+        "h": 0.181640625
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/campus-days/radio-josie-whitley/v1/art-home-morning.webp",
+      "sourceSha256": "557d6979863ca7484bc48e34d55603b0527e8ce6bbb4f1514bce8df5caa77c2a",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-cac45998623d-hit.webp",
+      "outputSha256": "4120325eccde3e23d869d38563313fe237d4137d1c90a1f3eb4bb753f9fa09f4",
+      "coverage": 0.5364668756881562,
+      "face": {
+        "aspect": 0.8002853067047075,
+        "x": 0.42424242424242425,
+        "y": 0.17760342368045648,
+        "w": 0.22192513368983957,
+        "h": 0.17760342368045648
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/campus-days/radio-josie-whitley/v1/art-home-night.webp",
+      "sourceSha256": "4a6923e382aecdd5171686202ae15c97a136f0fc7d1a12b963e875e43bdaafc4",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-9c1afee44661-hit.webp",
+      "outputSha256": "1210384ccefb5573768937632014604bf361f5fbc54452deaf2cd822623f5445",
+      "coverage": 0.44476441854137583,
+      "face": {
+        "aspect": 0.8002853067047075,
+        "x": 0.4500891265597148,
+        "y": 0.1383737517831669,
+        "w": 0.20320855614973263,
+        "h": 0.16262482168330955
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/cultivation-sect/junior-ye-zhaoshui/v1/home-morning.webp",
+      "sourceSha256": "d3ad01a744c9485176bdc1c471bdf2c951a45280ed5d7252192a36b49dd65ead",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-09dbab276e31-hit.webp",
+      "outputSha256": "086ccd4a4cf40c4bfc5a088a2d529b2b1811105e7304fc608f2b365213f81ac0",
+      "coverage": 0.3876056671142578,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4609375,
+        "y": 0.20442708333333334,
+        "w": 0.2197265625,
+        "h": 0.146484375
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/cultivation-sect/junior-ye-zhaoshui/v1/home-night.webp",
+      "sourceSha256": "0329e0ddfd395bc6bff4eddecbb16dfefb5efab24b6185f0f6a634be47ed6313",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-e4f06c820cec-hit.webp",
+      "outputSha256": "c65ce1bcd220386cb58304da6be3c2a38e1fa526e680eb707e8a19c09a23609b",
+      "coverage": 0.4562174479166667,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4404296875,
+        "y": 0.22135416666666666,
+        "w": 0.228515625,
+        "h": 0.15234375
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/cultivation-sect/role-daoist-wayfarer-qingheng/v1/home-morning.webp",
+      "sourceSha256": "d3388bd314cd9052645d93380c847c7be284ba011cd239a6a603356a01e53a21",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-060dab0d5773-hit.webp",
+      "outputSha256": "096ee0ede4bee7a84f4bd5816f85326afe4e6f63b89b4ad17bdd9ed044eee5b2",
+      "coverage": 0.5200386047363281,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.416015625,
+        "y": 0.17057291666666666,
+        "w": 0.1943359375,
+        "h": 0.12955729166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/cultivation-sect/role-daoist-wayfarer-qingheng/v1/home-night.webp",
+      "sourceSha256": "8d36550424a0def4d0b66f553d157fb755c44fe5f40b9903e0f74ec2448cf709",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-9689ae7dd31e-hit.webp",
+      "outputSha256": "42db8888f1f26b73f1450e078bb85a9adfd21a8467d67864cd31356f22633fcd",
+      "coverage": 0.5526180267333984,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3916015625,
+        "y": 0.20833333333333334,
+        "w": 0.2412109375,
+        "h": 0.16080729166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/cultivation-sect/senior-shen-lan/v1/home-morning.webp",
+      "sourceSha256": "fc3d0caddb546164159322380aa661bd7bba339d15e18985e0425aa212f0f87d",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-f8af40fad458-hit.webp",
+      "outputSha256": "05cf137b5c8b77395285e07294eff5020e17508c8874c0390e370bd073b4a7a9",
+      "coverage": 0.5179786682128906,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4619140625,
+        "y": 0.16276041666666666,
+        "w": 0.2333984375,
+        "h": 0.15559895833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/cultivation-sect/senior-shen-lan/v1/home-night.webp",
+      "sourceSha256": "32f39dcc2fedb8b3bf87490c30d134aecb220005cdd25b67b7f86d29f9ac95ea",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-c0ab61ddb570-hit.webp",
+      "outputSha256": "51e7a5296d608f13181e97802df857cf8227cb7218b194637b0bd2cc04f7954a",
+      "coverage": 0.6008078257242838,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4228515625,
+        "y": 0.17317708333333334,
+        "w": 0.26171875,
+        "h": 0.17447916666666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/spirit-beast-vet-luo-qingluo/v1/home-morning.webp",
+      "sourceSha256": "c6abb9182b36d8c210e13d07f7164df36d793490e8b7cd2aee8b12d7c885db5a",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-6cc9bff4ba8f-hit.webp",
+      "outputSha256": "fbeaa1dc949bf56d34b86a7084b920c841c663017dedc5ffa1a00683318fc8ed",
+      "coverage": 0.6010665893554688,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.41015625,
+        "y": 0.1875,
+        "w": 0.2353515625,
+        "h": 0.15690104166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/spirit-beast-vet-luo-qingluo/v1/home-night.webp",
+      "sourceSha256": "14ede9d9a3035ae9f415edfd55ea159f58e565a7e8475cd920dce876f400a83a",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-3a0d9a78d2b6-hit.webp",
+      "outputSha256": "01a87d2d432f051d23f6c45920094bb5567ecbcb781ba1f4272115c7a1966dec",
+      "coverage": 0.5736115773518881,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3427734375,
+        "y": 0.16536458333333334,
+        "w": 0.2255859375,
+        "h": 0.150390625
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/sword-tomb-keeper-xie-wuya/v1/home-morning.webp",
+      "sourceSha256": "e3770231dbd3791ce7878b0f40775461714191363a925bf2d6ce1f7ffdce3ee0",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-f9eda62e303f-hit.webp",
+      "outputSha256": "04004b6a7418c17239f906d639b43d5864817482a4e56adb56e9850acc41500a",
+      "coverage": 0.5724652608235677,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4189453125,
+        "y": 0.166015625,
+        "w": 0.181640625,
+        "h": 0.12109375
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/sword-tomb-keeper-xie-wuya/v1/home-night.webp",
+      "sourceSha256": "d59a490c54041ed9e77a7e225948751a74e2a2dea05c3d78c795c8ebd25b88c8",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-7880d023c2f0-hit.webp",
+      "outputSha256": "71d285aff82c112a0a177326a06e92be5cc7bd11eb7667be6102f3f0c9fd87e7",
+      "coverage": 0.6093896230061849,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4111328125,
+        "y": 0.20052083333333334,
+        "w": 0.2001953125,
+        "h": 0.13346354166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/old-money-estate/role-bookshop-curator-eleanor/v1/home-morning.webp",
+      "sourceSha256": "3df22b767ba102aaf0b1d8aa744b4dbf9b54615b696ab8c527bdd3727a4e7e98",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-2a9cc343cf20-hit.webp",
+      "outputSha256": "21da62b325646b7544fa7b46451d1eca9bed62e15ccbb5623812b629722f3035",
+      "coverage": 0.3833777109781901,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4365234375,
+        "y": 0.16341145833333334,
+        "w": 0.2275390625,
+        "h": 0.15169270833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/old-money-estate/role-bookshop-curator-eleanor/v1/home-night.webp",
+      "sourceSha256": "a6201aca06b6a238c2a0903844e95d142761f6778e944562aad0a8b847c811ac",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-531fc732637f-hit.webp",
+      "outputSha256": "89095e6a6cd9394c48352d9ac3a6b8e5a202b56f6ff8c2319973e57b5f0b1db6",
+      "coverage": 0.5283718109130859,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3857421875,
+        "y": 0.16536458333333334,
+        "w": 0.259765625,
+        "h": 0.17317708333333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/imperial-court/historian-gu-qinghe/v1/home-morning.webp",
+      "sourceSha256": "114315cda6e3d7147294bc9ba1f96202b4bacf246dcb493f3b648df92765c9de",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-0f4475979bde-hit.webp",
+      "outputSha256": "463a10939fa86c0d67683c605b4cd5a8ff0eb0827b5869a276f17823b49895fc",
+      "coverage": 0.4160455067952474,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.353515625,
+        "y": 0.2578125,
+        "w": 0.2568359375,
+        "h": 0.17122395833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/imperial-court/historian-gu-qinghe/v1/home-night.webp",
+      "sourceSha256": "8d5d13c37849701efc3b848201e9e6e424fdbb4cb29d362282765d858578c216",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-24e69389d4ea-hit.webp",
+      "outputSha256": "f057f0b7dcbe59b1bc19341c21db66d8e872d145fb0ba6f57f71c8af307dd1d8",
+      "coverage": 0.5108935038248698,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4111328125,
+        "y": 0.20963541666666666,
+        "w": 0.251953125,
+        "h": 0.16796875
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/imperial-court/regent-xiao-chengyan/v1/home-morning.webp",
+      "sourceSha256": "eec39fab40162af9c0a5c070c003e079569ac599ed36c474d04bcfb101e09667",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-9661392dba1e-hit.webp",
+      "outputSha256": "852e9e8f9fb0e2679ca9b0317f3e78e2495f5daa0baf40c81752891b9b67ad4b",
+      "coverage": 0.43256060282389325,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4052734375,
+        "y": 0.24283854166666666,
+        "w": 0.2353515625,
+        "h": 0.15690104166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/imperial-court/regent-xiao-chengyan/v1/home-night.webp",
+      "sourceSha256": "8179e585d3860cf525c82827095667d3e14ad733fc0fc889c69d4a169314eddb",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-abcc93460ac4-hit.webp",
+      "outputSha256": "ef8e2dff389eb784cf334bbe3f69370fa4b79550267dda5a61f95abbcdfa0924",
+      "coverage": 0.46442413330078125,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4853515625,
+        "y": 0.24869791666666666,
+        "w": 0.2392578125,
+        "h": 0.15950520833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/imperial-court/role-moon-bard-lyra/v1/home-morning.webp",
+      "sourceSha256": "5bfc7d75310f93f6290a4f6a8cadca693f477ee35e0765f101359143c0b74d29",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-a3695974c928-hit.webp",
+      "outputSha256": "614659f1ca430158dcd2939790d793eb77ee485c1388204a7b6d92d1a37ce81e",
+      "coverage": 0.4946581522623698,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4169921875,
+        "y": 0.16666666666666666,
+        "w": 0.185546875,
+        "h": 0.12369791666666667
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/imperial-court/role-moon-bard-lyra/v1/home-night.webp",
+      "sourceSha256": "93aad76b3563b270e298040dd1ec2e4aba50e81e923762af7602aedb766de561",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-fefb8181bcf3-hit.webp",
+      "outputSha256": "f07bd8a67b261ad987205a25ebabba068a58d4be0cb1c9c8b0ab229871aa400d",
+      "coverage": 0.5113506317138672,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4140625,
+        "y": 0.16015625,
+        "w": 0.1962890625,
+        "h": 0.130859375
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/court-embroiderer-su-jin/v1/home-morning.webp",
+      "sourceSha256": "1d41a72d84abeb7e81990cd0f5faf28f63719cc8b78ced6b064f915c628d3b58",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-7bfe572bd6bc-hit.webp",
+      "outputSha256": "6e840cf00b81f26a4c232785158af0c40a4b91c5577433c8b071083b77228198",
+      "coverage": 0.41475359598795575,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4150390625,
+        "y": 0.18424479166666666,
+        "w": 0.216796875,
+        "h": 0.14453125
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/court-embroiderer-su-jin/v1/home-night.webp",
+      "sourceSha256": "d864dde6702743f4fe5f00e89204eef533c158d7b077060051e7d609774a4f99",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-a8cd8cb67039-hit.webp",
+      "outputSha256": "c85d1a050ed3f6b155c686f657636e2af09b56f5ce372a22ade23a0662b071f6",
+      "coverage": 0.5166028340657552,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.408203125,
+        "y": 0.18489583333333334,
+        "w": 0.21484375,
+        "h": 0.14322916666666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/imperial-physician-pei-zhiwei/v1/home-morning.webp",
+      "sourceSha256": "3524e88030a7bab8547cc58730dea66ea6e3547b12552892e7411921e8882ceb",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-e8e6d9e2a4fc-hit.webp",
+      "outputSha256": "02f1c48a4d0324b2a553d68e7b2ee0f23560d6fc948945187500a2df29f9056a",
+      "coverage": 0.4084453582763672,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3837890625,
+        "y": 0.205078125,
+        "w": 0.1943359375,
+        "h": 0.12955729166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/imperial-physician-pei-zhiwei/v1/home-night.webp",
+      "sourceSha256": "24c4d2b668b407f1d3f109622258d89ed91028be366e893cdc1521daae09f6f3",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-1f62664a4cd8-hit.webp",
+      "outputSha256": "927f62ab0607768f0b0c791d3eb00ede0117488eeba66d302ac114074b0b3a8f",
+      "coverage": 0.4372793833414714,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4443359375,
+        "y": 0.21223958333333334,
+        "w": 0.197265625,
+        "h": 0.13151041666666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/modern-workplace/lead-gu-yan/v1/home-morning.webp",
+      "sourceSha256": "a17092d2af1cf4f2da4d8222ecc1d25fab9abc1f93bef3b5d7dbd1e9ef07715c",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-157467652246-hit.webp",
+      "outputSha256": "05a548b81dfa90bf9f30965aca0cd5936c299f51e7c3757300b544298d723238",
+      "coverage": 0.4081109364827474,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.375,
+        "y": 0.1484375,
+        "w": 0.2001953125,
+        "h": 0.13346354166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/modern-workplace/lead-gu-yan/v1/home-night.webp",
+      "sourceSha256": "ff6c041f6c81c82369ab1f6cdd4d4a3eee6b3f399f1434ec3ab1117937e50ac3",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-115e9ede6c14-hit.webp",
+      "outputSha256": "7a6d2efedbd4bf299370ef7a6a3a45307abd6d511f09f930c2c8275d268ae0c3",
+      "coverage": 0.4883015950520833,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3388671875,
+        "y": 0.12369791666666667,
+        "w": 0.2431640625,
+        "h": 0.162109375
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/modern-workplace/strategist-amara-okafor/v1/home-morning.webp",
+      "sourceSha256": "ba806b01bcff25353a985028d20cf38cd3443ccb8c2954eac494abdd4ff1f4b2",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-3178215d6bb7-hit.webp",
+      "outputSha256": "4f98ee70fab6207c157eea6004650a977be583f43b05083fb90857b99037ffd2",
+      "coverage": 0.34066009521484375,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4169921875,
+        "y": 0.15950520833333334,
+        "w": 0.2275390625,
+        "h": 0.15169270833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/modern-workplace/strategist-amara-okafor/v1/home-night.webp",
+      "sourceSha256": "e2338c191aa236b2ae2dff61d6d8d7ab8ecd4460f659727dc7718f4ebe71f122",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-8dacbd774f07-hit.webp",
+      "outputSha256": "ac456e2b63e582f8fb5a4aa9e01bf24dd1394bee8cb73bddcb676fa8cdbcfd71",
+      "coverage": 0.5614878336588541,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3994140625,
+        "y": 0.18424479166666666,
+        "w": 0.2412109375,
+        "h": 0.16080729166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/finance-analyst-shen-mofan/v1/home-morning.webp",
+      "sourceSha256": "2cc9008663a29f6d74046a0aa479478974e04754a337832f1dd4ae71504336f2",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-68fed28a249f-hit.webp",
+      "outputSha256": "e77b91e1c81efdd0c02416a34bf59b5c37bf0c40336fa9e62ddfee8101614755",
+      "coverage": 0.44370778401692706,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3916015625,
+        "y": 0.14322916666666666,
+        "w": 0.177734375,
+        "h": 0.11848958333333333
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/finance-analyst-shen-mofan/v1/home-night.webp",
+      "sourceSha256": "c41b5a055019f862ee6d0ef0aa261bd7f3cce0798037596b0ed00cf98291b446",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-99edfbcb220f-hit.webp",
+      "outputSha256": "72f1994275063d124c7cace716eb77351fab7baaed6533d5e90dcb055ad90206",
+      "coverage": 0.5622030893961588,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3408203125,
+        "y": 0.13411458333333334,
+        "w": 0.2294921875,
+        "h": 0.15299479166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/product-researcher-imani-brooks/v1/home-morning.webp",
+      "sourceSha256": "8e720a6de7d6ffe600c1fb099b0e30909340f48f6e95923efb2e199da7b44bea",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-b6ca8426cafa-hit.webp",
+      "outputSha256": "1c6a5c0138b5aa489a17883087c50b2f3af3ef4912348c94ce47f67617fd5aea",
+      "coverage": 0.42656834920247394,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.390625,
+        "y": 0.15625,
+        "w": 0.197265625,
+        "h": 0.13151041666666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/product-researcher-imani-brooks/v1/home-night.webp",
+      "sourceSha256": "bed04536ea665f029d4df88309048fc617e7d7d2169afc285c3fd2d04e0560f5",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-084783e06855-hit.webp",
+      "outputSha256": "4f6a9fa80cafb312cbb2fc32ee8a44b7519cfcbde59055a887901fbb5497a461",
+      "coverage": 0.5237617492675781,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4140625,
+        "y": 0.11197916666666667,
+        "w": 0.197265625,
+        "h": 0.13151041666666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/modern-workplace/designer-mira-chen/v1/home-morning.webp",
+      "sourceSha256": "d7dd08a235daf08cbcf53f13b495e9f10d4b314d4a4aeb40d3757f8cbbf2bb88",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-5c8ac07cc773-hit.webp",
+      "outputSha256": "18d2e5bc5307274ab84fcb8c308a2956dccbd507cbde2779f1c8de4f0f74e69a",
+      "coverage": 0.49400075276692706,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4150390625,
+        "y": 0.17317708333333334,
+        "w": 0.22265625,
+        "h": 0.1484375
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/modern-workplace/designer-mira-chen/v1/home-night.webp",
+      "sourceSha256": "81b95c381bd961bb8f6d412656fafb9f951d3ef55d049c269e04ee0c28d4533d",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-e37ed05685b9-hit.webp",
+      "outputSha256": "52e95aea8fc3cd017b28974b69b0b8d9104fe15660922b570a024e4fdc33f05d",
+      "coverage": 0.45676422119140625,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4423828125,
+        "y": 0.20638020833333334,
+        "w": 0.22265625,
+        "h": 0.1484375
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/moon-gate-guild/oathbound-arden/v1/home-morning.webp",
+      "sourceSha256": "62ca51ddb253c5019790cd7c1cd597560dda65a2d8ceb42a9ef121f0d81e5418",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-b75151574221-hit.webp",
+      "outputSha256": "2185ef5f8dd240fe17597afd1ed78a5c2972edc2955d839732ee70eaad8ef335",
+      "coverage": 0.33944129943847656,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.41015625,
+        "y": 0.1328125,
+        "w": 0.1943359375,
+        "h": 0.12955729166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/moon-gate-guild/oathbound-arden/v1/home-night.webp",
+      "sourceSha256": "d65aa135f2aa63f6acf880a3cec46a0f43b7eebc0fe20352297646d215f0c440",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-6a6ba5818198-hit.webp",
+      "outputSha256": "5b306cf5e594652ac238db0f3d878e40741867ed3a453d8adb3559dbc5630e14",
+      "coverage": 0.5273799896240234,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3974609375,
+        "y": 0.17643229166666666,
+        "w": 0.2119140625,
+        "h": 0.14127604166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/moon-gate-guild/shadow-scout-valeria/v1/home-morning.webp",
+      "sourceSha256": "6d055d1e9ce324e30651c9048f526bc11a26574b13feaf5ef3cf7c76ce959f2c",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-1e5277227835-hit.webp",
+      "outputSha256": "79e59ce9ec7fa367bb446c14bfd481ce658645f502f32011c5337537934ec329",
+      "coverage": 0.4680004119873047,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3056640625,
+        "y": 0.1484375,
+        "w": 0.27734375,
+        "h": 0.18489583333333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/moon-gate-guild/shadow-scout-valeria/v1/home-night.webp",
+      "sourceSha256": "998368bda77f764bafdf7b13c33d7604746618db5aaa7095aed4ebada363aeed",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-f3f1a39bb92c-hit.webp",
+      "outputSha256": "91b32b5befbd713f2fa0e623a38e420cf3b576c05a86104cdc052b34c80e9d96",
+      "coverage": 0.6195112864176432,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3779296875,
+        "y": 0.154296875,
+        "w": 0.259765625,
+        "h": 0.17317708333333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/moon-gate-guild/star-mage-meilin/v1/home-morning.webp",
+      "sourceSha256": "e997bdccfa5e4753703c390edc1ed2db830b8aefb4694075664f0cd1543d8b1f",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-d9f8144c63b8-hit.webp",
+      "outputSha256": "a337b0b04ee4c8224a42783861de07e4b3f2a7b63a3f18d119d9b9bacc4c48a1",
+      "coverage": 0.38175392150878906,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.34765625,
+        "y": 0.16471354166666666,
+        "w": 0.2294921875,
+        "h": 0.15299479166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/moon-gate-guild/star-mage-meilin/v1/home-night.webp",
+      "sourceSha256": "6cc8fec4b5959206f6cbed2868a78ca41fa9473d04f6a737f2e34e3bb9824d55",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-b76dd5eed917-hit.webp",
+      "outputSha256": "f307b6fb3dbc25bf82ae274841edd57fd8715aa53f957edc6e2a975c4cfec4ae",
+      "coverage": 0.5481942494710287,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.34765625,
+        "y": 0.20182291666666666,
+        "w": 0.255859375,
+        "h": 0.17057291666666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/relic-conservator-elias-voss/v1/home-morning.webp",
+      "sourceSha256": "d1433544289a0a583e2783ca46661c72876207d1b1d9cda3a7cdd7ff3b5ae606",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-ab71f8629ec8-hit.webp",
+      "outputSha256": "5fb480f3d1168dfd9a097eedc487c0efb335ed5007836aacfd9351012d40c7c0",
+      "coverage": 0.5211677551269531,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.333984375,
+        "y": 0.13020833333333334,
+        "w": 0.22265625,
+        "h": 0.1484375
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/relic-conservator-elias-voss/v1/home-night.webp",
+      "sourceSha256": "2f409a025518d7f6cc55ea745b47d171d99beddae86ae0abfd3ba656925eb234",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-e1fb1b9371f0-hit.webp",
+      "outputSha256": "c2099a79b7a70f2747c8044091b8901baaf84220577d03ab94db850f55c725e5",
+      "coverage": 0.5692272186279297,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3291015625,
+        "y": 0.15364583333333334,
+        "w": 0.2216796875,
+        "h": 0.14778645833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/storm-singer-zuri-adebayo/v1/home-morning.webp",
+      "sourceSha256": "f2fe9b056732cb7ec08a05e6ea765b2e893798f1c44952c95ca2c0e20505fb9e",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-697851c81bbd-hit.webp",
+      "outputSha256": "4562a50cdf002011aaeec7402ab409eaf940fd5392c4a1f96a3ff466b899cf8f",
+      "coverage": 0.5047403971354166,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.455078125,
+        "y": 0.09309895833333333,
+        "w": 0.1923828125,
+        "h": 0.12825520833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/storm-singer-zuri-adebayo/v1/home-night.webp",
+      "sourceSha256": "64b55ea43b54be171168711f977b46752c3da24b67fe13db16b0d132c11a645f",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-10197aec6de9-hit.webp",
+      "outputSha256": "3cc16824dce584d0dc3ed366afef704ccb1904a8dfdf1532e2c540fe11689a49",
+      "coverage": 0.5718866984049479,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.380859375,
+        "y": 0.13802083333333334,
+        "w": 0.2119140625,
+        "h": 0.14127604166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/orbital-botanist-nia-okoye/v1/home-morning.webp",
+      "sourceSha256": "19fdfe3cec4552a560a9417fca8d22a3e785bdb37025b3bde699332eb9ceb861",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-e169ded19dc1-hit.webp",
+      "outputSha256": "57f46f0759c2fd6e629dc60dc067270fe390ad51fef29d5072cd9b7ad56f5cf4",
+      "coverage": 0.4397290547688802,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3974609375,
+        "y": 0.14973958333333334,
+        "w": 0.2392578125,
+        "h": 0.15950520833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/orbital-botanist-nia-okoye/v1/home-night.webp",
+      "sourceSha256": "578e397477ed6fd56bdbffe8f02f3205165535102ca8e19ef0438ecf5f21a1bb",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-0cd6d7d77e2f-hit.webp",
+      "outputSha256": "a6da39aab4ff2dd50596c65c7477534ff74b737343ef17aed702c88273c1d71d",
+      "coverage": 0.48646100362141925,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4208984375,
+        "y": 0.162109375,
+        "w": 0.23828125,
+        "h": 0.15885416666666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/starship-envoy-ravi-sen/v1/home-morning.webp",
+      "sourceSha256": "bfa3f14c8d6c01ccf73272073a694ad4cfe60578054cb81bdcde73914d359af0",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-5b7e636b798b-hit.webp",
+      "outputSha256": "e719526a0122e373c21230aaf67dc8046f957472576e586c83da368bc8089657",
+      "coverage": 0.43217023213704425,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4482421875,
+        "y": 0.11197916666666667,
+        "w": 0.20703125,
+        "h": 0.13802083333333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/starship-envoy-ravi-sen/v1/home-night.webp",
+      "sourceSha256": "9a19c5af1cea94db24b4dd9ddef575211d3962d3f88f4098bc0f832239ec29d9",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-99d422ed99fa-hit.webp",
+      "outputSha256": "90d2bacc7d76ffa3533aeb35f62e6c6a572c04fe15510d3cd0111e90d1c5a8bc",
+      "coverage": 0.5513540903727213,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.4111328125,
+        "y": 0.15690104166666666,
+        "w": 0.2109375,
+        "h": 0.140625
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/old-money-estate/guest-celeste-moreau/v1/home-morning.webp",
+      "sourceSha256": "ce17de84728015287666549a6f0cdfda6e0324a1127bce2cf7b037154de81f5c",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-2053981facb1-hit.webp",
+      "outputSha256": "d7cb6e76c3682577a42bd96d83d4850643837ed99bf95c639326ae010661106b",
+      "coverage": 0.3531055450439453,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3525390625,
+        "y": 0.11458333333333333,
+        "w": 0.220703125,
+        "h": 0.14713541666666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/old-money-estate/guest-celeste-moreau/v1/home-night.webp",
+      "sourceSha256": "9fb608b69c8ba5617806504b51fb82b91e37fa586beba838fc3adf1ace790385",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-44d822fc493b-hit.webp",
+      "outputSha256": "bdcc8b56dbd46ab89cbae5275fe1130cd30d0756049a0d62ba1df55014e71c37",
+      "coverage": 0.5442543029785156,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3486328125,
+        "y": 0.18359375,
+        "w": 0.275390625,
+        "h": 0.18359375
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/old-money-estate/heir-adrian-vale/v1/home-morning.webp",
+      "sourceSha256": "e339cf80054ff55b5f9034756c83ebdda3509477cee68514fecc430966b92ec5",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-d7f201bda09b-hit.webp",
+      "outputSha256": "4aadb4bccb6304386f4120afec6c2a25e3becf095002131ef0057bb4a79f1eea",
+      "coverage": 0.463595708211263,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.376953125,
+        "y": 0.142578125,
+        "w": 0.2421875,
+        "h": 0.16145833333333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/old-money-estate/heir-adrian-vale/v1/home-night.webp",
+      "sourceSha256": "c43cf3d009b4df55b127712cb9243d7797bd7508700b60b8b901a6100fbd74e2",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-b10f3d45b075-hit.webp",
+      "outputSha256": "d19d7f6c171d7314ed785b473a507a82819b58f784739f167c8cfbf172b49593",
+      "coverage": 0.5572522481282552,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.412109375,
+        "y": 0.17057291666666666,
+        "w": 0.21484375,
+        "h": 0.14322916666666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/rainy-apartment/luchen/v1/home-morning.webp",
+      "sourceSha256": "510f63dc1c9f0ffe1613b8db99c4f1829592a61eaaccbba1636d5d0b2c6ca56e",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-0303908eee60-hit.webp",
+      "outputSha256": "185b0f32b0fbbb5e5ae0e3019f6dc57239be55e6611837d3feb6e54d2130fe88",
+      "coverage": 0.49660682678222656,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.419921875,
+        "y": 0.123046875,
+        "w": 0.2158203125,
+        "h": 0.14388020833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/rainy-apartment/luchen/v1/home-night.webp",
+      "sourceSha256": "29b846baa84603fe29efc584779b7c091aeb802d8c97526ef2bca9437ffb0078",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-5d7badf9cd22-hit.webp",
+      "outputSha256": "b86f1d450986cd3f30a0cf494ad19e6413f3846219868154494fa37f15240ee6",
+      "coverage": 0.5529403686523438,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3681640625,
+        "y": 0.20182291666666666,
+        "w": 0.259765625,
+        "h": 0.17317708333333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/rainy-apartment/suli/erin-casey-v2/home-morning.webp",
+      "sourceSha256": "79935ed5be9b0ee701d6851061c0ea1aea0c345feffda1cd8ba724219ab8e525",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-6639e86c8b8f-hit.webp",
+      "outputSha256": "d6cc9512482d9c412a0629316126aa6e5fb5ad792b9ac9c5595b7c6e5b83c157",
+      "coverage": 0.5001239776611328,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.32421875,
+        "y": 0.16666666666666666,
+        "w": 0.3291015625,
+        "h": 0.21940104166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/rainy-apartment/suli/erin-casey-v2/home-night.webp",
+      "sourceSha256": "a37d607fa7b888daca1ac6552fa579e586a069ec97375d647c40c8cf376477ee",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-24a147b21d8b-hit.webp",
+      "outputSha256": "2476cfda61fff1aacd0702bc8229c68250f8d05279f358a4a84945e0a3a9d765",
+      "coverage": 0.5212415059407552,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.384765625,
+        "y": 0.138671875,
+        "w": 0.3046875,
+        "h": 0.203125
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/lighthouse-keeper-finn-obrien/v1/home-morning.webp",
+      "sourceSha256": "89bd9130a7d76f02d99cf0ad8e821970d6ae35a2976f91e921b300764ee70e81",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-96c41e2552c3-hit.webp",
+      "outputSha256": "ac1f576103620d67600c56e4bf937cc1a1778f9f546dc8ff1d92cdb5c84665c0",
+      "coverage": 0.5213114420572916,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.333984375,
+        "y": 0.125,
+        "w": 0.201171875,
+        "h": 0.13411458333333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/lighthouse-keeper-finn-obrien/v1/home-night.webp",
+      "sourceSha256": "3df982218214257f9f56139dea3026e0f1771cdb8501f0d404f1f0000ba24483",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-95b60213ebba-hit.webp",
+      "outputSha256": "c23e47335cc74b2e5e9678782d356ca56bf9191b8436335643af91efe95a7602",
+      "coverage": 0.5507539113362631,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.34375,
+        "y": 0.15755208333333334,
+        "w": 0.2236328125,
+        "h": 0.14908854166666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/marine-biologist-leilani-kealoha/v1/home-morning.webp",
+      "sourceSha256": "8e37c7f7c0ec2e891e4bfdcdce6a10357d295f1db50753f01030f044b4aa1f53",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-55a3b5d3f18a-hit.webp",
+      "outputSha256": "98db8a46d595a69a6e59092bda0dab58f8ff42a3448b5950bf94ff88557eb8f8",
+      "coverage": 0.4496663411458333,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.388671875,
+        "y": 0.146484375,
+        "w": 0.21484375,
+        "h": 0.14322916666666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/marine-biologist-leilani-kealoha/v1/home-night.webp",
+      "sourceSha256": "54e7a9414e3cd87d31180c48f63b38a6a7eab825236f1b77e5cb4d4c190fcdef",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-4fdb39ad3df9-hit.webp",
+      "outputSha256": "7c7aab6f2041053c3db9c634f2174bc8fc702ac33bc5bac86ee38f11e367f281",
+      "coverage": 0.47596168518066406,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.388671875,
+        "y": 0.14583333333333334,
+        "w": 0.2158203125,
+        "h": 0.14388020833333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/night-aquarium-keeper-mateo-cruz/v1/home-morning.webp",
+      "sourceSha256": "3df0f7450944c28b87351799c524929d85dc0d65471d5aa3b5ad6a837d2881f1",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-f7286b2c0ed0-hit.webp",
+      "outputSha256": "6811e47f6eb561db0ba25d7a25cb2db6259351513e3f14b982ac194f1f875d60",
+      "coverage": 0.4258047739664714,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3642578125,
+        "y": 0.109375,
+        "w": 0.201171875,
+        "h": 0.13411458333333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/night-aquarium-keeper-mateo-cruz/v1/home-night.webp",
+      "sourceSha256": "5475a98968b64d4ff85d2eafb24b88a1851eb5dde7497e4dd7ae285641bcaece",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-7edc0b993a60-hit.webp",
+      "outputSha256": "a873a0239b747da7df62b9ba747379880174b87e079b67bb7afc5a791e95debb",
+      "coverage": 0.4877764383951823,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.37109375,
+        "y": 0.11393229166666667,
+        "w": 0.20703125,
+        "h": 0.13802083333333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/perfumer-nour-haddad/v1/home-morning.webp",
+      "sourceSha256": "5656a8f577c86a2d7b21685309129561f0b0215babe6162de8ef9af560a7ffeb",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-93b5c1367ff8-hit.webp",
+      "outputSha256": "0c510d443302645b62694eebc44b0f708416e90466f7b4fec6efafe1c77dbdc1",
+      "coverage": 0.4050458272298177,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.3935546875,
+        "y": 0.16276041666666666,
+        "w": 0.197265625,
+        "h": 0.13151041666666666
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    },
+    {
+      "logical": "assets/phone-story/world-packs/role-pool/perfumer-nour-haddad/v1/home-night.webp",
+      "sourceSha256": "fdbff52f95a3924d06b7821b1204a8a1390de2f6effb12ce33a0bbc1948fe14b",
+      "mask": "/assets/phone-story/cutouts/figtouch0206-home-14c354bd8c64-hit.webp",
+      "outputSha256": "f89f5e1e4b22ab09ebaac05614413d369fbfb91c1c7f13b83ef94922a1e06ea4",
+      "coverage": 0.3919544219970703,
+      "face": {
+        "aspect": 0.6666666666666666,
+        "x": 0.375,
+        "y": 0.15690104166666666,
+        "w": 0.1953125,
+        "h": 0.13020833333333334
+      },
+      "method": "VNGenerateForegroundInstanceMaskRequest + VNDetectFaceRectanglesRequest; original source geometry; alpha only"
+    }
+  ]
+}

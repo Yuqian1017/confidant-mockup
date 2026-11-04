@@ -1,0 +1,18 @@
+{
+  "tool": "image_gen.imagegen",
+  "engine": "not disclosed by tool",
+  "generatedAt": "2026-09-14",
+  "postProcessing": "cwebp 640x640 quality 84 for runtime portraits; design reference resized to 1280px quality 80",
+  "sharedPromptRules": "Square shoulders-up portrait, romantic contemporary painterly anime style, centered circular-crop safe composition, rose-and-ivory light, ordinary clothing, no occupation cues, animals, fantasy accessories, text, logo or watermark.",
+  "assets": [
+    { "file": "original-01-east-asian-woman-20s-v1.webp", "subject": "East Asian woman, mid-20s, warm brown bob, oatmeal sweater", "sha256": "3918e97a5f4b939a6d67b0df2a64fda6e83d2b94104a2e1486522272e160bdf6" },
+    { "file": "original-02-black-androgynous-20s-v1.webp", "subject": "Black androgynous person, late 20s, short natural twists, blue-gray denim overshirt", "sha256": "3a4a13a9b2b4bf683b70660edc6ddea85eb687953f8c1e81116d03d0e4c31d5b" },
+    { "file": "original-03-south-asian-man-30s-v1.webp", "subject": "South Asian man, early 30s, wavy dark hair, sage knit", "sha256": "d9328aff948bfad96accc9929ed35fc044f6e0e3f4e1adb7f3ee716544e3b376" },
+    { "file": "original-04-latina-woman-40s-v1.webp", "subject": "Latina woman, mid-40s, dark curls with silver streak, terracotta cardigan", "sha256": "6e7e09c8ccf7d4b64d3931619294cb3d098ed56a09b066fbc9190e0c97f4f751" },
+    { "file": "original-05-east-asian-androgynous-40s-v1.webp", "subject": "East Asian androgynous person, late 40s, cropped salt-and-pepper hair, cream overshirt", "sha256": "3baac101723fb78fda53b0cc688dfa1b78903a31735c21c391a02841d306b3cc" },
+    { "file": "original-06-black-man-60s-v1.webp", "subject": "Black man, mid-60s, close-cropped gray hair and beard, dusty-blue sweater", "sha256": "7a7168a611f5b9f68f93d9498b0fb540131f000f10a7f757cb16378b85373973" },
+    { "file": "original-07-middle-eastern-woman-60s-v1.webp", "subject": "Middle Eastern woman, late 60s, silver hair and mauve headscarf, mauve cardigan", "sha256": "d9df6ed4f0c6979f940a2ce1861ab5c045c7e03574afa8d274be2d9ea33ad7b3" },
+    { "file": "original-08-light-androgynous-70s-v1.webp", "subject": "Light-skinned androgynous person, early 70s, white pixie cut, beige jacket", "sha256": "ac7d0737aa08d5b6cadec384d8e2c68819be4c4e8050963bf00aac880a2145a7" },
+    { "file": "avatar-picker-design-v1.webp", "subject": "High-fidelity rose-and-ivory avatar picker layout reference with preview, grouped presets, upload, generation and single save", "sha256": "9b483a24ebba985dc24f222592074af9caac8d4d3ff4a348c289f016812b08ba" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "task": "create0201g",
+  "tool": "built-in image_gen",
+  "model": "undisclosed by tool; GPT Image 2 preferred but unverified",
+  "calls": 3,
+  "transparent_background": true,
+  "selected": {
+    "soap-light.webp": "exec-0019ab70-c427-4c33-9d82-b72f0d62d80e.png",
+    "soap-dark.webp": "exec-546cacf7-e8f6-4d60-9412-5a0f389502cd.png"
+  },
+  "derivative": "Uniform 1254 square to 384 square Lanczos resize, WebP quality95, original alpha retained; no drawing/trace/stretch. CSS art opacity .68 light/.56 dark provides requested translucent body while preserving rim colors.",
+  "inspection": "Both outputs inspected only at 320px. Context review tracked in docs/evidence/create0201g.",
+  "cost": "Tool monetary usage not exposed",
+  "prompts": {
+    "light": "Use case: stylized-concept. Asset type: production UI soap-bubble sprite for Confidant romantic anime character workshop. Generate one perfectly round soap bubble centered in a square image, circle diameter 94% of canvas, with genuinely transparent alpha outside. A clearly visible soft pearl-WHITE translucent body filling the ENTIRE circle, 65–70% opacity across the middle with a very slight radial highlight upper left. The center is PEARLY MILKY WHITE, not empty air. Bright narrow iridescent rim in pink, warm gold, lilac, gentle luminous glow, an elegant white crescent highlight top left, faint soft rose shadow underneath contained in canvas. Keep the circumference delicate (about 2% diameter), not a thick torus. Polished romantic anime illustration; use pleasant bright colors, no washed-out grey. Center reserved for readable UI text, no drawn text. One isolated bubble only. No objects, sparkles outside, no background, no checkerboard, no watermark. True semitransparent alpha inside and zero alpha corners; square without stretching.",
+    "dark": "Use case: stylized-concept. Asset type: dark-theme production UI soap-bubble sprite for Confidant romantic anime workshop. One perfectly round bubble centered in a square transparent PNG, 94% canvas diameter. Entire circular body is SMOKY DEEP PLUM PEARL, dark burgundy violet around RGB 58 25 47, 65% opacity, with a very subtle radial pearl highlight. Keep the ENTIRE CENTER dark, smooth and low contrast so pale rose-white UI text will be readable. Outer rim is narrow, luminous PINK, GOLD and LILAC iridescent soap film with gentle glow and a thin curved pink-white crescent reflection hugging the edge; faint shadow under bubble. Bright jewellike rim against a dark translucent pearl body. Polished romantic anime illustration. Delicate circumference, no torus or thick bevel. No text, no objects, no background, zero-alpha corners. Isolated single sphere with true alpha. Smoke refers only to the dark pearl COLOR, no literal smoke. Center must be very dark plum, NOT pale white, no bright highlight behind central text.",
+    "dark-selected": "Use case: stylized-concept. Production UI soap bubble for a dark romantic anime interface. ONE perfectly circular bubble, diameter94% of square canvas, true transparent alpha outside. Crucial readability: the ENTIRE bubble body is uniformly very DARK SMOKY PLUM PEARL around RGB40,12,30 right up to99% of its radius. Smooth subtle dark-plum radial shading; no bright patches or marbling inside at all. A RAZOR-THIN one-percent-radius iridescent soap-film rim, bright pink, pale gold, lilac, hugging the absolute outside silhouette, with a small thin white crescent ONLY at12o'clock at the extreme edge. All glow blooms OUTWARDS into transparent surroundings, never inwards across the dark body. Faint soft shadow below. This is an airy round soap bubble with a dark pearl filled center, delicate thin circumference, not a ring/torus. Center and sides inside perimeter MUST remain very DARK, including lower right and upper left: pale UI text must have4.5:1 contrast everywhere inside. No bright inner highlights, white side streaks, milky-white areas, pale lower arc or inner reflection. No text, objects, background or watermark. Genuinely transparent outside corners; dark body may be nearly opaque because app composites the art at68% opacity. Keep circle round with symmetric silhouette."
+  },
+  "rejected": [
+    "exec-eca6a809-0671-4646-a7a3-468694897a51.png: broad inward rim highlight intruded into label envelope; measured dark contrast2.28:1. Replaced with a thinner outward-glowing rim."
+  ]
+}

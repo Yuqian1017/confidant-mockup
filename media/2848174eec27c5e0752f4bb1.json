@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "batch": "R12-CAST",
+  "generator": "Built-in image_gen tool",
+  "createdDate": "2026-09-06",
+  "assetContract": {
+    "runtime": "Companion browser/Edge app",
+    "format": "PNG",
+    "alphaRequired": false,
+    "composition": "Single adult character, waist-up, face readable as avatar",
+    "requestedAspectRatio": "4:5",
+    "originalOnly": true,
+    "externalPaidApiUsed": false
+  },
+  "provenanceNote": "Original fictional characters prompted for this project. No reference images, third-party IP, external asset purchase, or license assertion. Generated outputs retained unchanged.",
+  "visualReview": "All eight inspected individually against the four existing world portraits: distinct new faces/hairstyles/outfits, adult presentation, faction-specific setting and props. No text or watermark seen. No browser presentation claim.",
+  "assets": [
+    {
+      "id": "talisman-tang-zhu",
+      "file": "talisman-tang-zhu.png",
+      "generatedSource": "/Users/junshi/.codex/generated_images/01a074df-2310-7b71-8d23-74e2efd9e889/exec-f71d70d6-c686-47da-b16d-f0c1123d47b2.png",
+      "promptSubject": "Tang Zhu, 26-year-old East Asian adult woman, lively talisman maker of Cloud Ferry Hall. Broad cheerful heart-shaped face, warm tan skin, amber eyes, chestnut hair in two loose LOW braids, copper bell earrings, apricot and turquoise practical hanfu, rolled sleeve with ink stain, holding a small folded paper lantern. Floating mountain courier landing behind her. Bright open laugh.",
+      "bytes": 2359797,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "d92931dccfa2d0d6912ee001aed04d4a91b6db744bf0fb5e797f797f09dba8a6"
+    },
+    {
+      "id": "formation-wen-jibai",
+      "file": "formation-wen-jibai.png",
+      "generatedSource": "/Users/junshi/.codex/generated_images/01a074df-2310-7b71-8d23-74e2efd9e889/exec-e96f48e2-650e-4378-8ce0-7c8f236d1dde.png",
+      "promptSubject": "Wen Jibai, 32-year-old East Asian adult man, quiet mountain ward surveyor of Stillstone Pavilion. Long mature face, monolid grey eyes, straight nose, dark-brown hair HALF DOWN with a conspicuous silver-grey forelock and plain wooden pin, moss-green and pale grey hanfu, holding a bronze measuring compass. Mossy stone steps and engraved formation markers. Small thoughtful closed-mouth smile, no crown or sword.",
+      "bytes": 2405155,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "30de9155fe2e289a277457530cf9ad0f5d9845c9af801ae1622be01b438ac9ed"
+    },
+    {
+      "id": "ferryman-luo-xingzhou",
+      "file": "ferryman-luo-xingzhou.png",
+      "generatedSource": "/Users/junshi/.codex/generated_images/01a074df-2310-7b71-8d23-74e2efd9e889/exec-7b750b86-7b29-4379-8121-8dd45a15d7de.png",
+      "promptSubject": "Luo Xingzhou, 29-year-old East Asian adult man, playful ferry pilot of Cloud Ferry Hall. Broad square jaw, sun-browned skin, short wavy chestnut hair tied in a SMALL LOW tail, laughing hazel eyes, noticeable cheek dimple, cream and coral layered travel robes, rope shoulder strap, holding a wooden ferry token. Mountain lake jetty with a small boat, energetic welcoming grin, no sword or crown.",
+      "bytes": 2277074,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "8874fad9df8eb4933b500c2309a7ec0ba538e05d2007fd23c52f04bc68d79acc"
+    },
+    {
+      "id": "swordkeeper-pei-zhaoyue",
+      "file": "swordkeeper-pei-zhaoyue.png",
+      "generatedSource": "/Users/junshi/.codex/generated_images/01a074df-2310-7b71-8d23-74e2efd9e889/exec-5e382555-a656-4736-9340-ff72686212af.png",
+      "promptSubject": "Pei Zhaoyue, 34-year-old East Asian adult woman, forthright sword keeper of Returning Edge Lodge. Strong angular mature face, olive skin, narrow dark eyes, short BLACK blunt bob with a single long side braid, dark plum and silver fitted traditional martial robes, broad shoulders, a plain sheathed practice sword below chest. Stone mountain training courtyard. Assured half smile, upright posture, no ponytail.",
+      "bytes": 2306305,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "3c700d116e30e3cde3a86f4bd77f8c64f315afc32cfc458588c8ae7163b59198"
+    },
+    {
+      "id": "lantern-envoy-ning-zhaotang",
+      "file": "lantern-envoy-ning-zhaotang.png",
+      "generatedSource": "/Users/junshi/.codex/generated_images/01a074df-2310-7b71-8d23-74e2efd9e889/exec-93aa2fef-2903-46a6-b970-6a465bce3961.png",
+      "promptSubject": "Ning Zhaotang, 27-year-old East Asian adult woman, spirited Lantern Office festival envoy in a fictional imperial court. Rounded mature face, round bright dark eyes, light freckles, auburn hair in a compact LOW coil with red ribbon, rose-red and gold ceremonial hanfu, holds a miniature rabbit-shaped paper lantern (prop, not another subject). Red palace colonnade evening background. Mischievous confident smile.",
+      "bytes": 2290077,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "ac2d686d26b9123dd13709c8819c36d9219d4b2e5c06cda138a7e67037bf1ecf"
+    },
+    {
+      "id": "court-musician-song-wenxian",
+      "file": "court-musician-song-wenxian.png",
+      "generatedSource": "/Users/junshi/.codex/generated_images/01a074df-2310-7b71-8d23-74e2efd9e889/exec-0d56b016-af30-4fa0-ad60-e927088e3556.png",
+      "promptSubject": "Song Wenxian, 31-year-old East Asian adult man, gentle quiet court musician from the Court Music Bureau. Soft oval mature face, fine arched brows, dark almond eyes, long loose ash-brown hair tied at nape, tiny beauty mark beside left eye, dusty lilac and ivory traditional robes, bamboo flute in hand, no crown. Palace courtyard with wisteria and zither table. Shy warm smile.",
+      "bytes": 2633188,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "c3bc1df5f4adc45c7e76aa7fc3f5213f9665c8ece55c7ba2bd76907d33d8b62a"
+    },
+    {
+      "id": "gate-captain-yue-changning",
+      "file": "gate-captain-yue-changning.png",
+      "generatedSource": "/Users/junshi/.codex/generated_images/01a074df-2310-7b71-8d23-74e2efd9e889/exec-3ab2b9d9-8056-4748-9ceb-e9d2870cb87d.png",
+      "promptSubject": "Yue Changning, 35-year-old East Asian adult woman, candid captain of the Southern Palace Gate Guard. Broad mature face and pronounced cheekbones, warm brown skin, heavy straight eyebrows, grey-brown eyes, dark hair swept tightly into HIGH compact bun, crimson scarf, dark green lamellar ceremonial armor, no weapon drawn. Palace gate and sunlit red doors. Direct reassuring gaze, faint smile.",
+      "bytes": 2227213,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "cdeacc9a100c3a8aa1f8c5345761c775895b1e71abc907b3ac352ace3ef41eb5"
+    },
+    {
+      "id": "astronomer-xie-dengwei",
+      "file": "astronomer-xie-dengwei.png",
+      "generatedSource": "/Users/junshi/.codex/generated_images/01a074df-2310-7b71-8d23-74e2efd9e889/exec-358dc97d-e4b0-4730-ab7b-7203aecbb0e9.png",
+      "promptSubject": "Xie Dengwei, 33-year-old East Asian adult man, inquisitive witty observatory keeper in a fictional imperial court. Narrow mature face, warm medium skin, slim nose, lively brown eyes, straight shoulder-length black hair with center part tucked behind ears and loosely gathered, blue-green and silver robes patterned with tiny constellations, holding bronze star disk. Palace observatory armillary sphere dusk background. Crooked amused smile, no crown.",
+      "bytes": 2417321,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "3c26dd8dc1507838b136d5a67426e9a8673d51f5ed7f6c4394af2f90dbc880a8"
+    }
+  ]
+}

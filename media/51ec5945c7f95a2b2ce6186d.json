@@ -1,0 +1,117 @@
+{
+  "scope": "Art-only two-adult-preset full-scene pilot. No code, tests, old assets, shared profiles, custom avatars, narrative or server changes.",
+  "generator": "Built-in image_gen.imagegen",
+  "successfulCalls": 4,
+  "technicalFailures": 0,
+  "additionalCalls": 0,
+  "requestedSize": "3840x2160 or largest supported landscape",
+  "actualSize": [
+    1672,
+    941
+  ],
+  "postprocessing": "None. Generator PNG files copied byte-for-byte without raster edits.",
+  "inspectedReferences": [
+    "../luchen-neutral.png",
+    "../luchen-warm.png",
+    "../amara-neutral.png",
+    "../amara-warm.png"
+  ],
+  "assets": [
+    {
+      "file": "luchen-neutral.png",
+      "generatorOutput": "/Users/junshi/.codex/generated_images/01a08892-afda-75d0-a6e3-a4a2f68bffec/exec-e8915547-6476-4c0e-824f-5d4418f2624c.png",
+      "references": [
+        "../luchen-neutral.png"
+      ],
+      "sha256": "87073fbf419bb1c6b1f62182930c8a84b649cf333f0df306015b4f04303e9532",
+      "width": 1672,
+      "height": 941,
+      "pngColorType": 2,
+      "nonOpaquePixels": 0,
+      "prompt": "Create ONE original horizontal full-scene 2D romantic anime illustration for a cinematic visual novel. Use the attached image as the identity, costume, style, and apartment reference for adult East Asian man Lu Chenzhou. Deliver landscape 16:9, request 3840x2160 or largest supported landscape. Opaque image filled with one coherent room from edge to edge.\n\nPreserve this exact adult man's recognizable face, warm brown eyes, clean-shaven jaw, tousled short side-parted black hair, elegant black collared button shirt modestly open at neck, rolled forearm sleeves, black trousers and black wristwatch. Clearly drawn anime/manhwa linework and intentional cel shading, polished lavish romantic anime matching the reference, not live action, not photo, not 3D/CG render. Neutral attentive expression, relaxed closed mouth and gentle direct eye contact.\n\nNEW WIDE COMPOSITION: eye-level camera. Put the center of his face at x=68% of the canvas width and y=26% of height. Top of hair around y=9%, entire head and hair visible with generous room above. Show bust and waist reaching the bottom edge, seated in the same charcoal upholstered armchair, one relaxed hand on the armrest and opposite hand at trouser pocket, with no new gesture. Head should occupy about 18% of total canvas width at most; shoulder width about 33%. This is a full horizontal establishing shot that also supports a tall portrait crop around x=68%. Keep his whole face and neck inside x=58%-78%, upper torso visible below.\n\nPaint a SINGLE natural continuous apartment: rainy twilight city windows behind him on the right, dark consistent mullions, blue/pink dusk clouds and buildings with small warm rectangular windows; muted sage-gray wall, framed abstract wall art, leafy plant in dark vase, warm rectangular-shade lamp and low shelf on the left. Continue believable wall/window/floor architecture across entire wide canvas with coherent perspective and a unified light source. No duplicated strips, tiled backdrop, seams, inset portrait panel, collage, or hidden continuation. Gold lamp light and icy blue window rim light gently model the illustration, preserve black shirt details. No photographic textures, blur blobs, decorative orbs, bokeh balls, text, subtitles, frames, cards, border, blank bands, letterbox, transparent pixels, or extra characters. Keep the left half as actual illustrated room, not an empty band."
+    },
+    {
+      "file": "luchen-warm.png",
+      "generatorOutput": "/Users/junshi/.codex/generated_images/01a08892-afda-75d0-a6e3-a4a2f68bffec/exec-d9a2f09a-30cd-4844-b08a-62a49b98fd65.png",
+      "references": [
+        "luchen-neutral.png"
+      ],
+      "sha256": "97594f4487a97c9fcf9f948c86a3f83140d524a33226da92fa69b8a638163b93",
+      "width": 1672,
+      "height": 941,
+      "pngColorType": 2,
+      "nonOpaquePixels": 0,
+      "prompt": "EDIT the attached wide neutral anime illustration into its warm-response paired frame. Output the SAME landscape dimensions, aspect ratio, full camera composition and framing as the input (request largest landscape, up to 3840x2160). This is an expression-only continuity edit. Preserve every area outside the man's face as unchanged as possible: exact head/hair outline and position, eyes' locations, body and shoulder silhouette, both hands and fingers, black shirt folds/buttons, black watch, trousers, armchair, room furniture, lamp, plant leaves, curtains, every window mullion, city windows, rainy sky and all lighting. Do not move, resize, redraw into a new composition, or raise his hand. Do not change wardrobe, gender, adult East Asian identity, skin tone, hairstyle or pose.\n\nChange ONLY facial expression: his mouth develops a gentle affectionate closed-lip smile, tiny naturally lifted mouth corners and slightly softer attentive eyes, a restrained warm response while keeping gaze direction and the original head angle. Keep exact recognizable adult face proportions, lavish drawn 2D romantic anime style and shading. No added gesture, blush overlay, effects, orbs, text, frame, band, transparent region, or new object. This must read as the same camera frame with a small facial acting change, not a new pose or scene."
+    },
+    {
+      "file": "amara-neutral.png",
+      "generatorOutput": "/Users/junshi/.codex/generated_images/01a08892-afda-75d0-a6e3-a4a2f68bffec/exec-f84c0c73-299f-4c5d-80f5-ccd0fd1c962d.png",
+      "references": [
+        "../amara-neutral.png",
+        "luchen-neutral.png"
+      ],
+      "sha256": "cf792769de85b9a79153d78401bda112444f1ef3506147c233df56a5391486d5",
+      "width": 1672,
+      "height": 941,
+      "pngColorType": 2,
+      "nonOpaquePixels": 0,
+      "prompt": "Create ONE original horizontal full-scene 2D romantic anime illustration for a cinematic visual novel. Reference image 1 is the authoritative identity, costume, facial appearance and office setting for adult Black African woman Amara Okafor. Reference image 2 is ONLY the coordinated wide framing and drawn anime finishing reference from the same game's other character, not her identity or room. Deliver landscape 16:9, request 3840x2160 or largest supported landscape. Opaque image filled with ONE coherent modern office from edge to edge.\n\nPreserve Amara's exact recognizable adult Black African face, rich dark-brown skin (do NOT lighten), brown eyes, full lips, textured black curls arranged in a high bun/updo, small oval gold hoop earrings, fine gold necklace, gold wristwatch. Same fitted cobalt/navy blue collared button blouse and charcoal tailored trousers. Hold the same black document portfolio under her right arm at viewer-left hip; her left hand stays relaxed in her trouser pocket, no new gesture. Neutral attentive expression, restrained closed-lip smile and direct eye contact, exact recognizable face structure.\n\nNEW WIDE COMPOSITION: eye-level camera. Center her face at x=68% of canvas width and y=26% of height. Entire high bun and hair visible with room above, top of hair about y=8%. Show bust to waist/hips reaching the bottom edge, do not shrink her into a distant full-body figure. Character's shoulder span about 29%-33% of canvas width. Keep entire face/neck within x=58%-78% so a tall portrait crop centered around x=68% works. Continue the real scene on the left, without an empty panel.\n\nPaint the same workplace at dusk in a SINGLE continuous coherent perspective: tall dark window mullions behind/right, soft blue/pink dusk clouds and urban buildings with small warm rectangular windows. On left a real desk surface with restrained books, paper/stationery, leafy plant, warm rectangular-shade lamp and the framed abstract wall art from her reference. Keep adult elegant modern business identity. Room/background and body must be one unified fullbleed illustration. Clearly drawn polished lavish romantic anime/manhwa contours, expressive 2D eyes, intentional cel shading and subtle luminous gold lamp/icy blue window highlights; match image 1's illustrated character and image 2's finish. No photography, live action, 3D/CG rendering, realistic skin pores, photographic textures, collage, duplicated background strips, scene seams, inset portrait card, frame, text, blank bands, letterbox, transparency, or decorative orbs."
+    },
+    {
+      "file": "amara-warm.png",
+      "generatorOutput": "/Users/junshi/.codex/generated_images/01a08892-afda-75d0-a6e3-a4a2f68bffec/exec-f2dc867f-71e1-469b-a69d-4da6dd4342fe.png",
+      "references": [
+        "amara-neutral.png"
+      ],
+      "sha256": "82bb071cc3670a9aea157bcc757e1fb0377dadfbde4d168b581f15017ca08442",
+      "width": 1672,
+      "height": 941,
+      "pngColorType": 2,
+      "nonOpaquePixels": 0,
+      "prompt": "EDIT the attached wide neutral anime illustration into its warm-response paired frame. Output SAME landscape dimensions, aspect ratio, camera composition and framing as the attached input (request largest landscape, up to 3840x2160). This is a facial-expression-only continuity edit. Preserve every area outside the woman's face as unchanged as possible: exact high curly bun/hair silhouette and position, face proportions and eye positions, head angle, rich dark-brown skin tone, adult Black African identity, small gold hoop earrings and necklace, blue shirt folds and buttons, body and shoulder silhouette, both hands and fingers in EXACT same positions, portfolio under her right arm, left hand in trouser pocket, watch, trousers, desk/books/papers, lamp, plant leaves, chairs, every window mullion, city skyline and dusk sky. Do not change room or lighting, do not raise her hand, do not move or resize her, do not recompose.\n\nChange ONLY facial expression: a clearly warmer welcoming smile with slightly parted lips showing just a little upper teeth, lifted corners, naturally softened attentive eyes and very subtle cheek lift. Keep gaze toward the viewer, same facial features and head angle. Restrained affectionate adult expression, not exaggerated excitement. Preserve this exact lavish drawn 2D romantic anime style and intentional cel shading. No new gesture, blush overlay, effects, orbs, captions, frame, band or transparency. This must be the same camera frame with small facial acting, not a new pose or scene."
+    }
+  ],
+  "approximateVisualLandmarks": {
+    "luchen": {
+      "faceCenterX": 1066,
+      "topOfHairY": 49,
+      "mobileObjectPositionXPercent": 68.5
+    },
+    "amara": {
+      "faceCenterX": 984,
+      "topOfHairY": 18,
+      "mobileObjectPositionXPercent": 62
+    }
+  },
+  "pairCheck": {
+    "description": "Read-only PNG RGB comparison outside approximate face rectangles. Values measure image differences, not geometric registration or motion acceptance.",
+    "luchen": {
+      "excludedFaceRect": [
+        960,
+        135,
+        1160,
+        330
+      ],
+      "outsideFaceMeanAbsoluteChannelDelta": 3.2802677177944393,
+      "exactPixelFraction": 0.029353759763079138
+    },
+    "amara": {
+      "excludedFaceRect": [
+        890,
+        100,
+        1070,
+        325
+      ],
+      "outsideFaceMeanAbsoluteChannelDelta": 3.3375748822021523,
+      "exactPixelFraction": 0.014199674854454312
+    }
+  },
+  "deviations": [
+    "Generator returned 1672x941, not requested 3840x2160.",
+    "Observed face centers are about 63.8% and 58.9%, rather than requested 68%.",
+    "Amara hair has only about 18 source pixels of headroom; 1.025 centered scaling leaves approximately 6 viewport pixels at 390x844.",
+    "Amara includes incidental book-spine lettering despite the no-text request.",
+    "Warm edits preserve the apparent camera/body/setting but are not pixel-identical outside the face."
+  ],
+  "acceptance": "Source-art checkpoint only. Parent owns actual application integration, intermediate-frame verification and fresh independent review."
+}

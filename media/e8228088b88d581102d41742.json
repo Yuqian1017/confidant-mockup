@@ -1,0 +1,64 @@
+{
+  "calls": 11,
+  "engine": "built-in; actual engine/model/cost not exposed",
+  "frosted": {
+    "source": "exec-d8352634-c371-442f-85e6-823050c3bfd8.png",
+    "prompt": "Use case: stylized-concept. Create one production transparent icon for Confidant's Frosted Glass skin: a complete flying messenger dove carrying a small CLOSED invitation envelope, facing right, same semantic silhouette and inviting gesture as the attached reference. Reference is semantic composition only; repaint entirely in Frosted Glass's own silver/pearl monochrome material. Exactly432x432 pixels intended144x144 CSS at3x, generous18px transparent padding all sides. Polished illustrated white/pearl dove, smoke-grey feather outlines, clear softly frosted silver envelope, a tiny neutral silver sparkle. NO pink, no rose, no burgundy, no gold, no colourful seal, no coloured blush, no lettering. Do not copy Rose Quill's rose envelope. Transparent background, no square/backplate, whole dove wings and tail and whole envelope visible; compact centered balanced silhouette. It must read at104 CSS pixels and at19 CSS pixels, with graphite/silver edges readable over both white and dark glass. Not a font glyph. No photorealism.",
+    "outputs": [
+      "../feature-icons/frosted-glass/letter.webp",
+      "../feature-icons/frosted-glass/sm/letter.webp"
+    ]
+  },
+  "surfaceMatte": {
+    "source": "exec-524b9ca1-c90e-43eb-9710-89630b9d921d.png",
+    "prompt": "Production alpha-only UI feather matte, NOT an illustration. Canvas1170x600 (390x200 CSS at3x). Pure white RGB with alpha only. Entire top edge alpha0; entire bottom edge alpha255, completely flat white opaque band in the bottom120px. A very soft diffuse FEATHERED rising mist boundary, NO objects or silhouettes: on the LEFT, feather transition starts aroundy20 and is fully opaque byy240; in the centre startsy160 and is fully opaque byy420; on RIGHT startsy370 and is fully opaque byy500. This exact matte will paint an existing UI surface colour over a cafe/portrait to leave the face clear, so make the transition gentle and misty WITHOUT flowers, petals, waves, wisps with hard outlines, shadows or texture marks. No opaque white bounding rectangle, no grey backdrop. Only pure white with the specified varying alpha. MUST be completely opaque255 across the bottom120px so it joins the same UI background seamlessly, and completely transparent along top18px. No shadow, no drop shadow. Transparent background in the alpha0 region.",
+    "output": "surface-feather-matte.webp",
+    "size": [
+      1751,
+      898
+    ],
+    "bottomAlpha": [
+      253,
+      254
+    ]
+  },
+  "note": "Final runtime matte uses the complete generated alpha plus a flat surface continuation; earlier cropped mist is diagnostic only. Frosted now has independent silver art, replacing the historical Rose copy.",
+  "floatingPetals": {
+    "source": "exec-80171e42-303a-426f-a5ac-51a03311aa3f.png",
+    "mode": "built-in transparent imagegen",
+    "output": "c-petals.webp",
+    "processing": "Existing generated petal pixels repacked from db122aab75 at measured C global coordinates; subtract56px body origin; uniform scaling and original alpha. Reproduce with scripts/qc/datehub0194c-pack-petals.py.",
+    "prompt": "Transparent romantic anime branch and floating-petal atlas for 390x600 CSS Dates C; face and live text clear. See current source positions."
+  },
+  "divider": {
+    "source": "exec-09df27da-90ef-495a-a81a-21e5cbb90d5b.png",
+    "mode": "built-in transparent repaint of exact C three-diamond crop",
+    "output": "c-divider.webp",
+    "processing": "crop and uniform export with source alpha retained"
+  },
+  "darkGround": {
+    "source": "exec-58aa42e7-7e87-4331-854b-4a115feec4ca.png",
+    "mode": "built-in",
+    "output": "dark-glass-ground.webp",
+    "prompt": "Deep burgundy quiet glass, sparse warm amber and wine bokeh at edges. No text, panels, scenery or figures."
+  },
+  "currentSurfaceMatte": {
+    "source": "exec-72737ecc-f290-4ce0-a4bd-db578b138bea.png",
+    "output": "c-surface-feather.webp",
+    "mode": "built-in neutral alpha",
+    "size": [
+      1480,
+      1063
+    ],
+    "alphaAudit": "top 0..2, bottom253..254; left opaque by quarter-height, right clear until half-height, gradual full bottom",
+    "prompt": "1170x840 neutral white-alpha; left0..240, centre210..600, right480..780; full opaque bottom60px; no shapes or texture."
+  },
+  "lowerSprig": {
+    "source": "exec-4c8d0ae1-0674-4766-a09b-9e7da42b5dfe.png",
+    "mode": "built-in transparent edit; actual engine/model/cost unexposed",
+    "reference": "approved C lower-sprig1:1 crop",
+    "output": "c-sprig-v2.webp",
+    "processing": "Crop complete alpha object; uniform downsample, transparent315x189 canvas; no RGB recolour",
+    "prompt": "Use case: background-extraction / precise-object-edit. Edit target: the attached small crop from the approved Confidant C draft. Extract/repaint ONLY the soft pink cherry blossom SPRIG in the LOWER HALF of this crop onto real transparent alpha. Remove all clothing/person/skin/background, and remove the separate floating pink petal above. Match the approved sprig exactly: delicate thin olive-brown branch growing horizontally from the bottom-right toward lower-left; three softly blurred pale blush blossoms (a pale larger blossom near lower middle-left, two small upright blooms above), tiny muted green leaves and buds. Preserve the reference's very soft atmospheric anime brushwork, pastel low contrast, blossom spacing, branch direction and silhouette; do not turn it into a crisp botanical engraving or a diagonal hanging branch. Keep the whole sprig including the right-hand branch end and all petals inside 8% transparent padding on all edges. Landscape canvas 1024x768, sprig centered in lower two-thirds, intended small display about90x65 CSS px. No face, no shirt, no hand, no dove, no text, no floating petals, no backdrop or glow rectangle. True alpha. Do not invent additional flowers."
+  }
+}

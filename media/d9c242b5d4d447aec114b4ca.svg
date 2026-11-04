@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 300 100">
+  <defs>
+    <linearGradient id="heart" x1=".18" y1="0" x2=".84" y2="1">
+      <stop stop-color="#fff3f3"/><stop offset=".23" stop-color="#ffc3d6"/><stop offset=".66" stop-color="#ec7eac"/><stop offset="1" stop-color="#ba527e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#f6dec0"/><stop offset=".65" stop-color="#d79e75"/><stop offset="1" stop-color="#bd765d"/>
+    </linearGradient>
+    <filter id="warm" x="-20%" y="-30%" width="140%" height="160%"><feGaussianBlur stdDeviation="1.5"/></filter>
+    <path id="heart-shape" d="M50 20 C31 -6 2 10 7 41 C11 64 36 82 50 95 C64 82 89 64 93 41 C98 10 69 -6 50 20 Z"/>
+  </defs>
+  <path d="M55 46 C105 63 185 72 247 42" fill="none" stroke="#f7cfa9" stroke-width="3" opacity=".28" filter="url(#warm)"/>
+  <path d="M55 46 C105 63 185 72 247 42" fill="none" stroke="url(#line)" stroke-width="1.25" stroke-linecap="round"/>
+  <g transform="translate(51 37) scale(.082 .084)">
+    <use href="#heart-shape" fill="url(#heart)" stroke="#f4adc5" stroke-width="7"/>
+    <path d="M22 26 C28 13 41 13 46 25" fill="none" stroke="#fff8f4" stroke-width="8" stroke-linecap="round" opacity=".9"/>
+  </g>
+  <g transform="translate(242 32) scale(.120 .098)">
+    <use href="#heart-shape" fill="url(#heart)" stroke="#f4adc5" stroke-width="6"/>
+    <path d="M22 26 C28 13 41 13 46 25" fill="none" stroke="#fff8f4" stroke-width="7" stroke-linecap="round" opacity=".9"/>
+  </g>
+</svg>

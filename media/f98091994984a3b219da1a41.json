@@ -1,0 +1,154 @@
+[
+  {
+    "variant": "cotton-mint-light-b",
+    "prompt": "Use case: stylized-concept. Asset: one isolated transparent UI heart jewel for the Cotton mint skin of a lavish romantic anime app. Polished illustrated faceted emerald/mint crystal HEART, symmetric upright heart silhouette, no rotation, no lettering, no objects outside heart. Crucial: legible at 18 pixels on pure white. A substantial continuous very dark emerald-green outer rim occupying 12 percent of heart radius, crisp dark contour all around, with bright mint and emerald faceted interior and small white glossy highlights; rich saturation, deliberately strong contrast. The outline is painted generated jewel material, not a drop shadow. Interior mostly medium saturated emerald, not pale white. Full heart centered in square canvas, 10 percent transparent padding on all sides, actual alpha background, no ground shadow, no sparkles beyond silhouette, no text, no badge, no container, no watermark. Premium romantic anime gemstone illustration, clean small-icon silhouette.",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17eca-66cc-7682-8de1-9c6f50075caf/exec-f80bbd28-f03f-4328-b3e5-7a6b707a4756.png",
+    "tool": "image_gen.imagegen",
+    "model": "Built-in model identifier and cost not exposed",
+    "sourceSha256": "3c6134ca814529cb89c060ec790b03565e05845242489571cc2bfb7aeaef3d72",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "cotton-mint-light-b-276.webp",
+    "outputSha256": "1886bc758effcf2db0ea12514fa5ab0b8ef5aa0bc3960c6256db75af328887fb",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "packing": "Alpha-bounds crop; uniform contain252 in276; alpha composite; lossless WebP. No repaint, tracing or vector substitute."
+  },
+  {
+    "variant": "cotton-pink-light-b",
+    "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent UI heart jewel for a lavish romantic anime app. Polished illustrated faceted crystal HEART, symmetric upright clean heart silhouette, no rotation, no lettering, no objects outside heart. Crucial: legible at 18 pixels against its stated background. Thick continuous contrasting jewel-material outer rim occupying 12 percent of heart radius; crisp silhouette all around. Many rich faceted interior planes and small white glossy highlights. The outline must be generated jewel material, not a drop shadow. Full heart centered in square canvas, 10 percent transparent padding on all sides, actual alpha background, no ground shadow, no sparkles outside silhouette, no text, no badge, no container, no watermark. Premium romantic anime gemstone illustration. On WHITE background. Very dark saturated burgundy/deep raspberry outer rim. Interior rich rose-pink and ruby candy crystal, medium saturated pink planes, a few pale pink highlights. Keep most interior medium saturated, not pale white.",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17eca-66cc-7682-8de1-9c6f50075caf/exec-036ce5d8-412a-4b52-a368-ade65f9144be.png",
+    "tool": "image_gen.imagegen",
+    "model": "Built-in model identifier and cost not exposed",
+    "sourceSha256": "811650cd7ff994006e6f0d9010354938704675d741a33e27d22827b187e3544c",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "cotton-pink-light-b-276.webp",
+    "outputSha256": "c3dece1e8f47376e21519ea846d0c859d491c55a75c1e26db1406755ee76a26b",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "packing": "Alpha-bounds crop; uniform contain252 in276; alpha composite; lossless WebP. No repaint, tracing or vector substitute."
+  },
+  {
+    "variant": "cotton-lavender-light-b",
+    "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent UI heart jewel for a lavish romantic anime app. Polished illustrated faceted crystal HEART, symmetric upright clean heart silhouette, no rotation, no lettering, no objects outside heart. Crucial: legible at 18 pixels against its stated background. Thick continuous contrasting jewel-material outer rim occupying 12 percent of heart radius; crisp silhouette all around. Many rich faceted interior planes and small white glossy highlights. The outline must be generated jewel material, not a drop shadow. Full heart centered in square canvas, 10 percent transparent padding on all sides, actual alpha background, no ground shadow, no sparkles outside silhouette, no text, no badge, no container, no watermark. Premium romantic anime gemstone illustration. On WHITE background. Very dark saturated indigo-purple outer rim. Interior rich lavender/amethyst crystal, medium saturated violet planes, a few lilac highlights. Keep most interior medium saturated, not pale white.",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17eca-66cc-7682-8de1-9c6f50075caf/exec-ae217ce7-68b9-4dbb-a0ba-4b8b271a7ed8.png",
+    "tool": "image_gen.imagegen",
+    "model": "Built-in model identifier and cost not exposed",
+    "sourceSha256": "14b8804a09e2cddfe17a6ef21884272085d4c15e83bf5f5d321787cec91a5e27",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "cotton-lavender-light-b-276.webp",
+    "outputSha256": "fcde96e2f42a71cdfc720d77bccded5b3a129961e06005682c7657dfc8de40e2",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "packing": "Alpha-bounds crop; uniform contain252 in276; alpha composite; lossless WebP. No repaint, tracing or vector substitute."
+  },
+  {
+    "variant": "midnight-light-b",
+    "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent UI heart jewel for a lavish romantic anime app. Polished illustrated faceted crystal HEART, symmetric upright clean heart silhouette, no rotation, no lettering, no objects outside heart. Crucial: legible at 18 pixels against its stated background. Thick continuous contrasting jewel-material outer rim occupying 12 percent of heart radius; crisp silhouette all around. Many rich faceted interior planes and small white glossy highlights. The outline must be generated jewel material, not a drop shadow. Full heart centered in square canvas, 10 percent transparent padding on all sides, actual alpha background, no ground shadow, no sparkles outside silhouette, no text, no badge, no container, no watermark. Premium romantic anime gemstone illustration. On WHITE background. Near-black indigo-blue outer rim. Interior rich midnight sapphire and teal aurora crystal, saturated cobalt and turquoise planes with tiny violet accents. Bright jewel facets, strong dark edge.",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17eca-66cc-7682-8de1-9c6f50075caf/exec-a5ce2892-ee0c-463d-a5b6-bf4152770c3d.png",
+    "tool": "image_gen.imagegen",
+    "model": "Built-in model identifier and cost not exposed",
+    "sourceSha256": "9f6350214d9bfae26965b75b092b0f7f9a489809ef17a2c2cb4d80611f7c644a",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "midnight-light-b-276.webp",
+    "outputSha256": "c1b0f561582110212f7d25f1a481f5b428b273ea792554de607bc271f260335e",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "packing": "Alpha-bounds crop; uniform contain252 in276; alpha composite; lossless WebP. No repaint, tracing or vector substitute."
+  },
+  {
+    "variant": "mist-light-b",
+    "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent UI heart jewel for a lavish romantic anime app. Polished illustrated faceted crystal HEART, symmetric upright clean heart silhouette, no rotation, no lettering, no objects outside heart. Crucial: legible at 18 pixels against its stated background. Thick continuous contrasting jewel-material outer rim occupying 12 percent of heart radius; crisp silhouette all around. Many rich faceted interior planes and small white glossy highlights. The outline must be generated jewel material, not a drop shadow. Full heart centered in square canvas, 10 percent transparent padding on all sides, actual alpha background, no ground shadow, no sparkles outside silhouette, no text, no badge, no container, no watermark. Premium romantic anime gemstone illustration. On WHITE background. Very dark forest-green outer rim. Interior rich jade/sage gemstone, medium saturated emerald-jade planes and a few misty mint highlights. Keep most interior medium saturated, not pale white.",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17eca-66cc-7682-8de1-9c6f50075caf/exec-aa824e99-1bab-4439-8734-760b572b4cfd.png",
+    "tool": "image_gen.imagegen",
+    "model": "Built-in model identifier and cost not exposed",
+    "sourceSha256": "6fb0c3ea42b7e1716f6904fccc4a83d1f4f246996082b8a9a05f5ab01ef0ee2f",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "mist-light-b-276.webp",
+    "outputSha256": "e1b08df5ba3989d1370f419dff9070ddf4fbd4ee033981bb83acaa31e51d1441",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "packing": "Alpha-bounds crop; uniform contain252 in276; alpha composite; lossless WebP. No repaint, tracing or vector substitute."
+  },
+  {
+    "variant": "warm-light-b",
+    "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent UI heart jewel for a lavish romantic anime app. Polished illustrated faceted crystal HEART, symmetric upright clean heart silhouette, no rotation, no lettering, no objects outside heart. Crucial: legible at 18 pixels against its stated background. Thick continuous contrasting jewel-material outer rim occupying 12 percent of heart radius; crisp silhouette all around. Many rich faceted interior planes and small white glossy highlights. The outline must be generated jewel material, not a drop shadow. Full heart centered in square canvas, 10 percent transparent padding on all sides, actual alpha background, no ground shadow, no sparkles outside silhouette, no text, no badge, no container, no watermark. Premium romantic anime gemstone illustration. On WHITE background. Very dark chestnut/amber-brown outer rim. Interior rich golden amber gemstone, warm honey-orange and rose-gold facets, clear white/gold highlights. Keep dark edge substantial, most interior medium saturated, not pale yellow.",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17eca-66cc-7682-8de1-9c6f50075caf/exec-ff2b9a8f-c8a3-4a50-a13f-2d11f63a49e4.png",
+    "tool": "image_gen.imagegen",
+    "model": "Built-in model identifier and cost not exposed",
+    "sourceSha256": "f234588696d12748987f9ecfb78637e448de08bcf5e505028c228e8c9653c146",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "warm-light-b-276.webp",
+    "outputSha256": "36dcfe6642e62efee3e1e49897b423d052d1bc231f64a1f893eb069663b2b940",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "packing": "Alpha-bounds crop; uniform contain252 in276; alpha composite; lossless WebP. No repaint, tracing or vector substitute."
+  },
+  {
+    "variant": "frosted-light-b",
+    "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent UI heart jewel for a lavish romantic anime app. Polished illustrated faceted crystal HEART, symmetric upright clean heart silhouette, no rotation, no lettering, no objects outside heart. Crucial: legible at 18 pixels against its stated background. Thick continuous contrasting jewel-material outer rim occupying 12 percent of heart radius; crisp silhouette all around. Many rich faceted interior planes and small white glossy highlights. The outline must be generated jewel material, not a drop shadow. Full heart centered in square canvas, 10 percent transparent padding on all sides, actual alpha background, no ground shadow, no sparkles outside silhouette, no text, no badge, no container, no watermark. Premium romantic anime gemstone illustration. On WHITE background. Very dark navy/cobalt-blue outer rim. Interior rich ice-blue sapphire crystal, medium saturated blue planes and bright icy cyan highlights. Substantial deep blue outline, most interior medium saturated, not pale white.",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17eca-66cc-7682-8de1-9c6f50075caf/exec-880029b5-2e8f-4396-8d7e-848183c4da0e.png",
+    "tool": "image_gen.imagegen",
+    "model": "Built-in model identifier and cost not exposed",
+    "sourceSha256": "0ac2692929e1ee307cb44a2356f1dc113f9d76b4b9b3b5fec723c8a70763cfaa",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "frosted-light-b-276.webp",
+    "outputSha256": "9466fea310d1b20ee7ebca818cf487752cf8c6b972249d211812ef765233f2d4",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "packing": "Alpha-bounds crop; uniform contain252 in276; alpha composite; lossless WebP. No repaint, tracing or vector substitute."
+  },
+  {
+    "variant": "rose-dark-b",
+    "prompt": "Use case: stylized-concept. Asset: ONE isolated transparent UI heart jewel for a lavish romantic anime app. Polished illustrated faceted crystal HEART, symmetric upright clean heart silhouette, no rotation, no lettering, no objects outside heart. Crucial: legible at 18 pixels against its stated background. Thick continuous contrasting jewel-material outer rim occupying 12 percent of heart radius; crisp silhouette all around. Many rich faceted interior planes and small white glossy highlights. The outline must be generated jewel material, not a drop shadow. Full heart centered in square canvas, 10 percent transparent padding on all sides, actual alpha background, no ground shadow, no sparkles outside silhouette, no text, no badge, no container, no watermark. Premium romantic anime gemstone illustration. On very DARK burgundy/plum background. Thick bright luminous pale rose-GOLD metal jewel rim with additional bright cream-gold bevels following the heart contour. Interior luminous rose-pink ruby gemstone, many medium-bright pink/crimson planes and white glossy facets. Continuous very LIGHT rose-gold rim and bright pink faces must read as clearly as a bright gold ribbon heart on dark plum. No black outer outline. Romantic ornate jewel craftsmanship but no ornament outside silhouette.",
+    "source": "/Users/shaoxia/.codex/generated_images/01a17eca-66cc-7682-8de1-9c6f50075caf/exec-776c4c8f-6da8-4998-9fe0-e53c1b979807.png",
+    "tool": "image_gen.imagegen",
+    "model": "Built-in model identifier and cost not exposed",
+    "sourceSha256": "3cb5f2f8b1f78da1dad1d0173e0e9849acbaa4ae2eb0643ce2148addb94adbd0",
+    "sourceSize": [
+      1254,
+      1254
+    ],
+    "output": "rose-dark-b-276.webp",
+    "outputSha256": "bad056c3249d4ad01a2267000f359d4f0a3815baa7045e2153136fd30529f78f",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "packing": "Alpha-bounds crop; uniform contain252 in276; alpha composite; lossless WebP. No repaint, tracing or vector substitute."
+  }
+]

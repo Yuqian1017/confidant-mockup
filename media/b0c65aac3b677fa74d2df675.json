@@ -1,0 +1,210 @@
+{
+  "fps": 24,
+  "duration": 15.5,
+  "frame_count": 372,
+  "cues": [
+    {
+      "id": "chloe",
+      "shot": 1,
+      "kind": "name",
+      "start_frame": 2,
+      "end_frame": 16,
+      "start": 0.083333,
+      "end": 0.666667,
+      "zh": "唐芊",
+      "en": "CHLOE TANG",
+      "position": "beside-person",
+      "assets": {
+        "zh": "cards/zh/chloe.png",
+        "en": "cards/en/chloe.png"
+      }
+    },
+    {
+      "id": "milou",
+      "shot": 1,
+      "kind": "name",
+      "start_frame": 2,
+      "end_frame": 16,
+      "start": 0.083333,
+      "end": 0.666667,
+      "zh": "奶芙",
+      "en": "MILOU",
+      "position": "beside-animal",
+      "assets": {
+        "zh": "cards/zh/milou.png",
+        "en": "cards/en/milou.png"
+      }
+    },
+    {
+      "id": "kyle",
+      "shot": 2,
+      "kind": "name",
+      "start_frame": 37,
+      "end_frame": 69,
+      "start": 1.541667,
+      "end": 2.875,
+      "zh": "凯尔·索伦森",
+      "en": "KYLE SORENSEN",
+      "position": "beside-person",
+      "assets": {
+        "zh": "cards/zh/kyle.png",
+        "en": "cards/en/kyle.png"
+      }
+    },
+    {
+      "id": "zhou",
+      "shot": 3,
+      "kind": "name",
+      "start_frame": 75,
+      "end_frame": 111,
+      "start": 3.125,
+      "end": 4.625,
+      "zh": "周予辰",
+      "en": "ADRIAN ZHOU",
+      "position": "beside-person",
+      "assets": {
+        "zh": "cards/zh/zhou.png",
+        "en": "cards/en/zhou.png"
+      }
+    },
+    {
+      "id": "croissant",
+      "shot": 3,
+      "kind": "name",
+      "start_frame": 75,
+      "end_frame": 113,
+      "start": 3.125,
+      "end": 4.708333,
+      "zh": "可颂",
+      "en": "CROISSANT",
+      "position": "beside-animal",
+      "assets": {
+        "zh": "cards/zh/croissant.png",
+        "en": "cards/en/croissant.png"
+      }
+    },
+    {
+      "id": "maya",
+      "shot": 4,
+      "kind": "name",
+      "start_frame": 117,
+      "end_frame": 148,
+      "start": 4.875,
+      "end": 6.166667,
+      "zh": "玛雅",
+      "en": "MAYA REYES",
+      "position": "beside-person",
+      "assets": {
+        "zh": "cards/zh/maya.png",
+        "en": "cards/en/maya.png"
+      }
+    },
+    {
+      "id": "eleanor",
+      "shot": 5,
+      "kind": "name",
+      "start_frame": 153,
+      "end_frame": 186,
+      "start": 6.375,
+      "end": 7.75,
+      "zh": "埃莉诺",
+      "en": "ELEANOR SHAW",
+      "position": "beside-person",
+      "assets": {
+        "zh": "cards/zh/eleanor.png",
+        "en": "cards/en/eleanor.png"
+      }
+    },
+    {
+      "id": "maya-with-eleanor",
+      "shot": 5,
+      "kind": "name",
+      "start_frame": 153,
+      "end_frame": 186,
+      "start": 6.375,
+      "end": 7.75,
+      "zh": "玛雅",
+      "en": "MAYA REYES",
+      "position": "beside-person",
+      "assets": {
+        "zh": "cards/zh/maya-with-eleanor.png",
+        "en": "cards/en/maya-with-eleanor.png"
+      }
+    },
+    {
+      "id": "mika",
+      "shot": 6,
+      "kind": "name",
+      "start_frame": 191,
+      "end_frame": 228,
+      "start": 7.958333,
+      "end": 9.5,
+      "zh": "米嘉",
+      "en": "MIKA REN",
+      "position": "beside-person",
+      "assets": {
+        "zh": "cards/zh/mika.png",
+        "en": "cards/en/mika.png"
+      }
+    },
+    {
+      "id": "mika-window",
+      "shot": 6,
+      "kind": "name",
+      "start_frame": 228,
+      "end_frame": 261,
+      "start": 9.5,
+      "end": 10.875,
+      "zh": "米嘉",
+      "en": "MIKA REN",
+      "position": "beside-person",
+      "assets": {
+        "zh": "cards/zh/mika-window.png",
+        "en": "cards/en/mika-window.png"
+      }
+    },
+    {
+      "id": "noah",
+      "shot": 7,
+      "kind": "name",
+      "start_frame": 261,
+      "end_frame": 300,
+      "start": 10.875,
+      "end": 12.5,
+      "zh": "周野",
+      "en": "NOAH ZHOU",
+      "position": "beside-person",
+      "assets": {
+        "en": "cards/en/noah.png",
+        "zh": "cards/zh/noah.png"
+      }
+    },
+    {
+      "id": "title",
+      "shot": 8,
+      "kind": "title",
+      "start_frame": 300,
+      "end_frame": 372,
+      "start": 12.5,
+      "end": 15.5,
+      "zh": "现实世界",
+      "en": "DAILY REALITY",
+      "position": "center",
+      "assets": {
+        "zh": "cards/zh/title.png",
+        "en": "cards/en/title.png"
+      }
+    }
+  ],
+  "cut_frames": [
+    0,
+    33,
+    71,
+    113,
+    150,
+    188,
+    261,
+    300,
+    372
+  ]
+}

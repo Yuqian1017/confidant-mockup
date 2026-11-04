@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "batch": "R13-CAST-ANIME-CORRECTION",
+  "createdDate": "2026-09-06",
+  "generator": "Built-in image_gen tool",
+  "mode": "edit",
+  "toolCalls": 2,
+  "externalPaidApiUsed": false,
+  "modelOverrideUsed": false,
+  "originalProvenance": "provenance.json",
+  "supersedesNote": "This manifest supplies current bytes, dimensions, hashes and sources only for the two assets listed below. provenance.json remains the unchanged historical R12 record; its hashes for these two stable filenames describe the preserved originals.",
+  "assetContract": {
+    "runtime": "Companion browser/Edge app",
+    "lane": "Identity-preserving anime style correction of two existing adult cast portraits",
+    "format": "PNG",
+    "colorMode": "RGB",
+    "alphaRequired": false,
+    "requestedWidth": 1122,
+    "requestedHeight": 1402,
+    "requestedAspectRatio": "approximately 4:5",
+    "composition": "Preserve each original full-image portrait, adult identity, pose, framing, costume, props and background; no UI or text.",
+    "stableUrlsPreserved": true,
+    "maximumEditsPerAsset": 1,
+    "postProcessing": "None; generated PNG bytes copied unchanged.",
+    "sourceRightsNote": "Existing project-original fictional character images from R12, edited with the built-in tool. No third-party character reference, purchased asset, new model selection or new license claim."
+  },
+  "styleReference": {
+    "id": "talisman-tang-zhu",
+    "file": "talisman-tang-zhu.png",
+    "path": "/Users/junshi/CC projects/Codex Projects/phone-story-edge-app/prototype/public/assets/phone-story/native-cast-r12/talisman-tang-zhu.png",
+    "role": "Style only; not an identity, costume, pose or background source",
+    "sha256": "d92931dccfa2d0d6912ee001aed04d4a91b6db744bf0fb5e797f797f09dba8a6",
+    "inspectedWithViewImageBeforeEditing": true
+  },
+  "verification": {
+    "evidenceLevel": "PNG structure/full pixel decoding, byte-level SHA-256, source-preservation checks and author visual comparison of originals, Tang Zhu reference and copied replacements.",
+    "pngVerifyAndFullDecodePassed": true,
+    "bothTargetsInspectedWithViewImageBeforeEditing": true,
+    "bothCopiedReplacementsInspectedWithViewImage": true,
+    "generatedSourceAndInstalledBytesMatch": true,
+    "originalGeneratedSourcesPreservedAndHashMatched": true,
+    "originalProvenanceAndOtherSixCastImagesHashUnchangedDuringCopy": true,
+    "independentVisualReview": "Pending parent reviewer",
+    "applicationBuild": "Not run; assigned to parent",
+    "browserOrRuntimePresentation": "Not tested in this bounded art task"
+  },
+  "qualityReview": {
+    "status": "Installed for independent re-review; no numeric quality score or final art approval claimed.",
+    "observedBenefit": "Both faces now use clean drawn contours and flatter cel shadow shapes, with markedly less photographic skin and nose/lip volume. The adult martial cast identities, principal costumes, props and original setting compositions remain recognizable.",
+    "observedConstraints": "No UI, lettering, watermark, added character, decorative bokeh or orb observed. Both original hand crops are preserved; no hands were invented.",
+    "residuals": [
+      "Cel shadows and linework are harder and flatter than the softer painted transitions in Tang Zhu; uniform cast rendering remains subject to independent comparison.",
+      "Anime translation slightly sharpens the facial contours, particularly Yue Changning's chin and jaw. Exact face identity preservation needs the independent reviewer.",
+      "Fine embroidery, armor ornament and background surface detail are redrawn, not pixel-identical; warm face color and filled lip highlights remain visible."
+    ]
+  },
+  "assets": [
+    {
+      "id": "swordkeeper-pei-zhaoyue",
+      "file": "swordkeeper-pei-zhaoyue.png",
+      "stableUrl": "/assets/phone-story/native-cast-r12/swordkeeper-pei-zhaoyue.png",
+      "originalSource": {
+        "generatedSource": "/Users/junshi/.codex/generated_images/01a074df-2310-7b71-8d23-74e2efd9e889/exec-5e382555-a656-4736-9340-ff72686212af.png",
+        "preserved": true,
+        "sha256": "3c700d116e30e3cde3a86f4bd77f8c64f315afc32cfc458588c8ae7163b59198",
+        "bytes": 2306305,
+        "width": 1122,
+        "height": 1402
+      },
+      "pei0171": {
+        "decidedBy": "owner 2026-10-12: 「选\"雨后\"……把\"雨后\"作为主力绘」; skin brought to the card's olive (note he did not object to: 「我会按卡面设定把肤色调回橄榄色」)",
+        "candidate": "work/materials-sprint-20261004/cg-unified/pei-card-candidates-20261011/pei-zhaoyue-rain-candidate.png (codex-lv2-facts worktree; built-in imagegen, refs: owner-style-ref-pei-20261011.webp + the r13 card), sha256 4c42e3b32ca0d0e8eeb6cc1eb6f34eb0d0b4f62664bee8969d55ab6ed53e94b6",
+        "skinEdit": "two gpt-image-2.5 edits of the candidate (sunburst, flare; prompt in docs/evidence/pei0171/RESULTS.md); their skin tone averaged in Lab and applied to the candidate inside a soft skin mask (face, ears, neck, hand) as a low-frequency colour shift only, so every line and detail is the candidate's and every pixel outside the mask is the candidate's own (scripts/dev/pei0171/skin/)",
+        "skinLabMedian": {
+          "candidate": {
+            "L": 51.1,
+            "C": 22.8,
+            "h": 46.2
+          },
+          "chosen": {
+            "L": 43.4,
+            "C": 29,
+            "h": 56.3
+          },
+          "card_r13": {
+            "L": 62.6,
+            "C": 39.1,
+            "h": 59.2
+          }
+        }
+      },
+      "bytes": 3693882,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "be0fad3c4f3f3cb1658dfb391b3eef7ce826f3996d602976a3a2b05414a0be59",
+      "replaced": {
+        "batch": "R13-CAST-ANIME-CORRECTION",
+        "sha256": "8e0e8ec7632a57aa356981c0803de4375ee35a29e3478bd5fecf677e1c6894a6",
+        "bytes": 2501686,
+        "generatedSource": "/Users/junshi/.codex/generated_images/01a076e9-9e83-7d33-9cb1-b76bb118f83d/exec-064ff616-7852-4cda-adf5-edd797a04231.png",
+        "note": "the r13 portrait, replaced by pei0171 on 2026-10-12"
+      }
+    },
+    {
+      "id": "gate-captain-yue-changning",
+      "file": "gate-captain-yue-changning.png",
+      "stableUrl": "/assets/phone-story/native-cast-r12/gate-captain-yue-changning.png",
+      "generatedSource": "/Users/junshi/.codex/generated_images/01a076e9-9e83-7d33-9cb1-b76bb118f83d/exec-3e951413-6755-4dca-8dc8-792be0d27196.png",
+      "promptSubject": "Yue Changning, 35-year-old East Asian adult woman, candid captain of the Southern Palace Gate Guard. Broad mature face and pronounced cheekbones, warm brown skin, heavy straight eyebrows, grey-brown eyes, dark hair swept tightly into HIGH compact bun, crimson scarf, dark green lamellar ceremonial armor, no weapon drawn. Palace gate and sunlit red doors. Direct reassuring gaze, faint smile.",
+      "originalSource": {
+        "generatedSource": "/Users/junshi/.codex/generated_images/01a074df-2310-7b71-8d23-74e2efd9e889/exec-3ab2b9d9-8056-4748-9ceb-e9d2870cb87d.png",
+        "preserved": true,
+        "sha256": "cdeacc9a100c3a8aa1f8c5345761c775895b1e71abc907b3ac352ace3ef41eb5",
+        "bytes": 2227213,
+        "width": 1122,
+        "height": 1402
+      },
+      "editCalls": 1,
+      "editPrompt": "Use case: style-transfer with strict identity preservation.\nAsset: Companion native cast portrait, original fictional adult character. Produce exactly ONE edited full image, portrait 1122 x 1402 pixels requested, approximately 4:5, no UI, no lettering, no watermark.\nInput 1 is the EDIT TARGET: gate captain Yue Changning. Input 2 is STYLE REFERENCE ONLY: talisman maker Tang Zhu. Redraw Input 1 in the same beautiful, lavish romantic anime illustration family as Input 2, with emphatically clean anime cel rendering. Never copy Tang Zhu's identity, age, expression, costume, props or setting.\nPreserve Yue's distinct adult identity: a 35-year-old East Asian woman with a broad mature face, pronounced cheekbones, warm brown complexion, heavy straight eyebrows, grey-brown almond eyes, direct reassuring gaze and faint confident closed-mouth smile. Preserve recognizable head silhouette, facial feature placement and mature proportions while translating them into clean anime line art. Keep her visibly adult, composed and strong.\nLock the exact source composition: dark swept-up hair in the same high compact bun and existing ornate gold bun band, same loose framing strands and small stud earrings; same crimson scarf folds and wrap, dark green lamellar ceremonial armor, every major gold relief shoulder guard/fastener, red tassel and plate arrangement; same stance, upper body angle and natural shoulder anatomy. Keep the palace gate setting with red doors and brass studs/knocker on viewer-right, courtyard tower at viewer-left, daylight through the gate, same warm direction of sunlight. Preserve source crop/headroom and torso framing, relative face size and all armor placement. Hands and weapons are outside the original composition: preserve that crop, do not add visible hands or draw a weapon.\nChange the rendering, especially face/skin/lips: confident fine anime contour lines, smooth flat warm-brown local skin color, controlled two- or three-tone cel shadow shapes, illustrated eye contours and luminous anime irises, simplified elegant nose with minimal planar shading, delicate natural-color anime mouth line with understated lip fill. Maintain her face width, cheekbones, adult eyes and warm brown complexion; no whitening, infantilization or generic doll face. Use grouped inked hair strands and crisp illustrated highlights. Render armor as richly designed drawn green plates and gold ornament with broad deliberate shadow/highlight shapes; preserve lavish costume detail without photographic material noise. Render the same readable palace setting as a rich anime background.\nExclude photographic skin pores, skin grain, realistic wet or volumetric lips, glossy beauty portrait finish, photoreal face modeling, 3D render shading and doll faces. Do not redesign, change expression, enlarge eyes disproportionately, de-age, add jewelry/props/characters, reveal more skin, add bokeh/orbs/sparkles/lens blur, remove costume details, change pose, zoom, crop, add borders or text.",
+      "bytes": 2388031,
+      "width": 1122,
+      "height": 1402,
+      "sha256": "d89f5709d431ed2fdf693f5fe34c472466e040b1f4741b5dee803df3206678ec",
+      "visualComparison": "High bun and gold band, dark brows, mature expression, warm brown face, crimson scarf, green/gold lamellar armor, red gate and courtyard remain recognizable. Skin shading is now drawn in broad cel planes; chin/jaw appear slightly sharper, and armor ornament is redrawn."
+    }
+  ]
+}
