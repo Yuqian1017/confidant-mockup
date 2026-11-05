@@ -1,0 +1,38 @@
+{
+  "sourceCommit": "d8283dc7de8478e3f44f350a1148db21734f324d",
+  "builtAt": "2026-11-05T18:07:31.599Z",
+  "version": "v3",
+  "replaced": true,
+  "previousSite": "/private/tmp/designmock0215-out/run-e3wN1k/published",
+  "versions": [
+    {
+      "id": "v1",
+      "skin": "rose-quill",
+      "version": "v1-ae59c2bd59",
+      "label": "版本 v1 · 11-04 原版",
+      "note": "最初发布的版本；保留原有界面、功能和示例进度。",
+      "app": "./v1/app.html",
+      "appSha256": "924c8ae76d251f88326b895dc421a44ae74529e18be6a95927f018677ae610e9"
+    },
+    {
+      "id": "v2",
+      "skin": "frosted-glass",
+      "version": "v2-d8c91ae033",
+      "label": "版本 v2 · 11-04 iOS 皮肤极简",
+      "note": "磨砂玻璃（iOS）皮肤：去掉小猫；输入框一行（左边 +、框里话筒、有字变发送）；顶栏一行；顶栏保留举报入口；电脑端保留底部留白；通知引导说明同步更新",
+      "app": "./v2/app.html",
+      "appSha256": "a3d19bfb2dba4f41a9f25ffe6d1125e9de5d29697e781900631435af9c21933b"
+    },
+    {
+      "id": "v3",
+      "version": "v3-c1f5621580",
+      "label": "v3 · 11-05 最新 · 更新于 12:07",
+      "note": "角色页换上各自的房间，聊天和商店可直接送礼。周予辰新增作家版本，熟悉的旧版角色与聊天记录可以保留、归档和找回。磨砂玻璃界面更简洁，输入时举报按钮让开，开场回复可横向滑动，回复灵感能正常打开；首页的小屏排版和深色文字更清楚，约会返回、通话和聊天顶栏也调整了位置与留白。底部导航、首页新动态、通话声音选择和五子棋关卡均可体验。顶部可打开功能地图。",
+      "skin": "frosted-glass",
+      "app": "./v3/app.html",
+      "head": "d8283dc7de8478e3f44f350a1148db21734f324d",
+      "date": "2026-11-05T18:07:31.599Z",
+      "appSha256": "cff0d26e70cd82c7d22874984608c3ee184ff39680811632a8f64ee014f66312"
+    }
+  ]
+}
