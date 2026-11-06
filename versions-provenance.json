@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "bddc592cc46bbd14496d7af55380ef28859c67ec",
-  "builtAt": "2026-11-06T17:03:42.543Z",
-  "version": "v4",
+  "sourceCommit": "99a5a86db6a9c3435877c8cf95a6dde6fd93a83a",
+  "builtAt": "2026-11-06T22:44:47.289Z",
+  "version": "v5",
   "replaced": false,
-  "previousSite": "/private/tmp/designmock0215-out/run-UrrMmI/published",
+  "previousSite": "/private/tmp/designmock0215-out/run-9nPNFg/published",
   "versions": [
     {
       "id": "v1",
@@ -44,6 +44,17 @@
       "head": "bddc592cc46bbd14496d7af55380ef28859c67ec",
       "date": "2026-11-06T17:03:42.543Z",
       "appSha256": "57c7ff693691306de7e8ced8e3c5e126cd42730692b394aa86f87bc9c01f21f9"
+    },
+    {
+      "id": "v5",
+      "version": "v5-99a5a86db6",
+      "label": "v5",
+      "note": "Meet 回到 v3 的样子（顶上两块创建入口和信鸽一长条，下面按世界分栏的横排卡，「创建你自己的世界」换成生成的地图书）；首页右侧栏最后一项是「新内容」、Apps 在它上面一格；建角色的泡泡不再飘，停 10–15 秒整组换，右上角一个小刷新键；美术数字在安装包里正常显示，设置页版本戳避开弧线，Apps 教程指第一排，检查更新按钮带皮肤，更新弹窗去掉中间的空白",
+      "skin": "frosted-glass",
+      "app": "./v5/app.html",
+      "head": "99a5a86db6a9c3435877c8cf95a6dde6fd93a83a",
+      "date": "2026-11-06T22:44:47.289Z",
+      "appSha256": "83048d2e0649f72daacf0e452be2ed9f5c557215fc4533b0c09901171c9bd946"
     }
   ]
 }
