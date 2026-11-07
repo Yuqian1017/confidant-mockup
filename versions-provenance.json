@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "99a5a86db6a9c3435877c8cf95a6dde6fd93a83a",
-  "builtAt": "2026-11-06T22:44:47.289Z",
-  "version": "v5",
+  "sourceCommit": "60ee33d1513575843688da1ad582016b75ddfbd0",
+  "builtAt": "2026-11-07T05:55:43.829Z",
+  "version": "v6",
   "replaced": false,
-  "previousSite": "/private/tmp/designmock0215-out/run-9nPNFg/published",
+  "previousSite": "/private/tmp/designmock0215-out/run-TLa07Z/published",
   "versions": [
     {
       "id": "v1",
@@ -55,6 +55,17 @@
       "head": "99a5a86db6a9c3435877c8cf95a6dde6fd93a83a",
       "date": "2026-11-06T22:44:47.289Z",
       "appSha256": "83048d2e0649f72daacf0e452be2ed9f5c557215fc4533b0c09901171c9bd946"
+    },
+    {
+      "id": "v6",
+      "version": "v6-60ee33d151",
+      "label": "v6",
+      "note": "磨砂玻璃皮肤的设置页照 iPhone「设置」重做（分组白卡、彩色方块图标、大标题，电脑上是带圆角的面板）；好感 +N 的小信封在聊天顶部占自己的位置，不再压住消息；带上 0.20.16 发出的修复（信纸纹理比例、五子棋磨砂样式、启动缓慢时恢复操作常驻、首页工具和更新简介贴合页面）",
+      "skin": "frosted-glass",
+      "app": "./v6/app.html",
+      "head": "60ee33d1513575843688da1ad582016b75ddfbd0",
+      "date": "2026-11-07T05:55:43.829Z",
+      "appSha256": "869f7eed6e69bb84ce5425138a9504b492a33cb9947834c38b6d36f618e0bf48"
     }
   ]
 }
