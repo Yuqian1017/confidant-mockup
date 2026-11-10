@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "60ee33d1513575843688da1ad582016b75ddfbd0",
-  "builtAt": "2026-11-07T05:55:43.829Z",
-  "version": "v6",
+  "sourceCommit": "2b2cb70ccbc8a76adf71741604139879b10c849b",
+  "builtAt": "2026-11-10T03:07:23.209Z",
+  "version": "v7",
   "replaced": false,
-  "previousSite": "/private/tmp/designmock0215-out/run-TLa07Z/published",
+  "previousSite": "/private/tmp/designmock0215-out/run-zzbBLe/published",
   "versions": [
     {
       "id": "v1",
@@ -66,6 +66,17 @@
       "head": "60ee33d1513575843688da1ad582016b75ddfbd0",
       "date": "2026-11-07T05:55:43.829Z",
       "appSha256": "869f7eed6e69bb84ce5425138a9504b492a33cb9947834c38b6d36f618e0bf48"
+    },
+    {
+      "id": "v7",
+      "version": "v7-2b2cb70ccb",
+      "label": "v7",
+      "note": "每位朋友都有了书房：点认识的角色的头像进他的房间，点房间里的东西就能聊天、打电话、送礼、读日记、开衣橱。开局从九张大角色卡里选第一位朋友，新朋友有 Emil、姜时允、滨田结衣、Sloane、丹特。小游戏多了十款。陪伴圈可以发自己的照片。没有专属 CG 的约会，人物站在画好的地方前面。这一版对应线上 0.20.19。",
+      "skin": "frosted-glass",
+      "app": "./v7/app.html",
+      "head": "2b2cb70ccbc8a76adf71741604139879b10c849b",
+      "date": "2026-11-10T03:07:23.209Z",
+      "appSha256": "8e9a2a71cc394665c537eddb395c4336b86641f79aaf6623e8c46b43ba5d08ff"
     }
   ]
 }
