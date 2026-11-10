@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "2b2cb70ccbc8a76adf71741604139879b10c849b",
-  "builtAt": "2026-11-10T03:07:23.209Z",
-  "version": "v7",
+  "sourceCommit": "308c3d429c1021ce6e9d6391fee1308d21b8030b",
+  "builtAt": "2026-11-10T14:58:16.616Z",
+  "version": "v8",
   "replaced": false,
-  "previousSite": "/private/tmp/designmock0215-out/run-zzbBLe/published",
+  "previousSite": "/private/tmp/designmock0215-out/run-AuetDk/published",
   "versions": [
     {
       "id": "v1",
@@ -77,6 +77,17 @@
       "head": "2b2cb70ccbc8a76adf71741604139879b10c849b",
       "date": "2026-11-10T03:07:23.209Z",
       "appSha256": "8e9a2a71cc394665c537eddb395c4336b86641f79aaf6623e8c46b43ba5d08ff"
+    },
+    {
+      "id": "v8",
+      "version": "v8-308c3d429c",
+      "label": "v8",
+      "note": "Design mock-up v8 (2026-11-10). New since v7:\n- Tutorials after the opening are lighter: one card per topic, one screen, no scrolling at phone width; a tip that asks for nothing closes on a tap anywhere.\n- A new friend in the first world and the opening deck: Mike Stewart (founder of Stewart Works).\n- Apps page title: the ornament line no longer runs through the title under a status band.\n- Characters in date scenes now stand on clean cut-out art.\nComments carry over from every earlier version.",
+      "skin": "frosted-glass",
+      "app": "./v8/app.html",
+      "head": "308c3d429c1021ce6e9d6391fee1308d21b8030b",
+      "date": "2026-11-10T14:58:16.616Z",
+      "appSha256": "493965e037ea7332011f208b9bbc2218b1772913226d5732ef606e52e7c11734"
     }
   ]
 }
