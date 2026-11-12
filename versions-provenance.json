@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "308c3d429c1021ce6e9d6391fee1308d21b8030b",
-  "builtAt": "2026-11-10T14:58:16.616Z",
-  "version": "v8",
+  "sourceCommit": "9ead11406e0cf94576e9861a4a35c571106efb6f",
+  "builtAt": "2026-11-12T06:57:34.620Z",
+  "version": "v9",
   "replaced": false,
-  "previousSite": "/private/tmp/designmock0215-out/run-AuetDk/published",
+  "previousSite": "/private/tmp/designmock0215-out/run-ASo3VE/published",
   "versions": [
     {
       "id": "v1",
@@ -88,6 +88,17 @@
       "head": "308c3d429c1021ce6e9d6391fee1308d21b8030b",
       "date": "2026-11-10T14:58:16.616Z",
       "appSha256": "493965e037ea7332011f208b9bbc2218b1772913226d5732ef606e52e7c11734"
+    },
+    {
+      "id": "v9",
+      "version": "v9-9ead11406e",
+      "label": "v9",
+      "note": "点电池或能量用完时弹出的能量说明换成了烫金信笺：分享或发帖、邀请朋友都能在信里一步步完成，手机上网址一行显示完整，内容放不下时右下角有箭头提示还能往下看。约会画面的背景铺到屏幕底边，对话框和右下角的问题按钮分开了；约会地点列表的标题避开人物头发，下载提示写明是哪个世界、有多大。日记里的中文不再把词断在两行，浅色皮肤下右下角的问题按钮也看得清了。第一次出现的下载提示可以点「以后再说」关掉，生日提醒不会再盖在侧边栏上。",
+      "skin": "frosted-glass",
+      "app": "./v9/app.html",
+      "head": "9ead11406e0cf94576e9861a4a35c571106efb6f",
+      "date": "2026-11-12T06:57:34.620Z",
+      "appSha256": "4ae639196c353ed54286bc89aec0889b2b84b921b501c9114e32f73b651fcd88"
     }
   ]
 }
