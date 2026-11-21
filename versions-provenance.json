@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "9ead11406e0cf94576e9861a4a35c571106efb6f",
-  "builtAt": "2026-11-12T06:57:34.620Z",
-  "version": "v9",
+  "sourceCommit": "6dbc898b1f820f263634784b39f5095efb87b45f",
+  "builtAt": "2026-11-21T09:46:10.598Z",
+  "version": "v10",
   "replaced": false,
-  "previousSite": "/private/tmp/designmock0215-out/run-ASo3VE/published",
+  "previousSite": "/private/tmp/mocksl0223-out/build/run-3fJ51z/published",
   "versions": [
     {
       "id": "v1",
@@ -99,6 +99,17 @@
       "head": "9ead11406e0cf94576e9861a4a35c571106efb6f",
       "date": "2026-11-12T06:57:34.620Z",
       "appSha256": "4ae639196c353ed54286bc89aec0889b2b84b921b501c9114e32f73b651fcd88"
+    },
+    {
+      "id": "v10",
+      "version": "v10-6dbc898b1f",
+      "label": "v10 Summer Land: romance + second friend",
+      "note": "先点「新流程预览」，选「初识暧昧与温柔提示」，发两次「我喜欢你」，看看角色的回应和轻提示。\n选「确认关系」，试试在一起或做朋友。\n选「第5条消息前」再发一句话，接受新朋友后去聊天列表切换；选「快进7分钟」看看第三位朋友，再点「认识」。\n这些入口会载入一次性体验进度，方便直接试到对应场景。",
+      "skin": "frosted-glass",
+      "app": "./v10/app.html",
+      "head": "6dbc898b1f820f263634784b39f5095efb87b45f",
+      "date": "2026-11-21T09:46:10.598Z",
+      "appSha256": "8470f63accae617b2d8b850ef5f962079ff30c66c991c34b78fcddd748f31487"
     }
   ]
 }
