@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "1ec4615a76caed386fe8b23848e28f093f1561b6",
-  "builtAt": "2026-11-22T01:20:10.298Z",
-  "version": "v11",
-  "replaced": true,
-  "previousSite": "/private/tmp/mocksl0223b-out/build/run-fGmm0G/published",
+  "sourceCommit": "0333602b17f760b61c5c936305d6015a898fdcef",
+  "builtAt": "2026-11-22T13:02:49.031Z",
+  "version": "v12",
+  "replaced": false,
+  "previousSite": "/private/tmp/mocksl0223c-out/build/run-0Vy8uG/published",
   "versions": [
     {
       "id": "v1",
@@ -121,6 +121,17 @@
       "head": "1ec4615a76caed386fe8b23848e28f093f1561b6",
       "date": "2026-11-22T01:20:10.298Z",
       "appSha256": "b3c7200b046eff6366d4c1e21ef9fe42ee3df338c52e6678a29463fb5a00c51b"
+    },
+    {
+      "id": "v12",
+      "version": "v12-0333602b17",
+      "label": "v12 Summer Land: version 10 fixes",
+      "note": "这一版让长回复从第一行开始阅读，回复灵感和＋面板也会给最新回复留出空间，磨砂玻璃的聊天文字更清楚。\n在「新流程预览」选择「读完回复后升至 Lv2」，读完回复并离开输入框后，升级卡才会出现；这个入口只为演示准备。\n选择「第一次聊天」查看开场和 All set；选择「教程后下载选择」查看统一的小数容量、Wi-Fi 建议与模拟下载爱心，旧版各流程仍可体验。",
+      "skin": "frosted-glass",
+      "app": "./v12/app.html",
+      "head": "0333602b17f760b61c5c936305d6015a898fdcef",
+      "date": "2026-11-22T13:02:49.031Z",
+      "appSha256": "348f6d72aab07161232b92b83de8e0b54b87654e9b1e787f176deecf29a3e570"
     }
   ]
 }
