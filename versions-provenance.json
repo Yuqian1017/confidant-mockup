@@ -1,9 +1,9 @@
 {
   "sourceCommit": "1ec4615a76caed386fe8b23848e28f093f1561b6",
-  "builtAt": "2026-11-22T00:43:58.512Z",
+  "builtAt": "2026-11-22T01:20:10.298Z",
   "version": "v11",
-  "replaced": false,
-  "previousSite": "/private/tmp/mocksl0223b-out/build/run-dDlkUh/published",
+  "replaced": true,
+  "previousSite": "/private/tmp/mocksl0223b-out/build/run-fGmm0G/published",
   "versions": [
     {
       "id": "v1",
@@ -114,13 +114,13 @@
     {
       "id": "v11",
       "version": "v11-1ec4615a76",
-      "label": "v11 Summer Land: batch 9 fixes + download prompt",
+      "label": "v11 Summer Land: batch 9 fixes + download prompt · 更新于 19:20",
       "note": "这一版整理了首聊回复、两行灵感和磨砂玻璃顶栏，「可以开始啦」会简短出现一次。\n点上方「新流程预览 → 第一次聊天」试首聊；选「教程后下载选择」可直接看三种下载选择。\n选择下载后，点侧边的小爱心查看模拟进度；设置 → 数据与隐私 → 世界资源包也能更改选择。\n上一版的暧昧、关系确认和新朋友预览仍在同一菜单里。",
       "skin": "frosted-glass",
       "app": "./v11/app.html",
       "head": "1ec4615a76caed386fe8b23848e28f093f1561b6",
-      "date": "2026-11-22T00:43:58.512Z",
-      "appSha256": "e7435cf8756f00a1f24717ba39b8cfbad633cafd8e0a4c7718d95c0919c4d1f7"
+      "date": "2026-11-22T01:20:10.298Z",
+      "appSha256": "b3c7200b046eff6366d4c1e21ef9fe42ee3df338c52e6678a29463fb5a00c51b"
     }
   ]
 }
