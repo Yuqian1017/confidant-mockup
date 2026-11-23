@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "e71aaa65f8396ed93409fbb472ab934a0297fa01",
-  "builtAt": "2026-11-22T23:13:33.143Z",
-  "version": "v13",
+  "sourceCommit": "7a9a2ad6b7a735a29bbdc50926cf0a3dbed34862",
+  "builtAt": "2026-11-23T04:13:34.858Z",
+  "version": "v14",
   "replaced": true,
-  "previousSite": "/private/tmp/mocksl0223d-out/r2/build/run-pD0YFk/published",
+  "previousSite": "/private/tmp/mocksl0223f-out/build/run-kkwU2J/published",
   "versions": [
     {
       "id": "v1",
@@ -143,6 +143,17 @@
       "head": "e71aaa65f8396ed93409fbb472ab934a0297fa01",
       "date": "2026-11-22T23:13:33.143Z",
       "appSha256": "42d8a65ec5664203198d5b857899c14dab6460cded334b5cdaaac6917d971d94"
+    },
+    {
+      "id": "v14",
+      "version": "v14-7a9a2ad6b7",
+      "label": "v14 Summer Land: version 13 · 更新于 22:13",
+      "note": "聊天页的返回按钮移到头像左侧，磨砂玻璃保持原样。打开「新流程预览」中的单聊或群聊，切换模拟键盘即可查看。\n设置 → 数据与隐私中的下载说明现在按完整词语换行，可切换中文查看。\n长回复、读完后升至 Lv2、第一次聊天和模拟下载入口继续保留。",
+      "skin": "frosted-glass",
+      "app": "./v14/app.html",
+      "head": "7a9a2ad6b7a735a29bbdc50926cf0a3dbed34862",
+      "date": "2026-11-23T04:13:34.858Z",
+      "appSha256": "fb955e54526476f037f4c6ec07b7f9de25b399e4b9015b51895a379442392be3"
     }
   ]
 }
