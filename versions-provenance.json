@@ -1,9 +1,9 @@
 {
-  "sourceCommit": "0333602b17f760b61c5c936305d6015a898fdcef",
-  "builtAt": "2026-11-22T13:02:49.031Z",
-  "version": "v12",
-  "replaced": false,
-  "previousSite": "/private/tmp/mocksl0223c-out/build/run-0Vy8uG/published",
+  "sourceCommit": "e71aaa65f8396ed93409fbb472ab934a0297fa01",
+  "builtAt": "2026-11-22T23:13:33.143Z",
+  "version": "v13",
+  "replaced": true,
+  "previousSite": "/private/tmp/mocksl0223d-out/r2/build/run-pD0YFk/published",
   "versions": [
     {
       "id": "v1",
@@ -132,6 +132,17 @@
       "head": "0333602b17f760b61c5c936305d6015a898fdcef",
       "date": "2026-11-22T13:02:49.031Z",
       "appSha256": "348f6d72aab07161232b92b83de8e0b54b87654e9b1e787f176deecf29a3e570"
+    },
+    {
+      "id": "v13",
+      "version": "v13-e9d64ec55c",
+      "label": "v13 Summer Land: versions 11–12 fixes · 更新于 17:13",
+      "note": "这一版带来 Summer Land 第 11–12 版的聊天修复：键盘打开时，长回复从聊天标题下方第一行开始。\n在「新流程预览」选单聊或群聊键盘，点「键盘开关」和「长回复」，读到底后点「下一条」，可查看继续跟随。\n群聊输入框和发送键保持在键盘上方；上版的首次聊天、读完升至 Lv2 和下载预览仍在同一菜单。",
+      "skin": "frosted-glass",
+      "app": "./v13/app.html",
+      "head": "e71aaa65f8396ed93409fbb472ab934a0297fa01",
+      "date": "2026-11-22T23:13:33.143Z",
+      "appSha256": "42d8a65ec5664203198d5b857899c14dab6460cded334b5cdaaac6917d971d94"
     }
   ]
 }
